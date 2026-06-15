@@ -1,0 +1,16 @@
+# Chemically-Induced Disorders Datasets List
+
+## 📂 Disease Category Description
+> **Official English Name**: Chemically-Induced Disorders
+>
+> **Category Definition & Overview**: No description available.
+
+---
+
+💡 *This file contains curated high-quality datasets for 'Chemically-Induced Disorders', automatically synchronized daily. Up to 100 core datasets are showcased here.*
+
+[← Back to README](README.md) | [🌐 View on QianfangHub](https://qianfanghub.com/dataset/chemically-induced-disorders)
+
+| Dataset Name (CN/EN) | Short Description | Download/Source Link | Data Size | Modality |
+| :--- | :--- | :--- | :--- | :--- |
+| No datasets found | No description available | - | - | - |
