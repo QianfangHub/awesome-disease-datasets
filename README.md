@@ -164,11 +164,6 @@ To break the stereotype that “medical data is unattainable” in research and 
 | 22 | **化学诱发性障碍** | [化学诱发性障碍 视图](chemically-induced-disorders-cn.md) | [前往查看](https://qianfanghub.com/dataset/chemically-induced-disorders) |
 | 23 | **创伤与损伤** | [创伤与损伤 视图](wounds-and-injuries-cn.md) | [前往查看](https://qianfanghub.com/dataset/wounds-and-injuries) |
 
-## 🛠️ Automated Refresh / 自动化刷新说明
-This repository is fully automated by a Python script executed daily via `crontab`. It fetches the latest production database, cleans table conflicts, and re-generates 47 Markdown views before pushing them to GitHub.
-
-本仓库由 Python 脚本驱动，每天通过 `crontab` 定时任务自动读取最新数据库，清洗后重新构建 47 个 Markdown 视图文件并自动推送到 GitHub 仓库。
-
 ## 🤝 Contribution & Feedback / 贡献与反馈
 If you would like to recommend high-quality medical datasets or report issues, feel free to open an **Issue** or submit a **Pull Request**.
 如果您有高质量的医疗数据集推荐，或者发现数据中存在任何错漏，欢迎提交 **Issue** 或 **Pull Request**。
