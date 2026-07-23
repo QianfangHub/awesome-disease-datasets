@@ -68,8 +68,8 @@
 | **COPD基因流行病学数据集** <br>*(COPDGene Study (dbGaP phs000179))* | COPDGene是针对COPD的大型队列数据集，包含胸部CT影像、肺功能检测、基因组数据与临床表型信息，广泛用于慢阻肺及α1-抗胰蛋白酶缺乏症相关机制与遗传学研究。 | [点击下载/查看](https://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/study.cgi?study_id=phs000179.v6.p2) | `未知` | `多模态` |
 | **COPD基因研究影像数据库** <br>*(COPDGene Study)* | COPDGene 提供COPD患者的胸部CT影像及临床与遗传信息，可用于肺结构异常分析与呼吸系统疾病研究，在支气管扩张影像特征识别与分型研究中具有参考价值。 | [点击下载/查看](https://www.copdgene.org/) | `未知` | `图像` |
 | **COPD基因研究数据库** <br>*(COPDGene Study)* | COPDGene提供肺部影像、肺功能与临床数据，主要研究COPD，但覆盖慢性支气管炎与哮喘相关表型，可用于呼吸疾病机制分析与影像建模。 | [点击下载/查看](https://www.copdgene.org/) | `20.00` | `多模态` |
-| **COPD基因研究队列数据集** <br>*(COPDGene Study)* | COPDGene 是典型的小气道疾病研究数据集，涵盖吸烟人群胸部CT影像、肺功能测试及基因组信息，主要用于COPD及细支气管病变的机制分析、影像组学研究与疾病进展预测。 | [点击下载/查看](https://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/study.cgi?study_id=phs000179.v6.p2) | `1200.00` | `多模态` |
 | **COPD基因研究队列数据集** <br>*(COPDGene)* | COPDGene是经典慢阻肺与慢性支气管炎相关队列数据集，涵盖吸烟人群的肺功能、胸部CT影像、临床问卷及基因组信息，广泛用于疾病分型、影像分析及遗传机制研究。 | [点击下载/查看](https://www.copdgene.org/) | `未知` | `多模态` |
+| **COPD基因研究队列数据集** <br>*(COPDGene Study)* | COPDGene 是典型的小气道疾病研究数据集，涵盖吸烟人群胸部CT影像、肺功能测试及基因组信息，主要用于COPD及细支气管病变的机制分析、影像组学研究与疾病进展预测。 | [点击下载/查看](https://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/study.cgi?study_id=phs000179.v6.p2) | `1200.00` | `多模态` |
 | **COPD基金会患者登记与研究数据集** <br>*(COPD Foundation Patient-Powered Research Network)* | COPD Foundation患者研究网络数据集收集慢阻肺患者自述健康状况、症状及治疗信息，用于真实世界研究、患者管理优化及疾病负担分析。 | [点击下载/查看](https://www.copdfoundation.org/) | `未知` | `表格` |
 | **COPD患者研究网络数据集** <br>*(COPD Foundation PPRN)* | COPD患者研究网络整合患者自报告与临床数据，包括症状、用药及肺功能信息，用于慢阻肺及相关呼吸系统疾病研究与真实世界分析。 | [点击下载/查看](https://www.copdfoundation.org/) | `未知` | `表格` |
 | **COPD长期随访临床研究数据集** <br>*(ECLIPSE Study)* | ECLIPSE数据集是COPD及慢性支气管炎患者的长期随访研究数据，包含临床症状、肺功能变化及生物标志物，用于分析疾病进展与预后预测。 | [点击下载/查看](https://www.eclipse-copd.com/) | `未知` | `表格` |
