@@ -68,8 +68,8 @@
 | **COPD基因流行病学数据集** <br>*(COPDGene Study (dbGaP phs000179))* | COPDGene是针对COPD的大型队列数据集，包含胸部CT影像、肺功能检测、基因组数据与临床表型信息，广泛用于慢阻肺及α1-抗胰蛋白酶缺乏症相关机制与遗传学研究。 | [点击下载/查看](https://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/study.cgi?study_id=phs000179.v6.p2) | `未知` | `多模态` |
 | **COPD基因研究影像数据库** <br>*(COPDGene Study)* | COPDGene 提供COPD患者的胸部CT影像及临床与遗传信息，可用于肺结构异常分析与呼吸系统疾病研究，在支气管扩张影像特征识别与分型研究中具有参考价值。 | [点击下载/查看](https://www.copdgene.org/) | `未知` | `图像` |
 | **COPD基因研究数据库** <br>*(COPDGene Study)* | COPDGene提供肺部影像、肺功能与临床数据，主要研究COPD，但覆盖慢性支气管炎与哮喘相关表型，可用于呼吸疾病机制分析与影像建模。 | [点击下载/查看](https://www.copdgene.org/) | `20.00` | `多模态` |
-| **COPD基因研究队列数据集** <br>*(COPDGene)* | COPDGene是经典慢阻肺与慢性支气管炎相关队列数据集，涵盖吸烟人群的肺功能、胸部CT影像、临床问卷及基因组信息，广泛用于疾病分型、影像分析及遗传机制研究。 | [点击下载/查看](https://www.copdgene.org/) | `未知` | `多模态` |
 | **COPD基因研究队列数据集** <br>*(COPDGene Study)* | COPDGene 是典型的小气道疾病研究数据集，涵盖吸烟人群胸部CT影像、肺功能测试及基因组信息，主要用于COPD及细支气管病变的机制分析、影像组学研究与疾病进展预测。 | [点击下载/查看](https://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/study.cgi?study_id=phs000179.v6.p2) | `1200.00` | `多模态` |
+| **COPD基因研究队列数据集** <br>*(COPDGene)* | COPDGene是经典慢阻肺与慢性支气管炎相关队列数据集，涵盖吸烟人群的肺功能、胸部CT影像、临床问卷及基因组信息，广泛用于疾病分型、影像分析及遗传机制研究。 | [点击下载/查看](https://www.copdgene.org/) | `未知` | `多模态` |
 | **COPD基金会患者登记与研究数据集** <br>*(COPD Foundation Patient-Powered Research Network)* | COPD Foundation患者研究网络数据集收集慢阻肺患者自述健康状况、症状及治疗信息，用于真实世界研究、患者管理优化及疾病负担分析。 | [点击下载/查看](https://www.copdfoundation.org/) | `未知` | `表格` |
 | **COPD患者研究网络数据集** <br>*(COPD Foundation PPRN)* | COPD患者研究网络整合患者自报告与临床数据，包括症状、用药及肺功能信息，用于慢阻肺及相关呼吸系统疾病研究与真实世界分析。 | [点击下载/查看](https://www.copdfoundation.org/) | `未知` | `表格` |
 | **COPD长期随访临床研究数据集** <br>*(ECLIPSE Study)* | ECLIPSE数据集是COPD及慢性支气管炎患者的长期随访研究数据，包含临床症状、肺功能变化及生物标志物，用于分析疾病进展与预后预测。 | [点击下载/查看](https://www.eclipse-copd.com/) | `未知` | `表格` |
@@ -87,8 +87,8 @@
 | **COVID-19胸部X光数据集** <br>*(COVIDx CXR)* | COVIDx CXR 是用于COVID-19检测的胸部X光数据集，整合多来源影像数据，用于区分新冠肺炎与其他肺部疾病的自动分类任务。 | [点击下载/查看](https://github.com/lindawangg/COVID-Net) | `未知` | `图像` |
 | **COVID-19胸部影像数据集（COVIDx）** <br>*(COVIDx Dataset)* | COVIDx 是用于COVID-19检测的胸部X光影像数据集，整合多源公开医疗影像，包含正常、肺炎与新冠病例图像，广泛用于深度学习分类与辅助诊断研究。 | [点击下载/查看](https://github.com/lindawangg/COVID-Net) | `未知` | `图像` |
 | **COVIDx CT数据集** <br>*(COVIDx CT)* | COVIDx CT 是用于COVID-19诊断的胸部CT数据集，整合多来源影像数据，支持病毒性肺炎识别、肺部异常检测及深度学习医学影像研究。 | [点击下载/查看](https://github.com/haydengunraj/COVIDNet-CT) | `1.00` | `图像` |
-| **CPTAC肺腺癌蛋白质组数据集** <br>*(CPTAC-LUAD)* | CPTAC-LUAD 是肺腺癌蛋白质组数据集，结合基因组与临床信息，支持肺癌蛋白表达分析、分子机制研究及多组学整合分析与预后建模。 | [点击下载/查看](https://proteomics.cancer.gov/programs/cptac) | `10.00` | `多模态` |
 | **CPTAC肺腺癌蛋白质组数据集** <br>*(CPTAC Lung Adenocarcinoma)* | 该数据集提供肺腺癌蛋白质组与转录组多组学数据，结合临床信息用于解析肿瘤分子机制、蛋白表达变化及潜在治疗靶点研究。 | [点击下载/查看](https://cptac-data-portal.georgetown.edu/) | `未知` | `多模态` |
+| **CPTAC肺腺癌蛋白质组数据集** <br>*(CPTAC-LUAD)* | CPTAC-LUAD 是肺腺癌蛋白质组数据集，结合基因组与临床信息，支持肺癌蛋白表达分析、分子机制研究及多组学整合分析与预后建模。 | [点击下载/查看](https://proteomics.cancer.gov/programs/cptac) | `10.00` | `多模态` |
 | **CPTAC肺鳞癌蛋白质组数据集** <br>*(CPTAC Lung Squamous Cell Carcinoma)* | 该数据集整合肺鳞癌蛋白质组与转录组数据，并结合临床信息，用于分析肿瘤蛋白表达特征及发现潜在诊断与治疗靶点。 | [点击下载/查看](https://cptac-data-portal.georgetown.edu/) | `未知` | `多模态` |
 | **CT图像中的肺栓塞** <br>*(Pulmonary Embolism in CT images)* | 该数据集是一个包含35位患者肺动脉栓塞的计算机断层摄影血管造影（CTA）图像集合，数据模态为医学影像，由专家标注并经过半自动工具验证，主要用于肺栓塞的自动检测、图像分割及辅助诊断等医学影像分析研究方向。 | [点击下载/查看](https://tianchi.aliyun.com/dataset/90713) | `未知` | `未知` |
 | **dbGaP呼吸系统遗传数据库** <br>*(dbGaP Respiratory Studies Collection)* | dbGaP汇集多个呼吸系统遗传研究数据集，包含COPD与哮喘相关基因与表型信息，可用于α1-抗胰蛋白酶缺乏症的遗传关联分析。 | [点击下载/查看](https://www.ncbi.nlm.nih.gov/gap/) | `未知` | `多模态` |

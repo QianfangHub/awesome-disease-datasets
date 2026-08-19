@@ -95,8 +95,8 @@
 | **CPTAC脑肿瘤蛋白组** <br>*(CPTAC glioma resources)* | CPTAC glioma resources 面向低级别胶质瘤及相关疾病研究，提供可公开访问的多模态数据或临床/组学信息，适合用于分类、生物标志物探索、队列比较和算法验证等研究场景。 | [点击下载/查看](https://proteomics.cancer.gov/programs/cptac) | `未知` | `多模态` |
 | **CP步态视频评估数据** <br>*(Cerebral Palsy Video Gait Assessment Dataset)* | Cerebral Palsy Video Gait Assessment Dataset 面向脑性瘫痪及相关临床研究，提供公开可访问的视频数据、标注或队列信息，适合用于分类、疾病表型分层、结构测量、风险预测和医学AI模型基准测试。 | [点击下载/查看](https://zenodo.org/records/14261939) | `未知` | `视频` |
 | **CP运动功能临床数据** <br>*(Clinical GENI Cerebral Palsy Dataset)* | Clinical GENI Cerebral Palsy Dataset 面向脑性瘫痪及相关临床研究，提供公开可访问的多模态数据、标注或队列信息，适合用于分类、疾病表型分层、结构测量、风险预测和医学AI模型基准测试。 | [点击下载/查看](https://github.com/clinical-geni/clinical-geni) | `未知` | `多模态` |
-| **CQ500头颅CT数据集** <br>*(CQ500)* | CQ500 提供真实临床头颅 CT 检查及专家标注，可用于识别颅内出血和相关急诊影像异常，对外部验证和跨机构泛化评估尤其有价值。 | [点击下载/查看](https://physionet.org/content/cq500/1.0.0/) | `未知` | `图像` |
 | **CQ500头颅CT数据集** <br>*(CQ500 Dataset)* | CQ500 Dataset 面向创伤性脑损伤及相关临床研究，提供公开可访问的图像数据、标注或队列信息，适合用于分类、疾病表型分层、结构测量、风险预测和医学AI模型基准测试。 | [点击下载/查看](http://headctstudy.qure.ai/dataset) | `未知` | `图像` |
+| **CQ500头颅CT数据集** <br>*(CQ500)* | CQ500 提供真实临床头颅 CT 检查及专家标注，可用于识别颅内出血和相关急诊影像异常，对外部验证和跨机构泛化评估尤其有价值。 | [点击下载/查看](https://physionet.org/content/cq500/1.0.0/) | `未知` | `图像` |
 | **Cranial CT头颅CT数据** <br>*(Cranial CT Dataset)* | Cranial CT Dataset 面向脑积水及相关临床研究，提供公开可访问的图像数据、标注或队列信息，适合用于分类、疾病表型分层、结构测量、风险预测和医学AI模型基准测试。 | [点击下载/查看](https://www.kaggle.com/datasets/abbymorgan/cranial-ct) | `未知` | `图像` |
 | **CranioRate颅缝早闭平台** <br>*(CranioRate Dataset and Tools)* | CranioRate Dataset and Tools 面向颅缝早闭及相关临床研究，提供公开可访问的多模态数据、标注或队列信息，适合用于分类、疾病表型分层、结构测量、风险预测和医学AI模型基准测试。 | [点击下载/查看](https://www.craniorate.org/) | `未知` | `多模态` |
 | **CROCTINO视神经脊髓炎OCT队列** <br>*(CROCTINO)* | CROCTINO视神经脊髓炎OCT队列 是真实存在且可公开访问或申请访问的数据集，包含图像数据、标签、临床变量或随访信息。它可用于视神经脊髓炎谱系疾病领域的NMOSD登记分析、OCT视网膜损伤评估、代谢组/多组学生物标志物和脱髓鞘疾病鉴别，支持模型训练、基准复现和跨队列验证。 | [点击下载/查看](https://pmc.ncbi.nlm.nih.gov/articles/PMC7597491/) | `未知` | `图像` |
