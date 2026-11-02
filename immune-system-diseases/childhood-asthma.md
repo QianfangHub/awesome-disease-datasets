@@ -1,0 +1,21 @@
+# 儿童哮喘 · Childhood asthma — Top 3 Datasets
+
+> 所属系统 / System：**[免疫系统疾病 Immune System Diseases](../README.md)**
+>
+> 分类定义 / Definition：儿童哮喘是一种以慢性气道炎症和气道高反应性为特征的异质性疾病，多见于有特应性体质的儿童。其主要发病机制涉及遗传易感性与环境因素相互作用，导致Th2型免疫优势、气道重塑及变应原特异性IgE介导的炎症反应。典型临床表现为反复发作的喘息、咳嗽、胸闷和呼吸困难，常在夜间或凌晨加重，可由上呼吸道感染、变应原暴露或运动等诱发。诊断需结合症状、肺功能检测及过敏原评估，并注意与婴幼儿喘息、支气管异物等鉴别。治疗以阶梯式吸入糖皮质激素为核心，辅以白三烯受体拮抗剂及快速缓解药物，强调长期规范管理和健康教育。近年来，生物制剂及个体化精准医疗在儿童重症哮喘中的应用成为研究热点，同时基于多维度表型分析的分层管理策略促进疾病控制与预后改善。
+>
+> *Childhood asthma is a heterogeneous disease characterized by chronic airway inflammation and hyperresponsiveness, commonly affecting children with an atopic predisposition. Its pathogenesis involves a complex interplay between genetic susceptibility and environmental exposures, driving a Th2-predominant immune response, airway remodeling, and allergen-specific IgE-mediated inflammation. Typical m…*
+
+💡 *本分类线上共 **3** 个数据集，以下为按站内访问次数排序的 Top 3 （累计访问 89 次）。点击数据集名称直达千方医数集详情页。*
+
+💡 *3 datasets in total on QianfangHub; the 3 most-viewed are listed below (89 page views in total). Click any dataset name to open its full profile.*
+
+[← 返回 免疫系统疾病 目录 / Back](../README.md) | [🌐 线上分类页 / Platform](https://www.qianfanghub.com/dataset/immune-system-diseases/childhood-asthma)
+
+| # | 数据集 / Dataset | 简介 / Summary | 模态 / Modality | 规模 / Scale | 访问 / Views | 来源 / Source |
+| :-: | :--- | :--- | :--- | :--- | :-: | :--- |
+| 1 | **[低健康素养儿童哮喘图文行动计划开发与评估数据集](https://www.qianfanghub.com/dataset/immune-system-diseases/childhood-asthma/development-and-assessment-of-a-low-literacy-pictographic-asthma-action-plan-with-clinical-automation-to-enhance-guideline-concordant-care-for-children-with-asthma-%E4%BD%8E%E5%81%A5%E5%BA%B7%E7%B4%A0%E5%85%BB%E5%84%BF%E7%AB%A5%E5%93%AE%E5%96%98%E5%9B%BE%E6%96%87%E8%A1%8C%E5%8A%A8%E8%AE%A1%E5%88%92%E5%BC%80%E5%8F%91%E4%B8%8E%E8%AF%84%E4%BC%B0%E6%95%B0%E6%8D%AE%E9%9B%86)**<br>*Development and Assessment of a Low Literacy, Pictographic Asthma Action Plan with Clinic…* | 该数据集包含针对低健康素养家庭设计的儿童哮喘图文行动计划，数据模态包括象形图、临床自动化工具和验证评估结果，主要用于支持儿童哮喘的临床管理和指南一致性护理研究，旨在通过直观的视觉工具和自动化辅助提升哮喘患儿的治疗依从性和护理质量。 | `-` | `-` | 31 | [Figshare](https://figshare.com/articles/dataset/Development_and_assessment_of_a_low_literacy_pictographic_asthma_action_plan_with_clinical_automation_to_enhance_guideline-concordant_care_for_children_with_asthma/20078675) |
+| 2 | **[哮喘儿童基线人口统计学和临床特征数据集](https://www.qianfanghub.com/dataset/immune-system-diseases/childhood-asthma/baseline-demographic-and-clinical-characteristics-of-asthmatic-children-overall-and-by-site-%E5%93%AE%E5%96%98%E5%84%BF%E7%AB%A5%E5%9F%BA%E7%BA%BF%E4%BA%BA%E5%8F%A3%E7%BB%9F%E8%AE%A1%E5%AD%A6%E5%92%8C%E4%B8%B4%E5%BA%8A%E7%89%B9%E5%BE%81%E6%95%B0%E6%8D%AE%E9%9B%86)**<br>*Baseline Demographic and Clinical Characteristics of Asthmatic Children Overall and by Si…* | 该数据集以表格形式记录了多个站点哮喘儿童的人口统计学和临床基线特征，包括年龄、性别、种族等人口学变量以及哮喘症状、诊断和治疗史等临床信息，主要用于儿童哮喘的流行病学研究、临床特征分析、疾病亚型识别和跨站点比较，为哮喘儿童的健康管理和临床干… | `-` | `-` | 30 | [Figshare](https://figshare.com/articles/dataset/Baseline_demographic_and_clinical_characteristics_of_asthmatic_children_overall_and_by_site_/6012914) |
+| 3 | **[基于改进Fisher方法的组学数据整合关联方法及其在儿童哮喘中的应用](https://www.qianfanghub.com/dataset/immune-system-diseases/childhood-asthma/an-integrative-association-method-for-omics-data-based-on-a-modified-fisher%E2%80%99s-method-with-application-to-childhood-asthma-%E5%9F%BA%E4%BA%8E%E6%94%B9%E8%BF%9Bfisher%E6%96%B9%E6%B3%95%E7%9A%84%E7%BB%84%E5%AD%A6%E6%95%B0%E6%8D%AE%E6%95%B4%E5%90%88%E5%85%B3%E8%81%94%E6%96%B9%E6%B3%95%E5%8F%8A%E5%85%B6%E5%9C%A8%E5%84%BF%E7%AB%A5%E5%93%AE%E5%96%98%E4%B8%AD%E7%9A%84%E5%BA%94%E7%94%A8)**<br>*An integrative association method for omics data based on a modified Fisher’s method with…* | 该数据集整合了来自波多黎各儿童哮喘研究的全基因组基因分型、DNA甲基化和RNA测序等多模态组学数据，通过改进的Fisher方法（Omnibus-Fisher）进行关联分析，旨在优化多组学数据整合策略并探索儿童哮喘的生物学机制，适用于生物信… | `-` | `-` | 28 | [Figshare](https://figshare.com/articles/dataset/An_integrative_association_method_for_omics_data_based_on_a_modified_Fisher_s_method_with_application_to_childhood_asthma/8090744) |
+
+[← 返回 免疫系统疾病 目录 / Back](../README.md) | [🌐 线上分类页 / Platform](https://www.qianfanghub.com/dataset/immune-system-diseases/childhood-asthma) | [查看全量 / Full catalogue](https://www.qianfanghub.com/dataset/immune-system-diseases)

@@ -1,0 +1,27 @@
+# 甲状腺眼病 · Thyroid eye disease — Top 9 Datasets
+
+> 所属系统 / System：**[耳鼻咽喉疾病 Otorhinolaryngologic Diseases](../README.md)**
+>
+> 分类定义 / Definition：甲状腺眼病是一种与自身免疫性甲状腺疾病密切相关的眼眶病变，尤以Graves病最为常见。其发病机制涉及自身抗体与眼眶成纤维细胞、脂肪细胞表面促甲状腺激素受体及胰岛素样生长因子-1受体的交叉反应，引发眼眶组织炎症、水肿、纤维化和脂肪增生。临床典型表现包括眼球突出、眼睑退缩、复视、球结膜充血水肿，严重者可致压迫性视神经病变和角膜溃疡。诊断主要结合甲状腺功能、自身抗体检测及影像学评估，疾病活动性与严重程度评分有助于个体化治疗方案制定。治疗策略涵盖控制甲状腺功能、糖皮质激素、免疫抑制剂、放射治疗及手术减压等。该病为内分泌科与眼科交叉领域的重要诊疗难题，在药物研发和临床管理方面具有持续研究价值。
+>
+> *Thyroid eye disease is an autoimmune orbital disorder most commonly associated with Graves disease. Its pathogenesis involves cross-reactivity of autoantibodies against the thyrotropin receptor and insulin-like growth factor-1 receptor on orbital fibroblasts and adipocytes, leading to orbital inflammation, edema, fibrosis, and adipose tissue expansion. Typical clinical manifestations include prop…*
+
+💡 *本分类线上共 **9** 个数据集，以下为按站内访问次数排序的 Top 9 （累计访问 382 次）。点击数据集名称直达千方医数集详情页。*
+
+💡 *9 datasets in total on QianfangHub; the 9 most-viewed are listed below (382 page views in total). Click any dataset name to open its full profile.*
+
+[← 返回 耳鼻咽喉疾病 目录 / Back](../README.md) | [🌐 线上分类页 / Platform](https://www.qianfanghub.com/dataset/otorhinolaryngologic-diseases/thyroid-eye-disease)
+
+| # | 数据集 / Dataset | 简介 / Summary | 模态 / Modality | 规模 / Scale | 访问 / Views | 来源 / Source |
+| :-: | :--- | :--- | :--- | :--- | :-: | :--- |
+| 1 | **[甲状腺眼病泪液蛋白质组](https://www.qianfanghub.com/dataset/otorhinolaryngologic-diseases/thyroid-eye-disease/pxd066511-ted-tear-film-proteomics-%E7%94%B2%E7%8A%B6%E8%85%BA%E7%9C%BC%E7%97%85%E6%B3%AA%E6%B6%B2%E8%9B%8B%E7%99%BD%E8%B4%A8%E7%BB%84)**<br>*PXD066511 TED Tear Film Proteomics* | 甲状腺眼病泪液蛋白质组是公开可访问数据集，包含TED治疗前后泪液蛋白质组和对照样本等表格数据，围绕甲状腺眼病相关临床表现、影像、信号或组学信息，适合用于分类、模型训练、外部验证和疾病机制探索。 | `表格` | `52 条` | 63 | [ProteomeCentral](https://proteomecentral.proteomexchange.org/?pxid=PXD066511) |
+| 2 | **[眼病分类数据集](https://www.qianfanghub.com/dataset/otorhinolaryngologic-diseases/thyroid-eye-disease/eye-disease-dataset-%E7%9C%BC%E7%97%85%E5%88%86%E7%B1%BB%E6%95%B0%E6%8D%AE%E9%9B%86)**<br>*Eye Disease Dataset* | 眼病分类数据集是公开可访问数据集，包含突眼、青光眼、白内障等眼病图像类别等图像数据，围绕甲状腺眼病相关临床表现、影像、信号或组学信息，适合用于分类、模型训练、外部验证和疾病机制探索。 | `图像` | `4,600 条` | 45 | [Kaggle](https://www.kaggle.com/datasets/kondwani/eye-disease-dataset) |
+| 3 | **[TAO眼眶成纤维细胞RNA测序](https://www.qianfanghub.com/dataset/otorhinolaryngologic-diseases/thyroid-eye-disease/gse194322-tao-rna-seq-tao%E7%9C%BC%E7%9C%B6%E6%88%90%E7%BA%A4%E7%BB%B4%E7%BB%86%E8%83%9Erna%E6%B5%8B%E5%BA%8F)**<br>*GSE194322 TAO RNA-seq* | TAO眼眶成纤维细胞RNA测序是公开可访问数据集，包含TAO眼眶成纤维细胞和IL-11相关RNA测序等表格数据，围绕甲状腺眼病相关临床表现、影像、信号或组学信息，适合用于分类、模型训练、外部验证和疾病机制探索。 | `表格` | `-` | 43 | [NCBI GEO](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE194322) |
+| 4 | **[TED泪腺表达谱](https://www.qianfanghub.com/dataset/otorhinolaryngologic-diseases/thyroid-eye-disease/gse105149-ted-lacrimal-gland-ted%E6%B3%AA%E8%85%BA%E8%A1%A8%E8%BE%BE%E8%B0%B1)**<br>*GSE105149 TED Lacrimal Gland* | TED泪腺表达谱是公开可访问数据集，包含TED和正常泪腺组织基因表达数据等表格数据，围绕甲状腺眼病相关临床表现、影像、信号或组学信息，适合用于分类、模型训练、外部验证和疾病机制探索。 | `表格` | `11 条` | 42 | [NCBI GEO](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE105149) |
+| 5 | **[TED眼眶组织转录组](https://www.qianfanghub.com/dataset/otorhinolaryngologic-diseases/thyroid-eye-disease/gse308553-ted-orbital-transcriptome-ted%E7%9C%BC%E7%9C%B6%E7%BB%84%E7%BB%87%E8%BD%AC%E5%BD%95%E7%BB%84)**<br>*GSE308553 TED Orbital Transcriptome* | TED眼眶组织转录组是公开可访问数据集，包含TED患者眼眶结缔组织转录组测序数据等表格数据，围绕甲状腺眼病相关临床表现、影像、信号或组学信息，适合用于分类、模型训练、外部验证和疾病机制探索。 | `表格` | `-` | 39 | [NCBI GEO](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE308553) |
+| 6 | **[TAO IL-11超系列数据](https://www.qianfanghub.com/dataset/otorhinolaryngologic-diseases/thyroid-eye-disease/gse194324-tao-il-11-superseries-tao-il-11%E8%B6%85%E7%B3%BB%E5%88%97%E6%95%B0%E6%8D%AE)**<br>*GSE194324 TAO IL-11 SuperSeries* | TAO IL-11超系列数据是公开可访问数据集，包含甲状腺相关眼病RNA-seq和单细胞子系列等多模态数据，围绕甲状腺眼病相关临床表现、影像、信号或组学信息，适合用于分类、模型训练、外部验证和疾病机制探索。 | `多模态` | `-` | 38 | [NCBI GEO](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE194324) |
+| 7 | **[TAO单细胞RNA测序](https://www.qianfanghub.com/dataset/otorhinolaryngologic-diseases/thyroid-eye-disease/gse194323-tao-scrna-seq-tao%E5%8D%95%E7%BB%86%E8%83%9Erna%E6%B5%8B%E5%BA%8F)**<br>*GSE194323 TAO scRNA-seq* | TAO单细胞RNA测序是公开可访问数据集，包含甲状腺相关眼病眼眶组织单细胞转录组等表格数据，围绕甲状腺眼病相关临床表现、影像、信号或组学信息，适合用于分类、模型训练、外部验证和疾病机制探索。 | `表格` | `-` | 38 | [NCBI GEO](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE194323) |
+| 8 | **[TAO眼眶和泪腺表达谱](https://www.qianfanghub.com/dataset/otorhinolaryngologic-diseases/thyroid-eye-disease/gse58331-tao-orbital-tissue-tao%E7%9C%BC%E7%9C%B6%E5%92%8C%E6%B3%AA%E8%85%BA%E8%A1%A8%E8%BE%BE%E8%B0%B1)**<br>*GSE58331 TAO Orbital Tissue* | TAO眼眶和泪腺表达谱是公开可访问数据集，包含前眼眶和泪腺组织微阵列表达谱等表格数据，围绕甲状腺眼病相关临床表现、影像、信号或组学信息，适合用于分类、模型训练、外部验证和疾病机制探索。 | `表格` | `175 条` | 37 | [NCBI GEO](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE58331) |
+| 9 | **[甲状腺疾病表格数据集](https://www.qianfanghub.com/dataset/otorhinolaryngologic-diseases/thyroid-eye-disease/thyroid-disease-dataset-%E7%94%B2%E7%8A%B6%E8%85%BA%E7%96%BE%E7%97%85%E8%A1%A8%E6%A0%BC%E6%95%B0%E6%8D%AE%E9%9B%86)**<br>*Thyroid Disease Dataset* | 甲状腺疾病表格数据集是公开可访问数据集，包含甲状腺疾病特征、实验室变量和分类标签等表格数据，围绕甲状腺眼病相关临床表现、影像、信号或组学信息，适合用于分类、模型训练、外部验证和疾病机制探索。 | `表格` | `2,777 条` | 37 | [Zenodo](https://zenodo.org/records/8109789) |
+
+[← 返回 耳鼻咽喉疾病 目录 / Back](../README.md) | [🌐 线上分类页 / Platform](https://www.qianfanghub.com/dataset/otorhinolaryngologic-diseases/thyroid-eye-disease) | [查看全量 / Full catalogue](https://www.qianfanghub.com/dataset/otorhinolaryngologic-diseases)

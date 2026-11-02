@@ -1,169 +1,122 @@
+# Awesome Disease Datasets 🩺
 
-# Awesome Disease Datasets 🩺🚀
+> **QianfangHub (千方医数集) — the full-chain supplier of training data for medical AI.**
+> *Compliant, expert-grade data for medical AI.*
 
-> **“Gathering thousands of clinical cases to fuel medical AI.”**  
-> **“Empowering every clinical dataset to conquer diseases.”**
+This repository is officially maintained by the [QianfangHub](https://www.qianfanghub.com) team. QianfangHub aggregates public medical datasets from all over the web, engineers them into **AI-Ready** training assets, and sources **compliant specialty-disease data directly from Grade 3A hospitals**.
 
-Welcome to **Awesome Disease Datasets**! This repository is officially maintained by the [QianfangHub](https://www.qianfanghub.com/) team.
+## 🏥 What QianfangHub delivers
 
-We are committed to building the **Google Dataset Search** or **Roboflow Universe** for medical disease data. By systematically organizing global fragmented and scattered public disease datasets according to rigorous anatomical and pathological logic, this repository is **permanently free** for academic labs, young scientists, and AI startups. Our goal is to break the “data silos” that have plagued the industry for decades.
+| Business line | What you get | Scale |
+| :--- | :--- | :--- |
+| 📂 **Public Medical Datasets** | Multi-modal public medical datasets, free search & download without login | **19 organ systems · 198,623 datasets** |
+| ⚙️ **AI-Ready Datasets** | Structurally governed, ready-to-use training sets with summaries, tags and schema.org markup | **2,043 curated sets** |
+| 🏥 **Specialty Disease Data (Data Mall)** | Compliance-cleared disease-specific collections sourced from Grade 3A hospitals, expert annotated | **10 categories · delivery in as little as 4 weeks** |
+| 📰 **Pharma & AI Frontiers** | Industry research, regulatory intelligence and product releases | **770 in-depth reports** |
 
----
+- **Indexed public data items**: 124,538,937
+- **Hospital network**: 11 Grade 3A hospitals and provincial health commissions
+- **Modalities**: medical imaging · pathology · clinical text · lab tables · video · time-series · multi-modal
+- **Compliance**: hospital ethics approval + informed consent, expert double-blind annotation, compliant out-of-domain delivery (federated learning / TEE)
+- **Minimum order**: 100 annotated entries — right-sized for papers, model cold-start and early target validation
 
-## 🌐 About QianfangHub
-
-**QianfangHub** is a world-leading platform for compliant clinical case dataset curation and full-stack supply.
-
-In addition to the public datasets organized in this open-source repository, we address industry pain points such as insufficient scale of public data, missing modalities, and lack of long-term follow-up. Leveraging deep partnerships with hospital networks and a professional medical team, we provide high-standard, clinically-grade **multi-modal dataset customization** for multinational pharmaceutical R&D and AI leaders.
-
-- 🔗 **Official Website**: [https://www.qianfanghub.com/](https://www.qianfanghub.com/)
-- 📂 **Central Dataset Hub**: [Qianfang Dataset Homepage](https://www.qianfanghub.com/dataset) (covering medical datasets of 23 anatomical systems)
-
----
-
-## 🛠️ What We Can Do for You? (B2B Pioneering Service Logic)
-
-To break the stereotype that “medical data is unattainable” in research and commercial deployment, Qianfang has pioneered a **zero-risk, lightweight** B2B data trial cycle:
-
-1. **Free Consultation** 📋  
-   - Users submit their target disease, required modalities, and sample size.  
-   - A medical data expert will **evaluate data feasibility and compliance solutions within 24 hours for free**.
-
-2. **Free Sample Delivery** 🎁  
-   - After requirements are clarified, the platform **cleans and delivers 1–5 customized standard multi-modal sample data for free**.  
-   - Supports specified formats (JSON labels, NIfTI, DICOM) for buyers to directly feed into their model pipeline for **zero-cost blind testing**.
-
-3. **Commercial Custom Data Delivery** 💼  
-   - After samples pass algorithm validation, an official contract is signed.  
-   - Industry-first **minimum order of 100 data entries**, perfectly suited for research group paper publications, model cold-start, and early-stage pharmaceutical target validation.
-
-👉 **[Submit Your Dataset Request Now 🚀](https://www.qianfanghub.com/consult)**
+👉 **[Dataset Hub](https://www.qianfanghub.com/dataset)** · **[AI-Ready Datasets](https://www.qianfanghub.com/ai-ready-dataset)** · **[Data Mall](https://www.qianfanghub.com/data-mall)** · **[News](https://www.qianfanghub.com/pharma-frontiers)** · **[Request Custom Data](https://www.qianfanghub.com/service-consult)**
 
 ---
 
-## 🎯 Core Technical Delivery Barriers & Compliance Framework
+## 📖 Repository structure
 
-- **Deep Multi-Modal Alignment**: Break departmental walls and multi-modal gaps. Achieve longitudinal full-chain alignment of [Patient chief complaint EMR text + continuous follow-up records + high-definition DICOM images (CT/MRI/PET) + histopathology slides + single-cell / spatial transcriptomics sequencing].
-- **Expert Double-Blind Annotation**: Reject low-end industrial crowdsourcing. All customized commercial datasets are annotated by **deputy chief physicians or higher from top-tier hospitals** for lesion segmentation and target labeling, ensuring the gold standard for algorithm training.
-- **100% Legal Compliance System**: Strictly follow the Data Security Law and Personal Information Protection Law. Full-process hospital ethics approval and informed consent compliance framework.
-- **Security Technology Guarantee**: Support deployment of federated learning and trusted execution environments (TEE), truly achieving “data usable but invisible, knowledge out but data stays” – completely eliminating legal risks for both supply and demand sides.
+```
+README.md                     ← this page: brand overview + 19-system navigation
+{system-route}/README.md      ← sub-category index of the system
+{system-route}/{sub-category}.md ← the Top 100 datasets of that sub-category
+```
+
+Each sub-category page lists its **Top 100 datasets ranked by page views** on QianfangHub. Every dataset name links straight to its detail page. The full catalogue (198,623 datasets) lives on [qianfanghub.com/dataset](https://www.qianfanghub.com/dataset).
+
+---
+# Awesome Disease Datasets 🩺（中文版）
+
+> **千方医数集（QianfangHub）—— 医疗 AI 训练数据全链路供应商。**
+> *为医疗 AI 提供合规专家数据。*
+
+本仓库由 [千方医数集](https://www.qianfanghub.com) 官方团队维护。我们聚合全网公开医疗数据集，提供 **AI-Ready 工程化治理**，并支持 **三甲医院直采、专家标注、合规出域** 的专病数据供应与定制采集。
+
+## 🏥 千方医数集提供什么
+
+| 业务板块 | 你能得到什么 | 规模 |
+| :--- | :--- | :--- |
+| 📂 **公开数据集** | 多模态公开医疗数据集，免登录检索与下载 | **19 大系统 · 198,623 个数据集** |
+| ⚙️ **AI-Ready 数据集** | 经结构化治理、即取即用的训练集，含摘要、标签与 schema.org 结构化标注 | **2,043 个工程化数据集** |
+| 🏥 **医疗 AI 数据商城** | 三甲直采、专家标注、合规出域的专病交易集 | **10 类专病交易集 · 最快 4 周交付** |
+| 📰 **医药 AI 前沿资讯** | 行业深度研报、监管动态与产品发布 | **770 篇研报** |
+
+- **已索引公开数据项**：124,538,937
+- **医院网络**：11 家三甲医院与省级卫健对接
+- **模态覆盖**：医学影像 · 病理 · 临床文本 · 检验表格 · 视频 · 时序 · 多模态
+- **合规体系**：医院伦理批件 + 知情同意，专家双盲标注，支持联邦学习 / 可信执行环境（TEE）实现「数据可用不可见」
+- **起订门槛**：100 条标注数据起订，适配论文发表、模型冷启动与药企早期靶点验证
+
+👉 **[公开数据集目录](https://www.qianfanghub.com/dataset)** · **[AI-Ready 数据集](https://www.qianfanghub.com/ai-ready-dataset)** · **[数据商城](https://www.qianfanghub.com/data-mall)** · **[行业资讯](https://www.qianfanghub.com/pharma-frontiers)** · **[提交定制需求](https://www.qianfanghub.com/service-consult)**
 
 ---
 
-## 🗂️ Open-Source Dataset Directory Navigation (Awesome List)
+## 📖 本仓库结构
 
-*(The actual list of datasets will be added here – stay tuned!)*
+```
+README.md                     ← 本页：品牌介绍 + 19 大系统导航
+{一级系统 route}/README.md     ← 该系统的二级分类索引
+{一级系统 route}/{二级分类}.md ← 该二级分类的 Top 100 数据集
+```
+
+每个二级分类页面收录 **按千方枢纽站内访问次数排序的 Top 100 数据集**，每个数据集名称均直链线上详情页。全量 198,623 个公开数据集请前往 [qianfanghub.com/dataset](https://www.qianfanghub.com/dataset) 检索。
+
+---
+## 🗂️ 19 大系统导航 / Disease System Navigation
+
+> 共 **19 大系统 · 1,161 个二级分类 · 本仓库收录 33,500 条 Top 数据集**（线上全量 199,168 条）
+> **19 systems · 1,161 sub-categories · 33,500 curated Top datasets** (full catalogue: 199,168)
+
+| # | 系统 / System | 数据集 / Datasets | 二级分类 / Sub-categories | 目录 / Directory | 线上 / Platform |
+| :-: | :--- | :-: | :-: | :--- | :--- |
+| 1 | **肿瘤**<br>*Neoplasms* | 56,194 | 167 | [浏览 Top 100 视图](neoplasms/README.md) | [neoplasms](https://www.qianfanghub.com/dataset/neoplasms) |
+| 2 | **心血管系统疾病**<br>*Cardiovascular Diseases* | 22,861 | 111 | [浏览 Top 100 视图](cardiovascular-diseases/README.md) | [cardiovascular-diseases](https://www.qianfanghub.com/dataset/cardiovascular-diseases) |
+| 3 | **其他**<br>*Other* | 20,932 | 1 | [浏览 Top 100 视图](other/README.md) | [other](https://www.qianfanghub.com/dataset/other) |
+| 4 | **神经系统疾病**<br>*Nervous System Diseases* | 20,569 | 96 | [浏览 Top 100 视图](nervous-system-diseases/README.md) | [nervous-system-diseases](https://www.qianfanghub.com/dataset/nervous-system-diseases) |
+| 5 | **感染**<br>*Infections* | 14,030 | 45 | [浏览 Top 100 视图](infections/README.md) | [infections](https://www.qianfanghub.com/dataset/infections) |
+| 6 | **消化系统疾病**<br>*Digestive System Diseases* | 11,966 | 129 | [浏览 Top 100 视图](digestive-system-diseases/README.md) | [digestive-system-diseases](https://www.qianfanghub.com/dataset/digestive-system-diseases) |
+| 7 | **呼吸道疾病**<br>*Respiratory Tract Diseases* | 10,829 | 58 | [浏览 Top 100 视图](respiratory-tract-diseases/README.md) | [respiratory-tract-diseases](https://www.qianfanghub.com/dataset/respiratory-tract-diseases) |
+| 8 | **内分泌系统疾病**<br>*Endocrine System Diseases* | 8,554 | 74 | [浏览 Top 100 视图](endocrine-system-diseases/README.md) | [endocrine-system-diseases](https://www.qianfanghub.com/dataset/endocrine-system-diseases) |
+| 9 | **泌尿生殖系统疾病**<br>*Urogenital Diseases* | 6,477 | 47 | [浏览 Top 100 视图](urogenital-diseases/README.md) | [urogenital-diseases](https://www.qianfanghub.com/dataset/urogenital-diseases) |
+| 10 | **眼病**<br>*Eye Diseases* | 4,807 | 77 | [浏览 Top 100 视图](eye-diseases/README.md) | [eye-diseases](https://www.qianfanghub.com/dataset/eye-diseases) |
+| 11 | **皮肤与结缔组织疾病**<br>*Skin and Connective Tissue Diseases* | 4,734 | 71 | [浏览 Top 100 视图](skin-and-connective-tissue-diseases/README.md) | [skin-and-connective-tissue-diseases](https://www.qianfanghub.com/dataset/skin-and-connective-tissue-diseases) |
+| 12 | **免疫系统疾病**<br>*Immune System Diseases* | 4,416 | 33 | [浏览 Top 100 视图](immune-system-diseases/README.md) | [immune-system-diseases](https://www.qianfanghub.com/dataset/immune-system-diseases) |
+| 13 | **肌肉骨骼疾病**<br>*Musculoskeletal Diseases* | 4,058 | 1 | [浏览 Top 100 视图](musculoskeletal-diseases/README.md) | [musculoskeletal-diseases](https://www.qianfanghub.com/dataset/musculoskeletal-diseases) |
+| 14 | **血液与淋巴系统疾病**<br>*Hemic and Lymphatic Diseases* | 2,489 | 60 | [浏览 Top 100 视图](hemic-and-lymphatic-diseases/README.md) | [hemic-and-lymphatic-diseases](https://www.qianfanghub.com/dataset/hemic-and-lymphatic-diseases) |
+| 15 | **创伤与损伤**<br>*Wounds and Injuries* | 2,295 | 28 | [浏览 Top 100 视图](wounds-and-injuries/README.md) | [wounds-and-injuries](https://www.qianfanghub.com/dataset/wounds-and-injuries) |
+| 16 | **耳鼻咽喉疾病**<br>*Otorhinolaryngologic Diseases* | 1,960 | 112 | [浏览 Top 100 视图](otorhinolaryngologic-diseases/README.md) | [otorhinolaryngologic-diseases](https://www.qianfanghub.com/dataset/otorhinolaryngologic-diseases) |
+| 17 | **口颌系统疾病**<br>*Stomatognathic Diseases* | 1,406 | 49 | [浏览 Top 100 视图](stomatognathic-diseases/README.md) | [stomatognathic-diseases](https://www.qianfanghub.com/dataset/stomatognathic-diseases) |
+| 18 | **化学诱发性障碍**<br>*Chemically-Induced Disorders* | 430 | 1 | [浏览 Top 100 视图](chemically-induced-disorders/README.md) | [chemically-induced-disorders](https://www.qianfanghub.com/dataset/chemically-induced-disorders) |
+| 19 | **环境因素所致疾病**<br>*Disorders of Environmental Origin* | 161 | 1 | [浏览 Top 100 视图](disorders-of-environmental-origin/README.md) | [disorders-of-environmental-origin](https://www.qianfanghub.com/dataset/disorders-of-environmental-origin) |
 
 ---
 
-| # | 📂 Disease Category (First Level) | 🖥️ GitHub Category View (Top 100) | 🌐 Full Database on QianfangHub |
-| :-: | :--- | :--- | :--- |
-| 1 | Infections | [Infections View](infections-en.md) | [Explore on Platform](https://www.qianfanghub.com/dataset/infections) |
-| 2 | Endocrine System Diseases | [Endocrine System Diseases View](endocrine-system-diseases-en.md) | [Explore on Platform](https://www.qianfanghub.com/dataset/endocrine-system-diseases) |
-| 3 | Neoplasms | [Neoplasms View](neoplasms-en.md) | [Explore on Platform](https://www.qianfanghub.com/dataset/neoplasms) |
-| 4 | Musculoskeletal Diseases | [Musculoskeletal Diseases View](musculoskeletal-diseases-en.md) | [Explore on Platform](https://www.qianfanghub.com/dataset/musculoskeletal-diseases) |
-| 5 | Digestive System Diseases | [Digestive System Diseases View](digestive-system-diseases-en.md) | [Explore on Platform](https://www.qianfanghub.com/dataset/digestive-system-diseases) |
-| 6 | Stomatognathic Diseases | [Stomatognathic Diseases View](stomatognathic-diseases-en.md) | [Explore on Platform](https://www.qianfanghub.com/dataset/stomatognathic-diseases) |
-| 7 | Respiratory Tract Diseases | [Respiratory Tract Diseases View](respiratory-tract-diseases-en.md) | [Explore on Platform](https://www.qianfanghub.com/dataset/respiratory-tract-diseases) |
-| 8 | Otorhinolaryngologic Diseases | [Otorhinolaryngologic Diseases View](otorhinolaryngologic-diseases-en.md) | [Explore on Platform](https://www.qianfanghub.com/dataset/otorhinolaryngologic-diseases) |
-| 9 | Nervous System Diseases | [Nervous System Diseases View](nervous-system-diseases-en.md) | [Explore on Platform](https://www.qianfanghub.com/dataset/nervous-system-diseases) |
-| 10 | Eye Diseases | [Eye Diseases View](eye-diseases-en.md) | [Explore on Platform](https://www.qianfanghub.com/dataset/eye-diseases) |
-| 11 | Urogenital Diseases | [Urogenital Diseases View](urogenital-diseases-en.md) | [Explore on Platform](https://www.qianfanghub.com/dataset/urogenital-diseases) |
-| 12 | Immune System Diseases | [Immune System Diseases View](immune-system-diseases-en.md) | [Explore on Platform](https://www.qianfanghub.com/dataset/immune-system-diseases) |
-| 13 | Cardiovascular Diseases | [Cardiovascular Diseases View](cardiovascular-diseases-en.md) | [Explore on Platform](https://www.qianfanghub.com/dataset/cardiovascular-diseases) |
-| 14 | Hemic and Lymphatic Diseases | [Hemic and Lymphatic Diseases View](hemic-and-lymphatic-diseases-en.md) | [Explore on Platform](https://www.qianfanghub.com/dataset/hemic-and-lymphatic-diseases) |
-| 15 | Congenital, Hereditary, and Neonatal Diseases and Abnormalities | [Congenital, Hereditary, and Neonatal Diseases and Abnormalities View](congenital-hereditary-and-neonatal-diseases-and-abnormalities-en.md) | [Explore on Platform](https://www.qianfanghub.com/dataset/congenital-hereditary-and-neonatal-diseases-and-abnormalities) |
-| 16 | Skin and Connective Tissue Diseases | [Skin and Connective Tissue Diseases View](skin-and-connective-tissue-diseases-en.md) | [Explore on Platform](https://www.qianfanghub.com/dataset/skin-and-connective-tissue-diseases) |
-| 17 | Nutritional and Metabolic Diseases | [Nutritional and Metabolic Diseases View](nutritional-and-metabolic-diseases-en.md) | [Explore on Platform](https://www.qianfanghub.com/dataset/nutritional-and-metabolic-diseases) |
-| 18 | Disorders of Environmental Origin | [Disorders of Environmental Origin View](disorders-of-environmental-origin-en.md) | [Explore on Platform](https://www.qianfanghub.com/dataset/disorders-of-environmental-origin) |
-| 19 | Animal Diseases | [Animal Diseases View](animal-diseases-en.md) | [Explore on Platform](https://www.qianfanghub.com/dataset/animal-diseases) |
-| 20 | Pathological Conditions, Signs and Symptoms | [Pathological Conditions, Signs and Symptoms View](pathological-conditions-signs-and-symptoms-en.md) | [Explore on Platform](https://www.qianfanghub.com/dataset/pathological-conditions-signs-and-symptoms) |
-| 21 | Occupational Diseases | [Occupational Diseases View](occupational-diseases-en.md) | [Explore on Platform](https://www.qianfanghub.com/dataset/occupational-diseases) |
-| 22 | Chemically-Induced Disorders | [Chemically-Induced Disorders View](chemically-induced-disorders-en.md) | [Explore on Platform](https://www.qianfanghub.com/dataset/chemically-induced-disorders) |
-| 23 | Wounds and Injuries | [Wounds and Injuries View](wounds-and-injuries-en.md) | [Explore on Platform](https://www.qianfanghub.com/dataset/wounds-and-injuries) |
+## 🤝 Contribution · 贡献与反馈
 
+欢迎推荐高质量医疗数据集或反馈错漏，提交 **Issue** / **Pull Request** 即可。
+Suggestions and corrections are welcome via **Issues** or **Pull Requests**.
 
-***
+## 📮 Contact · 联系方式
 
-# Awesome Disease Datasets 🩺🚀（中文版）
+- **Phone / 电话**: 18892062214
+- **WeChat / 微信**: 18892062214（同号）
+- **Email / 邮箱**: collab@qianfanghub.cn
+- **定制需求 / Custom data**: [https://www.qianfanghub.com/service-consult](https://www.qianfanghub.com/service-consult)
 
-> **“汇聚千方病案，燃料医疗 AI。”**  
-> **“让每一组临床数据，都有攻克疾病的可能。”**
+## 📚 Citation · 引用规范
 
-欢迎来到 **Awesome Disease Datasets**！本仓库由 [千方病案医数集 (QianfangHub)](https://www.qianfanghub.com/) 官方团队维护。
+引用本仓库或本站数据集时请注明来源：**千方医数集 QianfangHub (https://www.qianfanghub.com)**。
+When citing datasets from this repository, please credit **QianfangHub (https://www.qianfanghub.com)**.
 
-我们致力于打造医疗疾病数据领域的 **Google Dataset Search** 或 **Roboflow Universe**。通过将全球碎片化、散落的公开疾病数据集，按照医学严谨的解剖与病理逻辑进行系统化编排，本仓库**永久免费**向高校实验室、青年科学家和 AI 初创团队开放，旨在彻底打破行业数十年的“数据孤岛”。
-
----
-
-## 🌐 关于千方病案医数集 (QianfangHub)
-
-**千方病案医数集**是全球领先的合规临床病案数据集治理与全栈式供应平台。
-
-除了本开源仓库整理的公开数据集外，针对公开数据规模不足、模态缺失、无长期随访等行业痛点，我们依托深厚的医院底层渠道与专业医学团队，为跨国药企 R&D、AI 大厂提供高标准、临床级的**多模态数据集定制交付**。
-
-- 🔗 **官方独立域名**：[https://www.qianfanghub.com/](https://www.qianfanghub.com/)
-- 📂 **数据集中央大盘**：[千方数据集主页](https://www.qianfanghub.com/dataset)（覆盖 23 大解剖系统医学数据集）
-
----
-
-## 🛠️ 我们能为你做什么？（B2B 开创性服务逻辑）
-
-针对科研与商业落地中“医疗数据高不可攀”的刻板印象，千方首创了**“零风险、轻量化”**的 B2B 数据试错闭环：
-
-1. **免费方案咨询** 📋  
-   - 用户提交目标病种、所需模态及样本量需求。  
-   - 医学数据专家 **24 小时内免费评估**数据可行性及合规治理方案。
-2. **免费样例提供** 🎁  
-   - 明确需求后，平台**免费清洗并交付 1–5 条定制化标准多模态样例数据**。  
-   - 支持指定 JSON 标签、NIfTI、DICOM 格式，供采购方直接送入模型流水线进行**零成本盲测**。
-3. **商业定制数据交付** 💼  
-   - 样例通过算法验证后签署正式合同。  
-   - 行业首创 **100 条数据起订门槛**，完美适配课题组论文发表、模型冷启动与药企早期靶点验证。
-
-👉 **[立即提交您的数据集需求 🚀](https://www.qianfanghub.com/consult)**
-
----
-
-## 🎯 核心技术交付壁垒与合规框架
-
-- **深度多模态对齐**：打破科室墙与多模态断层，实现【患者主诉 EMR 文本 + 连续随访病历 + 高清 DICOM 影像（CT/MRI/PET）+ 组织病理切片 + 单细胞转录组/空间转录组测序】的纵向全链条深度对齐。
-- **专家级双盲标注**：拒绝低端工业众包。所有定制商业数据集均由**三甲医院副主任医师及以上级别专家**进行病变分割与靶点标注，确保算法训练的金标准。
-- **100% 依法合规体系**：严格遵循《数据安全法》与《个人信息保护法》，全流程具备完整的医院伦理批件与知情同意合规框架。
-- **安全技术保障**：支持部署联邦学习与可信执行环境（TEE），真正实现“数据可用不可见，知识出域数据留域”，彻底免除供需双方法务风险。
-
----
-
-## 🗂️ 开源数据集目录导航 (Awesome List)
-
-我们根据标准的医学疾病大类，将数据集划分为以下 **23 个核心方向**。您可以点击下表中的 **GitHub 视图** 浏览对应的精选数据集元数据，或点击 **千方链接** 前往线上平台获取全量及最新动态：
-
-| # | 📂 疾病大类 (一级分类) | 🖥️ GitHub 分类视图 (前100条) | 🌐 千方枢纽线上全量链接 |
-| :-: | :--- | :--- | :--- |
-| 1 | **感染** | [感染 视图](infections-cn.md) | [前往查看](https://www.qianfanghub.com/dataset/infections) |
-| 2 | **内分泌系统疾病** | [内分泌系统疾病 视图](endocrine-system-diseases-cn.md) | [前往查看](https://www.qianfanghub.com/dataset/endocrine-system-diseases) |
-| 3 | **肿瘤** | [肿瘤 视图](neoplasms-cn.md) | [前往查看](https://www.qianfanghub.com/dataset/neoplasms) |
-| 4 | **肌肉骨骼疾病** | [肌肉骨骼疾病 视图](musculoskeletal-diseases-cn.md) | [前往查看](https://www.qianfanghub.com/dataset/musculoskeletal-diseases) |
-| 5 | **消化系统疾病** | [消化系统疾病 视图](digestive-system-diseases-cn.md) | [前往查看](https://www.qianfanghub.com/dataset/digestive-system-diseases) |
-| 6 | **口颌系统疾病** | [口颌系统疾病 视图](stomatognathic-diseases-cn.md) | [前往查看](https://www.qianfanghub.com/dataset/stomatognathic-diseases) |
-| 7 | **呼吸道疾病** | [呼吸道疾病 视图](respiratory-tract-diseases-cn.md) | [前往查看](https://www.qianfanghub.com/dataset/respiratory-tract-diseases) |
-| 8 | **耳鼻咽喉疾病** | [耳鼻咽喉疾病 视图](otorhinolaryngologic-diseases-cn.md) | [前往查看](https://www.qianfanghub.com/dataset/otorhinolaryngologic-diseases) |
-| 9 | **神经系统疾病** | [神经系统疾病 视图](nervous-system-diseases-cn.md) | [前往查看](https://www.qianfanghub.com/dataset/nervous-system-diseases) |
-| 10 | **眼病** | [眼病 视图](eye-diseases-cn.md) | [前往查看](https://www.qianfanghub.com/dataset/eye-diseases) |
-| 11 | **泌尿生殖系统疾病** | [泌尿生殖系统疾病 视图](urogenital-diseases-cn.md) | [前往查看](https://www.qianfanghub.com/dataset/urogenital-diseases) |
-| 12 | **免疫系统疾病** | [免疫系统疾病 视图](immune-system-diseases-cn.md) | [前往查看](https://www.qianfanghub.com/dataset/immune-system-diseases) |
-| 13 | **心血管疾病** | [心血管疾病 视图](cardiovascular-diseases-cn.md) | [前往查看](https://www.qianfanghub.com/dataset/cardiovascular-diseases) |
-| 14 | **血液与淋巴系统疾病** | [血液与淋巴系统疾病 视图](hemic-and-lymphatic-diseases-cn.md) | [前往查看](https://www.qianfanghub.com/dataset/hemic-and-lymphatic-diseases) |
-| 15 | **先天、遗传与新生儿疾病及异常** | [先天、遗传与新生儿疾病及异常 视图](congenital-hereditary-and-neonatal-diseases-and-abnormalities-cn.md) | [前往查看](https://www.qianfanghub.com/dataset/congenital-hereditary-and-neonatal-diseases-and-abnormalities) |
-| 16 | **皮肤与结缔组织疾病** | [皮肤与结缔组织疾病 视图](skin-and-connective-tissue-diseases-cn.md) | [前往查看](https://www.qianfanghub.com/dataset/skin-and-connective-tissue-diseases) |
-| 17 | **营养与代谢疾病** | [营养与代谢疾病 视图](nutritional-and-metabolic-diseases-cn.md) | [前往查看](https://www.qianfanghub.com/dataset/nutritional-and-metabolic-diseases) |
-| 18 | **环境因素所致疾病** | [环境因素所致疾病 视图](disorders-of-environmental-origin-cn.md) | [前往查看](https://www.qianfanghub.com/dataset/disorders-of-environmental-origin) |
-| 19 | **动物疾病** | [动物疾病 视图](animal-diseases-cn.md) | [前往查看](https://www.qianfanghub.com/dataset/animal-diseases) |
-| 20 | **病理状况、体征与症状** | [病理状况、体征与症状 视图](pathological-conditions-signs-and-symptoms-cn.md) | [前往查看](https://www.qianfanghub.com/dataset/pathological-conditions-signs-and-symptoms) |
-| 21 | **职业病** | [职业病 视图](occupational-diseases-cn.md) | [前往查看](https://www.qianfanghub.com/dataset/occupational-diseases) |
-| 22 | **化学诱发性障碍** | [化学诱发性障碍 视图](chemically-induced-disorders-cn.md) | [前往查看](https://www.qianfanghub.com/dataset/chemically-induced-disorders) |
-| 23 | **创伤与损伤** | [创伤与损伤 视图](wounds-and-injuries-cn.md) | [前往查看](https://www.qianfanghub.com/dataset/wounds-and-injuries) |
-
-## 🤝 Contribution & Feedback / 贡献与反馈
-If you would like to recommend high-quality medical datasets or report issues, feel free to open an **Issue** or submit a **Pull Request**.
-如果您有高质量的医疗数据集推荐，或者发现数据中存在任何错漏，欢迎提交 **Issue** 或 **Pull Request**。
+> *本仓库数据每日自动同步自千方医数集生产库；数据集排名依据站内累计访问次数。*
+> *Synced daily from the QianfangHub production database; ranking is based on accumulated page views.*

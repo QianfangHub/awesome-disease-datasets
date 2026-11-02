@@ -1,0 +1,28 @@
+# 囊性纤维化 · Cystic fibrosis — Top 10 Datasets
+
+> 所属系统 / System：**[耳鼻咽喉疾病 Otorhinolaryngologic Diseases](../README.md)**
+>
+> 分类定义 / Definition：囊性纤维化是一种常染色体隐性遗传病，由CFTR基因突变导致上皮细胞氯离子通道功能障碍，引起外分泌腺分泌异常。典型临床表现为慢性阻塞性肺病、反复呼吸道感染、胰腺外分泌功能不全所致脂肪泻和营养不良，以及汗液氯离子浓度显著升高。确诊依赖于汗液试验、基因检测和鼻电位差测量。治疗以多学科综合管理为核心，包括胰酶替代、营养支持、气道廓清术、抗感染及新型CFTR调节剂靶向治疗。该病在欧美高加索人群中发病率较高，新生儿筛查的推广显著改善了早期诊断和预后。
+>
+> *Cystic fibrosis is an autosomal recessive disorder caused by mutations in the CFTR gene, leading to defective chloride channel function in epithelial cells. It manifests with chronic obstructive lung disease, recurrent respiratory infections, pancreatic exocrine insufficiency resulting in steatorrhea and malnutrition, and elevated sweat chloride concentration. Diagnosis relies on sweat chloride t…*
+
+💡 *本分类线上共 **10** 个数据集，以下为按站内访问次数排序的 Top 10 （累计访问 347 次）。点击数据集名称直达千方医数集详情页。*
+
+💡 *10 datasets in total on QianfangHub; the 10 most-viewed are listed below (347 page views in total). Click any dataset name to open its full profile.*
+
+[← 返回 耳鼻咽喉疾病 目录 / Back](../README.md) | [🌐 线上分类页 / Platform](https://www.qianfanghub.com/dataset/otorhinolaryngologic-diseases/cystic-fibrosis)
+
+| # | 数据集 / Dataset | 简介 / Summary | 模态 / Modality | 规模 / Scale | 访问 / Views | 来源 / Source |
+| :-: | :--- | :--- | :--- | :--- | :-: | :--- |
+| 1 | **[欧洲囊性纤维化患者登记](https://www.qianfanghub.com/dataset/otorhinolaryngologic-diseases/cystic-fibrosis/ecfs-patient-registry-%E6%AC%A7%E6%B4%B2%E5%9B%8A%E6%80%A7%E7%BA%A4%E7%BB%B4%E5%8C%96%E6%82%A3%E8%80%85%E7%99%BB%E8%AE%B0)**<br>*ECFS Patient Registry* | ECFS患者登记适合跨国家囊性纤维化流行病学、治疗差异、预后和护理质量比较研究。 | `表格` | `54,000 条` | 42 | [ECFS](https://www.ecfs.eu/ecfspr) |
+| 2 | **[CF鼻上皮表达数据](https://www.qianfanghub.com/dataset/otorhinolaryngologic-diseases/cystic-fibrosis/gse40445-cf%E9%BC%BB%E4%B8%8A%E7%9A%AE%E8%A1%A8%E8%BE%BE%E6%95%B0%E6%8D%AE)**<br>*GSE40445* | 该数据集适合研究CF鼻上皮转录异常、CFTR相关通路和上气道表型，可用于多队列转录组整合分析。 | `表格` | `10 条` | 41 | [GEO](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE40445) |
+| 3 | **[美国囊性纤维化基金会患者登记](https://www.qianfanghub.com/dataset/otorhinolaryngologic-diseases/cystic-fibrosis/cystic-fibrosis-foundation-patient-registry-%E7%BE%8E%E5%9B%BD%E5%9B%8A%E6%80%A7%E7%BA%A4%E7%BB%B4%E5%8C%96%E5%9F%BA%E9%87%91%E4%BC%9A%E6%82%A3%E8%80%85%E7%99%BB%E8%AE%B0)**<br>*Cystic Fibrosis Foundation Patient Registry* | 该登记库是囊性纤维化临床研究核心资源，长期收集CF患者健康状态和治疗结局，可用于流行病学、治疗效果和真实世界研究。 | `表格` | `50,000 条` | 39 | [CFF](https://www.cff.org/medical-professionals/patient-registry) |
+| 4 | **[CF肺上皮单细胞转录组数据](https://www.qianfanghub.com/dataset/otorhinolaryngologic-diseases/cystic-fibrosis/gse150674-cf%E8%82%BA%E4%B8%8A%E7%9A%AE%E5%8D%95%E7%BB%86%E8%83%9E%E8%BD%AC%E5%BD%95%E7%BB%84%E6%95%B0%E6%8D%AE)**<br>*GSE150674* | 该数据提供CF肺组织细胞组成和状态图谱，可用于气道上皮、炎症细胞、纤维化和衰老相关通路分析。 | `表格` | `-` | 39 | [GEO](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE150674) |
+| 5 | **[囊性纤维化气道炎症单细胞数据](https://www.qianfanghub.com/dataset/otorhinolaryngologic-diseases/cystic-fibrosis/gse145360-%E5%9B%8A%E6%80%A7%E7%BA%A4%E7%BB%B4%E5%8C%96%E6%B0%94%E9%81%93%E7%82%8E%E7%97%87%E5%8D%95%E7%BB%86%E8%83%9E%E6%95%B0%E6%8D%AE)**<br>*GSE145360* | 该数据集可用于囊性纤维化气道炎症、上皮细胞状态、免疫细胞异质性和治疗靶点发现，是CF单细胞研究的重要资源。 | `表格` | `-` | 38 | [GEO](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE145360) |
+| 6 | **[CF直肠上皮表达数据](https://www.qianfanghub.com/dataset/otorhinolaryngologic-diseases/cystic-fibrosis/gse15568-cf%E7%9B%B4%E8%82%A0%E4%B8%8A%E7%9A%AE%E8%A1%A8%E8%BE%BE%E6%95%B0%E6%8D%AE)**<br>*GSE15568* | 该数据集覆盖CF肠道上皮表型，可用于研究CFTR缺陷在非肺组织中的表达改变和系统性通路影响。 | `表格` | `24 条` | 38 | [GEO](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE15568) |
+| 7 | **[CFTR2临床与功能变异数据库](https://www.qianfanghub.com/dataset/otorhinolaryngologic-diseases/cystic-fibrosis/cftr2-cftr2%E4%B8%B4%E5%BA%8A%E4%B8%8E%E5%8A%9F%E8%83%BD%E5%8F%98%E5%BC%82%E6%95%B0%E6%8D%AE%E5%BA%93)**<br>*CFTR2* | CFTR2是CF基因型解释常用资源，包含变异致病性、表型关联和全球患者汇总信息，适合遗传诊断和变异研究。 | `表格` | `90,000 条` | 37 | [CFTR2](https://cftr2.org/) |
+| 8 | **[英国囊性纤维化登记](https://www.qianfanghub.com/dataset/otorhinolaryngologic-diseases/cystic-fibrosis/uk-cystic-fibrosis-registry-%E8%8B%B1%E5%9B%BD%E5%9B%8A%E6%80%A7%E7%BA%A4%E7%BB%B4%E5%8C%96%E7%99%BB%E8%AE%B0)**<br>*UK Cystic Fibrosis Registry* | UK CF Registry是大型国家级囊性纤维化数据库，适合队列研究、照护质量评估、治疗结局和卫生服务研究。 | `表格` | `12,000 条` | 35 | [CF Trust](https://www.cysticfibrosis.org.uk/the-work-we-do/uk-cf-registry) |
+| 9 | **[CF气道上皮修复转录组数据](https://www.qianfanghub.com/dataset/otorhinolaryngologic-diseases/cystic-fibrosis/gse127696-cf%E6%B0%94%E9%81%93%E4%B8%8A%E7%9A%AE%E4%BF%AE%E5%A4%8D%E8%BD%AC%E5%BD%95%E7%BB%84%E6%95%B0%E6%8D%AE)**<br>*GSE127696* | 该数据集研究CF气道上皮修复过程，可用于差异表达、上皮再生、屏障功能和CFTR缺陷下组织修复机制分析。 | `表格` | `-` | 35 | [GEO](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE127696) |
+| 10 | **[囊性纤维化与慢性鼻窦炎患者鼻窦黏膜转录谱芯片数据集](https://www.qianfanghub.com/dataset/otorhinolaryngologic-diseases/cystic-fibrosis/e-geod-10406-transcription-profiling-by-array-of-human-sinus-mucosa-from-patients-with-cystic-fibrosis-and-chronic-rhinosinusitis-%E5%9B%8A%E6%80%A7%E7%BA%A4%E7%BB%B4%E5%8C%96%E4%B8%8E%E6%85%A2%E6%80%A7%E9%BC%BB%E7%AA%A6%E7%82%8E%E6%82%A3%E8%80%85%E9%BC%BB%E7%AA%A6%E9%BB%8F%E8%86%9C%E8%BD%AC%E5%BD%95%E8%B0%B1%E8%8A%AF%E7%89%87%E6%95%B0%E6%8D%AE%E9%9B%86)**<br>*E-GEOD-10406: Transcription profiling by array of human sinus mucosa from patients with c…* | 该数据集来源于 EBI Expression Atlas 的差异表达实验，物种为 Homo sapiens，采用芯片技术对囊性纤维化和慢性鼻窦炎患者的鼻窦黏膜组织进行转录谱分析 | `基因组` | `-` | 3 | [expression_atlas](https://ebi.ac.uk/gxa/experiments/E-GEOD-10406) |
+
+[← 返回 耳鼻咽喉疾病 目录 / Back](../README.md) | [🌐 线上分类页 / Platform](https://www.qianfanghub.com/dataset/otorhinolaryngologic-diseases/cystic-fibrosis) | [查看全量 / Full catalogue](https://www.qianfanghub.com/dataset/otorhinolaryngologic-diseases)

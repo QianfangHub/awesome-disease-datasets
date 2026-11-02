@@ -1,0 +1,22 @@
+# 肾源性系统性纤维化 · Nephrogenic systemic fibrosis — Top 4 Datasets
+
+> 所属系统 / System：**[皮肤与结缔组织疾病 Skin and Connective Tissue Diseases](../README.md)**
+>
+> 分类定义 / Definition：肾源性系统性纤维化是一种罕见的、以广泛组织纤维化为特征的严重系统性疾病，常见于慢性肾病尤其终末期肾病患者，多与含钆磁共振造影剂暴露相关。发病机制涉及循环纤维细胞活化和转化生长因子β信号通路上调，导致皮肤、关节、肌肉及内脏器官内大量胶原沉积。典型表现为皮肤增厚、硬结、紧绷感，常累及四肢和躯干，严重时可致关节挛缩和肢体功能障碍，部分患者出现心肺、巩膜等器官纤维化。诊断依赖临床特征、皮肤组织病理及明确钆暴露史。治疗以预防为主，严格控制肾功能不全患者钆对比剂使用；已发病者可采用肾移植、免疫抑制或光疗等方案，但预后差异较大。该病在医学影像安全、肾脏病学及风湿免疫领域具有重要研究价值，是药物警戒和临床决策支持系统中的关键监管对象。
+>
+> *Nephrogenic systemic fibrosis is a rare, severe fibrosing disorder primarily affecting patients with advanced chronic kidney disease, particularly those on dialysis, and is strongly associated with exposure to gadolinium-based contrast agents used in MRI. The pathogenesis involves circulating fibrocyte activation and upregulation of the transforming growth factor-beta pathway, leading to excessiv…*
+
+💡 *本分类线上共 **4** 个数据集，以下为按站内访问次数排序的 Top 4 （累计访问 125 次）。点击数据集名称直达千方医数集详情页。*
+
+💡 *4 datasets in total on QianfangHub; the 4 most-viewed are listed below (125 page views in total). Click any dataset name to open its full profile.*
+
+[← 返回 皮肤与结缔组织疾病 目录 / Back](../README.md) | [🌐 线上分类页 / Platform](https://www.qianfanghub.com/dataset/skin-and-connective-tissue-diseases/nephrogenic-systemic-fibrosis)
+
+| # | 数据集 / Dataset | 简介 / Summary | 模态 / Modality | 规模 / Scale | 访问 / Views | 来源 / Source |
+| :-: | :--- | :--- | :--- | :--- | :-: | :--- |
+| 1 | **[多器官纤维化中基质体相关巨噬细胞极化状态的系统水平鉴定数据集](https://www.qianfanghub.com/dataset/skin-and-connective-tissue-diseases/nephrogenic-systemic-fibrosis/systems-level-identification-of-a-matrisome-associated-macrophage-polarization-state-in-multi-organ-fibrosis-%E5%A4%9A%E5%99%A8%E5%AE%98%E7%BA%A4%E7%BB%B4%E5%8C%96%E4%B8%AD%E5%9F%BA%E8%B4%A8%E4%BD%93%E7%9B%B8%E5%85%B3%E5%B7%A8%E5%99%AC%E7%BB%86%E8%83%9E%E6%9E%81%E5%8C%96%E7%8A%B6%E6%80%81%E7%9A%84%E7%B3%BB%E7%BB%9F%E6%B0%B4%E5%B9%B3%E9%89%B4%E5%AE%9A%E6%95%B0%E6%8D%AE%E9%9B%86)**<br>*SYSTEMS LEVEL IDENTIFICATION OF A MATRISOME-ASSOCIATED MACROPHAGE POLARIZATION STATE IN M…* | 该数据集是一个单细胞RNA测序（scRNA-seq）数据集，包含来自子宫内膜、心脏、肾脏、肝脏、肺和皮肤六个组织的单核细胞/巨噬细胞数据，以及跨组织的SPP1+巨噬细胞数据，数据模态为单细胞基因表达谱。该数据集主要用于研究多器官（特别是肾… | `-` | `-` | 37 | [Zenodo](https://zenodo.org/record/8266711) |
+| 2 | **[治疗肾纤维化中产生的原始数据](https://www.qianfanghub.com/dataset/skin-and-connective-tissue-diseases/nephrogenic-systemic-fibrosis/raw-data-generated-in-the-treatment-of-renal-fibrosis-%E6%B2%BB%E7%96%97%E8%82%BE%E7%BA%A4%E7%BB%B4%E5%8C%96%E4%B8%AD%E4%BA%A7%E7%94%9F%E7%9A%84%E5%8E%9F%E5%A7%8B%E6%95%B0%E6%8D%AE)**<br>*Raw Data Generated in the Treatment of Renal Fibrosis* | 该数据集主要包含小鼠肾间质纤维化治疗研究中产生的病理图片，属于图像模态数据，用于肾纤维化病理机制分析、疾病模型评估以及治疗效果的生物医学研究。 | `-` | `-` | 33 | [科学数据银行](https://www.scidb.cn/detail?dataSetId=07f55941ee9448dd95597534b22fac05) |
+| 3 | **[不同条件下肾源性系统性纤维化发病率的亚组分析数据集](https://www.qianfanghub.com/dataset/skin-and-connective-tissue-diseases/nephrogenic-systemic-fibrosis/subgroup-analyses-on-the-incidence-of-nsf-in-various-conditions-%E4%B8%8D%E5%90%8C%E6%9D%A1%E4%BB%B6%E4%B8%8B%E8%82%BE%E6%BA%90%E6%80%A7%E7%B3%BB%E7%BB%9F%E6%80%A7%E7%BA%A4%E7%BB%B4%E5%8C%96%E5%8F%91%E7%97%85%E7%8E%87%E7%9A%84%E4%BA%9A%E7%BB%84%E5%88%86%E6%9E%90%E6%95%B0%E6%8D%AE%E9%9B%86)**<br>*Subgroup Analyses on the Incidence of NSF in Various Conditions* | 该数据集是一个医学表格数据集，包含肾源性系统性纤维化（NSF）在不同条件下的发病率数据，通过亚组分析方法整理，适用于肾源性系统性纤维化的流行病学调查、临床风险因素评估以及相关医学统计研究。 | `-` | `-` | 28 | [Figshare](https://figshare.com/articles/dataset/_Subgroup_analyses_on_the_incidence_of_NSF_in_various_conditions_/1449870) |
+| 4 | **[钆与肾源性系统性纤维化剂量反应关系数据集](https://www.qianfanghub.com/dataset/skin-and-connective-tissue-diseases/nephrogenic-systemic-fibrosis/dose-response-relationship-between-gadolinium-and-nsf-%E9%92%86%E4%B8%8E%E8%82%BE%E6%BA%90%E6%80%A7%E7%B3%BB%E7%BB%9F%E6%80%A7%E7%BA%A4%E7%BB%B4%E5%8C%96%E5%89%82%E9%87%8F%E5%8F%8D%E5%BA%94%E5%85%B3%E7%B3%BB%E6%95%B0%E6%8D%AE%E9%9B%86)**<br>*Dose-response relationship between gadolinium and NSF* | 该数据集包含钆暴露与肾源性系统性纤维化（NSF）之间剂量反应关系的临床统计表格数据，具体涉及钆累积剂量的中位数、均值及体积测量值，主要用于评估钆基造影剂在肾功能不全患者中的安全性风险，支持药物安全性和流行病学方向的研究与应用。 | `-` | `-` | 27 | [Figshare](https://figshare.com/articles/dataset/_Dose_response_relationship_between_gadolinium_and_NSF_/1449871) |
+
+[← 返回 皮肤与结缔组织疾病 目录 / Back](../README.md) | [🌐 线上分类页 / Platform](https://www.qianfanghub.com/dataset/skin-and-connective-tissue-diseases/nephrogenic-systemic-fibrosis) | [查看全量 / Full catalogue](https://www.qianfanghub.com/dataset/skin-and-connective-tissue-diseases)

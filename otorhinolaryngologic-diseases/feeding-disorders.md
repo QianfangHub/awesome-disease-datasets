@@ -1,0 +1,23 @@
+# 喂养障碍 · Feeding disorders — Top 5 Datasets
+
+> 所属系统 / System：**[耳鼻咽喉疾病 Otorhinolaryngologic Diseases](../README.md)**
+>
+> 分类定义 / Definition：喂养障碍是指婴幼儿期出现的持续性进食困难，常表现为拒食、极端挑食、进食量不足或进食行为异常，导致体重增长不良、营养不良或生长迟缓。发病机制涉及感觉处理失调、口腔运动功能障碍、亲子互动紊乱及潜在的器质性病变等。典型症状包括对食物气味或质地过度敏感，进餐时哭闹、作呕，或需刻板进食环境。诊断须排除器质性疾病，并基于标准化喂养评估。治疗采取多学科协作，涵盖营养支持、口腔运动训练、行为干预及家庭指导。在专病中心和数据平台建设中，该病被作为儿童保健领域的重要交叉学科病种，整合儿科、营养科与心理行为科资源进行精准管理。
+>
+> *Feeding disorder is a persistent disturbance in eating or feeding behaviors during infancy or early childhood, often presenting as food refusal, extreme selectivity, insufficient intake, or abnormal mealtime behaviors, resulting in inadequate weight gain, malnutrition, or growth faltering. Pathogenesis involves sensory processing dysfunction, oral-motor difficulties, disrupted parent-child intera…*
+
+💡 *本分类线上共 **5** 个数据集，以下为按站内访问次数排序的 Top 5 （累计访问 83 次）。点击数据集名称直达千方医数集详情页。*
+
+💡 *5 datasets in total on QianfangHub; the 5 most-viewed are listed below (83 page views in total). Click any dataset name to open its full profile.*
+
+[← 返回 耳鼻咽喉疾病 目录 / Back](../README.md) | [🌐 线上分类页 / Platform](https://www.qianfanghub.com/dataset/otorhinolaryngologic-diseases/feeding-disorders)
+
+| # | 数据集 / Dataset | 简介 / Summary | 模态 / Modality | 规模 / Scale | 访问 / Views | 来源 / Source |
+| :-: | :--- | :--- | :--- | :--- | :-: | :--- |
+| 1 | **[分泌物与气道消化功能补充数据](https://www.qianfanghub.com/dataset/otorhinolaryngologic-diseases/feeding-disorders/secretions-and-aerodigestive-function-%E5%88%86%E6%B3%8C%E7%89%A9%E4%B8%8E%E6%B0%94%E9%81%93%E6%B6%88%E5%8C%96%E5%8A%9F%E8%83%BD%E8%A1%A5%E5%85%85%E6%95%B0%E6%8D%AE)**<br>*Secretions and aerodigestive function* | 喂养障碍与气道保护、分泌物和吞咽协调密切相关，该数据可用于儿童气道消化功能和喂养安全分析。 | `表格` | `-` | 36 | [Figshare](https://asha.figshare.com/articles/dataset/Secretions_and_aerodigestive_function_Hunting_et_al_2023_/24101667) |
+| 2 | **[颈部传感器舌骨运动追踪数据](https://www.qianfanghub.com/dataset/otorhinolaryngologic-diseases/feeding-disorders/neck-sensor-supported-hyoid-bone-movement-tracking-during-swallowing-%E9%A2%88%E9%83%A8%E4%BC%A0%E6%84%9F%E5%99%A8%E8%88%8C%E9%AA%A8%E8%BF%90%E5%8A%A8%E8%BF%BD%E8%B8%AA%E6%95%B0%E6%8D%AE)**<br>*Neck sensor-supported hyoid bone movement tracking during swallowing* | 喂养障碍评估需关注吞咽生理，该数据可用于非侵入式预测舌骨运动、吞咽功能和喂养安全性。 | `时序` | `400 条` | 32 | [Figshare](https://figshare.com/articles/dataset/Neck_sensor-supported_hyoid_bone_movement_tracking_during_swallowing/7393232) |
+| 3 | **[喉软化婴儿喂养与吞咽问题数据集](https://www.qianfanghub.com/dataset/otorhinolaryngologic-diseases/feeding-disorders/feeding-and-swallowing-problems-in-infants-with-laryngomalacia-%E5%96%89%E8%BD%AF%E5%8C%96%E5%A9%B4%E5%84%BF%E5%96%82%E5%85%BB%E4%B8%8E%E5%90%9E%E5%92%BD%E9%97%AE%E9%A2%98%E6%95%B0%E6%8D%AE%E9%9B%86)**<br>*Feeding and Swallowing Problems in Infants With Laryngomalacia* | 该数据集来自 clinicaltrials.gov，聚焦喉软化婴儿中的喂养与吞咽问题，覆盖喂养障碍、吞咽障碍与喉软化等主题 | `其他` | `-` | 7 | [clinicaltrials](https://clinicaltrials.gov/study/NCT05337475) |
+| 4 | **[使用标准化病人培训护士进行饮水试验的数据集](https://www.qianfanghub.com/dataset/otorhinolaryngologic-diseases/feeding-disorders/training-nurses-to-perform-water-swallow-test-with-use-of-standardized-patients-%E4%BD%BF%E7%94%A8%E6%A0%87%E5%87%86%E5%8C%96%E7%97%85%E4%BA%BA%E5%9F%B9%E8%AE%AD%E6%8A%A4%E5%A3%AB%E8%BF%9B%E8%A1%8C%E9%A5%AE%E6%B0%B4%E8%AF%95%E9%AA%8C%E7%9A%84%E6%95%B0%E6%8D%AE%E9%9B%86)**<br>*Training Nurses to Perform Water Swallow Test with Use of Standardized Patients* | 该数据集来自 figshare，包含一份 Excel 文件，记录了使用标准化病人培训护士进行饮水试验的研究数据。文件内含三个工作表：新旧培训模式下培训者与提供者的培训人数、新培训模式下的评估表反馈、以及旧培训模式下的评估表反馈 | `文本` | `-` | 4 | [google_dataset](https://figshare.com/articles/dataset/Training_Nurses_to_Perform_Water_Swallow_Test_with_Use_of_Standardized_Patients/13110617) |
+| 5 | **[改善口咽吞咽困难老年人摄食干预开发数据](https://www.qianfanghub.com/dataset/otorhinolaryngologic-diseases/feeding-disorders/data-from-development-of-an-intervention-for-improving-ingestion-in-elders-with-oropharyngeal-dysphagia-%E6%94%B9%E5%96%84%E5%8F%A3%E5%92%BD%E5%90%9E%E5%92%BD%E5%9B%B0%E9%9A%BE%E8%80%81%E5%B9%B4%E4%BA%BA%E6%91%84%E9%A3%9F%E5%B9%B2%E9%A2%84%E5%BC%80%E5%8F%91%E6%95%B0%E6%8D%AE)**<br>*Data from: Development of an Intervention for Improving Ingestion in Elders with Orophary…* | 内容围绕为肌少性口咽吞咽困难老年人开发吞咽管理干预，依据英国医学研究理事会复杂干预开发与评估框架，通过文献回顾及利益相关者、专家和目标群体成员参与，形成以人为中心、基于活动的标准化干预手册，整合安全高效吞咽所需功能抗阻训练 | `其他` | `-` | 4 | [google_dataset](https://figshare.com/articles/dataset/Development_of_an_Intervention_for_Improving_Ingestion_in_Elders_with_Oropharyngeal_Dysphagia/12851096) |
+
+[← 返回 耳鼻咽喉疾病 目录 / Back](../README.md) | [🌐 线上分类页 / Platform](https://www.qianfanghub.com/dataset/otorhinolaryngologic-diseases/feeding-disorders) | [查看全量 / Full catalogue](https://www.qianfanghub.com/dataset/otorhinolaryngologic-diseases)

@@ -1,0 +1,24 @@
+# 艾森曼格综合征 · Eisenmenger syndrome — Top 6 Datasets
+
+> 所属系统 / System：**[心血管系统疾病 Cardiovascular Diseases](../README.md)**
+>
+> 分类定义 / Definition：艾森曼格综合征是因先天性心脏病导致严重肺动脉高压，进而引起心内或心外分流逆转，出现右向左分流并伴持续性发绀的一组临床病理生理状态。其核心机制为长期左向右分流引发肺血管阻力升高至超过体循环水平，常见于室间隔缺损、动脉导管未闭等早期未干预的畸形。患者表现为中心性发绀、杵状指、活动耐力下降、咯血及右心衰竭征象，严重时可合并心律失常、卒中或感染性心内膜炎。诊疗核心在于早期识别原发畸形、控制肺动脉高压及防治并发症，靶向药物与心肺移植为主要手段。该综合征是先天性心脏病晚期严重并发症的代表，对临床决策、预后评估及科研数据建模具有重要意义。
+>
+> *Eisenmenger syndrome is a pathophysiological condition characterized by severe pulmonary hypertension resulting from congenital heart defects, leading to reversed or bidirectional shunting and central cyanosis. It arises when long-standing left-to-right shunting through defects such as ventricular septal defect or patent ductus arteriosus elevates pulmonary vascular resistance to systemic or supr…*
+
+💡 *本分类线上共 **6** 个数据集，以下为按站内访问次数排序的 Top 6 （累计访问 175 次）。点击数据集名称直达千方医数集详情页。*
+
+💡 *6 datasets in total on QianfangHub; the 6 most-viewed are listed below (175 page views in total). Click any dataset name to open its full profile.*
+
+[← 返回 心血管系统疾病 目录 / Back](../README.md) | [🌐 线上分类页 / Platform](https://www.qianfanghub.com/dataset/cardiovascular-diseases/eisenmenger-syndrome)
+
+| # | 数据集 / Dataset | 简介 / Summary | 模态 / Modality | 规模 / Scale | 访问 / Views | 来源 / Source |
+| :-: | :--- | :--- | :--- | :--- | :-: | :--- |
+| 1 | **[ImageCHD先天性心脏病CT数据集](https://www.qianfanghub.com/dataset/cardiovascular-diseases/eisenmenger-syndrome/imagechd-imagechd%E5%85%88%E5%A4%A9%E6%80%A7%E5%BF%83%E8%84%8F%E7%97%85ct%E6%95%B0%E6%8D%AE%E9%9B%86)**<br>*ImageCHD* | ImageCHD先天性心脏病CT数据集收录先天性心脏病三维CT影像、心脏结构标签和疾病类型信息，数据模态为图像，适合艾森曼格综合征相关病例识别、诊断建模、分割检测、风险评估或临床研究复现。 | `图像` | `110 条` | 39 | [GitHub](https://github.com/XiaoweiXu/ImageCHD-A-3D-Computed-Tomography-Image-Dataset-for-Classification-of-Congenital-Heart-Disease) |
+| 2 | **[多模态全心分割挑战数据集](https://www.qianfanghub.com/dataset/cardiovascular-diseases/eisenmenger-syndrome/mm-whs-%E5%A4%9A%E6%A8%A1%E6%80%81%E5%85%A8%E5%BF%83%E5%88%86%E5%89%B2%E6%8C%91%E6%88%98%E6%95%B0%E6%8D%AE%E9%9B%86)**<br>*MM-WHS* | 多模态全心分割挑战数据集收录心脏CT和MRI影像及七个心脏结构的全心分割标注，数据模态为图像，适合艾森曼格综合征相关病例识别、诊断建模、分割检测、风险评估或临床研究复现。 | `图像` | `120 条` | 37 | [MM-WHS Challenge](https://zmiclab.github.io/zxh/0/mmwhs/) |
+| 3 | **[CARDIUM胎儿先天性心脏异常数据集](https://www.qianfanghub.com/dataset/cardiovascular-diseases/eisenmenger-syndrome/cardium-cardium%E8%83%8E%E5%84%BF%E5%85%88%E5%A4%A9%E6%80%A7%E5%BF%83%E8%84%8F%E5%BC%82%E5%B8%B8%E6%95%B0%E6%8D%AE%E9%9B%86)**<br>*CARDIUM* | CARDIUM胎儿先天性心脏异常数据集收录胎儿先天性心脏病诊断影像、统一病历和多模态标签，数据模态为多模态，适合艾森曼格综合征相关病例识别、诊断建模、分割检测、风险评估或临床研究复现。 | `多模态` | `-` | 34 | [CARDIUM Project](https://bcv-uniandes.github.io/CardiumPage/) |
+| 4 | **[HVSMR先心病心脏MRI分割数据集](https://www.qianfanghub.com/dataset/cardiovascular-diseases/eisenmenger-syndrome/hvsmr-2016-hvsmr%E5%85%88%E5%BF%83%E7%97%85%E5%BF%83%E8%84%8Fmri%E5%88%86%E5%89%B2%E6%95%B0%E6%8D%AE%E9%9B%86)**<br>*HVSMR 2016* | HVSMR先心病心脏MRI分割数据集收录先天性心脏病三维心血管MRI和全心大血管分割标注，数据模态为图像，适合艾森曼格综合征相关病例识别、诊断建模、分割检测、风险评估或临床研究复现。 | `图像` | `20 条` | 33 | [HVSMR Challenge](https://segchd.csail.mit.edu/data.html) |
+| 5 | **[妊娠史对神经管缺陷和艾森曼格综合征影响的数据集：与儿童及成人智力障碍和眼视觉疾病的关联——系统综述](https://www.qianfanghub.com/dataset/cardiovascular-diseases/eisenmenger-syndrome/dataset-of-influence-of-gestational-history-on-neural-tube-defects-and-eisenmenger-syndrome-associations-with-mental-retardation-and-visual-eye-disease-in-children-and-adults-%E2%80%93-a-systematic-review-%E5%A6%8A%E5%A8%A0%E5%8F%B2%E5%AF%B9%E7%A5%9E%E7%BB%8F%E7%AE%A1%E7%BC%BA%E9%99%B7%E5%92%8C%E8%89%BE%E6%A3%AE%E6%9B%BC%E6%A0%BC%E7%BB%BC%E5%90%88%E5%BE%81%E5%BD%B1%E5%93%8D%E7%9A%84%E6%95%B0%E6%8D%AE%E9%9B%86%EF%BC%9A%E4%B8%8E%E5%84%BF%E7%AB%A5%E5%8F%8A%E6%88%90%E4%BA%BA%E6%99%BA%E5%8A%9B%E9%9A%9C%E7%A2%8D%E5%92%8C%E7%9C%BC%E8%A7%86%E8%A7%89%E7%96%BE%E7%97%85%E7%9A%84%E5%85%B3%E8%81%94%E2%80%94%E2%80%94%E7%B3%BB%E7%BB%9F%E7%BB%BC%E8%BF%B0)**<br>*Dataset of Influence of Gestational History on Neural Tube Defects and Eisenmenger Syndro…* | 该数据集是一个医学系统综述数据集，包含表格、流程图和参考文献等多种模态数据，主要研究妊娠史对神经管缺陷和艾森曼格综合征的影响及其与智力障碍、眼视觉疾病的关联，适用于先天性畸形流行病学和围产期健康领域的关联分析研究。 | `-` | `-` | 24 | [Mendeley Data](https://data.mendeley.com/datasets/gg9k272hv8) |
+| 6 | **[Nextflow流程演示测试数据](https://www.qianfanghub.com/dataset/cardiovascular-diseases/eisenmenger-syndrome/test-data-for-demonstration-nextflow-pipeline-nextflow%E6%B5%81%E7%A8%8B%E6%BC%94%E7%A4%BA%E6%B5%8B%E8%AF%95%E6%95%B0%E6%8D%AE)**<br>*Test data for demonstration Nextflow pipeline* | 源数据获取自 hdf5 文件。主题标签：心血管系统疾病、艾森曼格综合征、单细胞测序、hdf5、Zenodo。本站分类：心血管系统疾病/艾森曼格综合征 | `基因组` | `-` | 8 | [zenodo](https://doi.org/10.5281/zenodo.23285638) |
+
+[← 返回 心血管系统疾病 目录 / Back](../README.md) | [🌐 线上分类页 / Platform](https://www.qianfanghub.com/dataset/cardiovascular-diseases/eisenmenger-syndrome) | [查看全量 / Full catalogue](https://www.qianfanghub.com/dataset/cardiovascular-diseases)

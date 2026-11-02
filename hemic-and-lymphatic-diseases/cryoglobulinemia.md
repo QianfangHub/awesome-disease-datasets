@@ -1,0 +1,22 @@
+# 冷球蛋白血症 · Cryoglobulinemia — Top 4 Datasets
+
+> 所属系统 / System：**[血液与淋巴系统疾病 Hemic and Lymphatic Diseases](../README.md)**
+>
+> 分类定义 / Definition：冷球蛋白血症是一种以血清中存在遇冷沉淀、复温溶解的异常免疫球蛋白（冷球蛋白）为特征的全身性疾病，多与慢性感染（尤其丙型肝炎病毒）、自身免疫病或淋巴增殖性疾病相关。冷球蛋白可形成免疫复合物并沉积于小血管壁，激活补体，引发全身性血管炎，典型表现包括紫癜、关节痛、周围神经病变及肾小球肾炎。严重者可出现进行性肾功能衰竭和肢端缺血。诊断依赖血清冷球蛋白检测、补体水平及病因筛查。治疗以病因干预（如抗病毒治疗）和免疫抑制为主，重症可采用血浆置换。在精准医学和生物标志物研究中，该病作为免疫复合物介导的血管炎模型备受关注。
+>
+> *Cryoglobulinemia is a systemic vasculitis characterized by the presence of cryoglobulins—immunoglobulins that precipitate at low temperatures and redissolve upon warming. It is strongly associated with chronic hepatitis C virus infection, autoimmune disorders, and lymphoproliferative diseases. Cryoglobulins form immune complexes that deposit in small vessel walls and activate complement, leading …*
+
+💡 *本分类线上共 **4** 个数据集，以下为按站内访问次数排序的 Top 4 （累计访问 115 次）。点击数据集名称直达千方医数集详情页。*
+
+💡 *4 datasets in total on QianfangHub; the 4 most-viewed are listed below (115 page views in total). Click any dataset name to open its full profile.*
+
+[← 返回 血液与淋巴系统疾病 目录 / Back](../README.md) | [🌐 线上分类页 / Platform](https://www.qianfanghub.com/dataset/hemic-and-lymphatic-diseases/cryoglobulinemia)
+
+| # | 数据集 / Dataset | 简介 / Summary | 模态 / Modality | 规模 / Scale | 访问 / Views | 来源 / Source |
+| :-: | :--- | :--- | :--- | :--- | :-: | :--- |
+| 1 | **[差异蛋白质组学应用于HCV诱导的冷球蛋白血症](https://www.qianfanghub.com/dataset/hemic-and-lymphatic-diseases/cryoglobulinemia/differential-proteogenomics-applied-to-hcv-induced-cryoglobulinemia-%E5%B7%AE%E5%BC%82%E8%9B%8B%E7%99%BD%E8%B4%A8%E7%BB%84%E5%AD%A6%E5%BA%94%E7%94%A8%E4%BA%8Ehcv%E8%AF%B1%E5%AF%BC%E7%9A%84%E5%86%B7%E7%90%83%E8%9B%8B%E7%99%BD%E8%A1%80%E7%97%87)**<br>*Differential proteogenomics applied to HCV-induced cryoglobulinemia* | 该数据集包含针对HCV诱导的冷球蛋白血症的差异蛋白质组学研究的图形摘要，数据模态为图像和文本描述，主要用途是分析丙型肝炎病毒相关冷球蛋白血症的蛋白质表达变化和分子机制，为蛋白质组学、病毒学及自身免疫疾病领域的研究提供可视化支持，有助于探索… | `-` | `-` | 32 | [Figshare](https://figshare.com/articles/dataset/Differential_proteogenomics_applied_to_HCV-induced_cryoglobulinemia/3545399) |
+| 2 | **[冷球蛋白血症血清蛋白质组谱](https://www.qianfanghub.com/dataset/hemic-and-lymphatic-diseases/cryoglobulinemia/serum-proteome-profiling-of-cryoglobulinemia-%E5%86%B7%E7%90%83%E8%9B%8B%E7%99%BD%E8%A1%80%E7%97%87%E8%A1%80%E6%B8%85%E8%9B%8B%E7%99%BD%E8%B4%A8%E7%BB%84%E8%B0%B1)**<br>*Serum Proteome profiling of Cryoglobulinemia* | 该数据集为冷球蛋白血症相关的血清蛋白质组学数据，通过质谱等技术分析患者血清中的蛋白质表达谱，数据模态为蛋白质组学数据，主要用于研究冷球蛋白血症的发病机制、识别潜在的生物标志物，并为临床诊断与治疗提供科学依据。 | `-` | `-` | 32 | [integrated proteome resources](https://www.iprox.cn/page/project.html?id=IPX0004041000) |
+| 3 | **[冷球蛋白血症阳性与阴性组的人口统计学数据](https://www.qianfanghub.com/dataset/hemic-and-lymphatic-diseases/cryoglobulinemia/demographics-of-the-cryoglobulinemia-positive-and-negative-groups-%E5%86%B7%E7%90%83%E8%9B%8B%E7%99%BD%E8%A1%80%E7%97%87%E9%98%B3%E6%80%A7%E4%B8%8E%E9%98%B4%E6%80%A7%E7%BB%84%E7%9A%84%E4%BA%BA%E5%8F%A3%E7%BB%9F%E8%AE%A1%E5%AD%A6%E6%95%B0%E6%8D%AE)**<br>*Demographics of the cryoglobulinemia-positive and -negative groups* | 该数据集包含冷球蛋白血症阳性患者与阴性对照组的人口统计学临床表格数据，记录了年龄、性别等基本特征，主要用于风湿免疫学和血液病学领域，支持疾病流行病学分析、风险因素探索以及人群特征比较研究。 | `-` | `-` | 26 | [Figshare](https://figshare.com/articles/dataset/Demographics_of_the_cryoglobulinemia-positive_and_-negative_groups_/5451727) |
+| 4 | **[混合型冷球蛋白血症患者中类似糖尿病视网膜病变的缺血性视网膜病变伴玻璃体出血病例](https://www.qianfanghub.com/dataset/hemic-and-lymphatic-diseases/cryoglobulinemia/ischemic-retinopathy-with-vitreous-hemorrhage-resembling-diabetic-retinopathy-in-a-patient-with-mixed-cryoglobulinemia-%E6%B7%B7%E5%90%88%E5%9E%8B%E5%86%B7%E7%90%83%E8%9B%8B%E7%99%BD%E8%A1%80%E7%97%87%E6%82%A3%E8%80%85%E4%B8%AD%E7%B1%BB%E4%BC%BC%E7%B3%96%E5%B0%BF%E7%97%85%E8%A7%86%E7%BD%91%E8%86%9C%E7%97%85%E5%8F%98%E7%9A%84%E7%BC%BA%E8%A1%80%E6%80%A7%E8%A7%86%E7%BD%91%E8%86%9C%E7%97%85%E5%8F%98%E4%BC%B4%E7%8E%BB%E7%92%83%E4%BD%93%E5%87%BA%E8%A1%80%E7%97%85%E4%BE%8B)**<br>*Ischemic Retinopathy with Vitreous Hemorrhage Resembling Diabetic Retinopathy in a Patien…* | 该数据集是一个包含一例混合型冷球蛋白血症患者眼部并发症详细信息的医学病例数据集，数据模态包括临床表格记录、实验室检查结果和眼科影像学描述，主要记录了患者双眼玻璃体出血、视网膜缺血性病变等临床表现及相关生化指标，主要用于研究冷球蛋白血症相关… | `-` | `-` | 25 | [Taylor & Francis Group](https://tandf.figshare.com/articles/dataset/Ischemic_Retinopathy_with_Vitreous_Hemorrhage_Resembling_Diabetic_Retinopathy_in_a_Patient_with_Mixed_Cryoglobulinemia/21044228/1) |
+
+[← 返回 血液与淋巴系统疾病 目录 / Back](../README.md) | [🌐 线上分类页 / Platform](https://www.qianfanghub.com/dataset/hemic-and-lymphatic-diseases/cryoglobulinemia) | [查看全量 / Full catalogue](https://www.qianfanghub.com/dataset/hemic-and-lymphatic-diseases)

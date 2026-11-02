@@ -1,0 +1,23 @@
+# 内耳肿瘤 · Inner ear tumors — Top 5 Datasets
+
+> 所属系统 / System：**[耳鼻咽喉疾病 Otorhinolaryngologic Diseases](../README.md)**
+>
+> 分类定义 / Definition：内耳肿瘤是指原发于内耳结构的良性或恶性肿瘤，以前庭神经鞘瘤（听神经瘤）最为常见，其次包括内淋巴囊瘤、血管瘤等。肿瘤多起源于第Ⅷ对脑神经前庭支的施万细胞，缓慢生长于内听道或桥小脑角区，压迫耳蜗神经、前庭神经及邻近结构。典型临床表现为进行性单侧感音神经性听力下降、耳鸣及眩晕，较大肿瘤可导致面瘫、面部感觉异常及颅内压增高。诊断主要依赖高分辨率磁共振成像与听力学检查。治疗策略包括显微手术切除、立体定向放射外科治疗及主动随访观察，需根据肿瘤大小、生长速度、听力水平及患者全身状况综合决策，强调多学科协作以改善预后与生活质量。
+>
+> *Inner ear tumors are neoplasms arising from structures within the inner ear, with vestibular schwannoma (acoustic neuroma) being the most prevalent, followed by endolymphatic sac tumors and vascular lesions. These tumors typically originate from Schwann cells of the vestibular portion of the eighth cranial nerve, expanding slowly within the internal auditory canal or cerebellopontine angle, and m…*
+
+💡 *本分类线上共 **5** 个数据集，以下为按站内访问次数排序的 Top 5 （累计访问 117 次）。点击数据集名称直达千方医数集详情页。*
+
+💡 *5 datasets in total on QianfangHub; the 5 most-viewed are listed below (117 page views in total). Click any dataset name to open its full profile.*
+
+[← 返回 耳鼻咽喉疾病 目录 / Back](../README.md) | [🌐 线上分类页 / Platform](https://www.qianfanghub.com/dataset/otorhinolaryngologic-diseases/inner-ear-tumors)
+
+| # | 数据集 / Dataset | 简介 / Summary | 模态 / Modality | 规模 / Scale | 访问 / Views | 来源 / Source |
+| :-: | :--- | :--- | :--- | :--- | :-: | :--- |
+| 1 | **[neuroGPT-X前庭神经鞘瘤问答数据](https://www.qianfanghub.com/dataset/otorhinolaryngologic-diseases/inner-ear-tumors/neurogpt-x-vestibular-schwannoma-dataset-neurogpt-x%E5%89%8D%E5%BA%AD%E7%A5%9E%E7%BB%8F%E9%9E%98%E7%98%A4%E9%97%AE%E7%AD%94%E6%95%B0%E6%8D%AE)**<br>*neuroGPT-X Vestibular Schwannoma Dataset* | 该数据集面向内耳肿瘤临床知识问答，适合医学NLP、专病知识库构建和问答系统评测。 | `文本` | `-` | 36 | [Mendeley Data](https://data.mendeley.com/datasets/b9mck42r35/1) |
+| 2 | **[CrossMoDA 2021跨模态域适应挑战数据](https://www.qianfanghub.com/dataset/otorhinolaryngologic-diseases/inner-ear-tumors/cross-modality-domain-adaptation-challenge-2021-crossmoda-2021%E8%B7%A8%E6%A8%A1%E6%80%81%E5%9F%9F%E9%80%82%E5%BA%94%E6%8C%91%E6%88%98%E6%95%B0%E6%8D%AE)**<br>*Cross-Modality Domain Adaptation Challenge 2021* | 该挑战数据针对内耳肿瘤T1到T2跨模态分割，适合域适应、半监督学习和肿瘤/耳蜗联合分割研究。 | `图像` | `-` | 33 | [Zenodo](https://zenodo.org/records/4662239) |
+| 3 | **[前庭神经鞘瘤灌注影像研究数据](https://www.qianfanghub.com/dataset/otorhinolaryngologic-diseases/inner-ear-tumors/perfusion-weighted-imaging-in-vestibular-schwannoma-%E5%89%8D%E5%BA%AD%E7%A5%9E%E7%BB%8F%E9%9E%98%E7%98%A4%E7%81%8C%E6%B3%A8%E5%BD%B1%E5%83%8F%E7%A0%94%E7%A9%B6%E6%95%B0%E6%8D%AE)**<br>*Perfusion-weighted imaging in vestibular schwannoma* | 该数据集适合内耳肿瘤影像生物标志物、囊性改变、灌注特征和术前风险评估模型研究。 | `表格` | `20 条` | 32 | [Figshare](https://scielo.figshare.com/articles/dataset/Perfusion-weighted_imaging_in_vestibular_schwannoma_the_influence_that_cystic_status_and_tumor_size_have_on_perfusion_profiles/22785472) |
+| 4 | **[Aminothiol PrC-210 对受照射豚鼠内耳的辐射防护作用](https://www.qianfanghub.com/dataset/otorhinolaryngologic-diseases/inner-ear-tumors/radioprotective-effect-of-aminothiol-prc-210-on-irradiated-inner-ear-of-guinea-pig-aminothiol-prc-210-%E5%AF%B9%E5%8F%97%E7%85%A7%E5%B0%84%E8%B1%9A%E9%BC%A0%E5%86%85%E8%80%B3%E7%9A%84%E8%BE%90%E5%B0%84%E9%98%B2%E6%8A%A4%E4%BD%9C%E7%94%A8)**<br>*Radioprotective Effect of Aminothiol PrC-210 on Irradiated Inner Ear of Guinea Pig* | 研究评估 Aminothiol PrC-210 对接受 3000 cGy gamma 辐射的豚鼠内耳的防护作用，通过腹腔或鼓室内给药，并在辐射后一周和两周记录 Auditory Brainstem Responses（ABRs），与 sh… | `其他` | `-` | 9 | [google_dataset](https://plos.figshare.com/articles/dataset/_Radioprotective_Effect_of_Aminothiol_PrC_210_on_Irradiated_Inner_Ear_of_Guinea_Pig_/1610179) |
+| 5 | **[内耳病变患者的人口学特征：基于磁共振成像的检测](https://www.qianfanghub.com/dataset/otorhinolaryngologic-diseases/inner-ear-tumors/demographic-findings-in-patients-with-inner-ear-lesions-as-detected-by-magnetic-resonance-imaging.-%E5%86%85%E8%80%B3%E7%97%85%E5%8F%98%E6%82%A3%E8%80%85%E7%9A%84%E4%BA%BA%E5%8F%A3%E5%AD%A6%E7%89%B9%E5%BE%81%EF%BC%9A%E5%9F%BA%E4%BA%8E%E7%A3%81%E5%85%B1%E6%8C%AF%E6%88%90%E5%83%8F%E7%9A%84%E6%A3%80%E6%B5%8B)**<br>*Demographic findings in patients with inner ear lesions as detected by magnetic resonance…* | 该数据集来自 plos.figshare.com，包含 1 个文件（Table 2.xls），对应 2017 年发表于 PLOS ONE 的论文，主题为磁共振成像检测到的内耳病变患者的人口学特征 | `医学影像` | `-` | 7 | [google_dataset](https://plos.figshare.com/articles/dataset/Demographic_findings_in_patients_with_inner_ear_lesions_as_detected_by_magnetic_resonance_imaging_/5471224) |
+
+[← 返回 耳鼻咽喉疾病 目录 / Back](../README.md) | [🌐 线上分类页 / Platform](https://www.qianfanghub.com/dataset/otorhinolaryngologic-diseases/inner-ear-tumors) | [查看全量 / Full catalogue](https://www.qianfanghub.com/dataset/otorhinolaryngologic-diseases)

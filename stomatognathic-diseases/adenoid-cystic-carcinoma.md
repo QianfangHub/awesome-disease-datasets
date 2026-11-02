@@ -1,0 +1,22 @@
+# 腺样囊性癌 · Adenoid cystic carcinoma — Top 4 Datasets
+
+> 所属系统 / System：**[口颌系统疾病 Stomatognathic Diseases](../README.md)**
+>
+> 分类定义 / Definition：腺样囊性癌是一种较为少见的涎腺恶性肿瘤，也可原发于气管、支气管、乳腺等部位。肿瘤由上皮细胞和肌上皮细胞构成，常呈筛状、管状或实性排列，具有显著的神经侵袭倾向。临床常表现为缓慢生长的无痛性肿块，但病程中易沿神经束膜扩散，导致疼痛、麻木或功能障碍，晚期可出现远处转移，尤以肺转移多见。诊断依赖影像学与病理活检，免疫组化有助于鉴别。治疗以局部彻底切除为主，术后常需辅助放射治疗以控制局部复发。因肿瘤具有晚期复发特性，需长期随访。该病在临床研究、精准病理分型及分子靶向治疗探索中具有重要价值。
+>
+> *Adenoid cystic carcinoma is a rare malignant tumor primarily arising in the salivary glands, though it may also originate in the trachea, bronchus, breast, and other sites. Histologically, it consists of epithelial and myoepithelial cells that form cribriform, tubular, or solid patterns, and it is characterized by a marked propensity for perineural invasion. Clinically, it often presents as a slo…*
+
+💡 *本分类线上共 **4** 个数据集，以下为按站内访问次数排序的 Top 4 （累计访问 174 次）。点击数据集名称直达千方医数集详情页。*
+
+💡 *4 datasets in total on QianfangHub; the 4 most-viewed are listed below (174 page views in total). Click any dataset name to open its full profile.*
+
+[← 返回 口颌系统疾病 目录 / Back](../README.md) | [🌐 线上分类页 / Platform](https://www.qianfanghub.com/dataset/stomatognathic-diseases/adenoid-cystic-carcinoma)
+
+| # | 数据集 / Dataset | 简介 / Summary | 模态 / Modality | 规模 / Scale | 访问 / Views | 来源 / Source |
+| :-: | :--- | :--- | :--- | :--- | :-: | :--- |
+| 1 | **[HNSCC三维CT放疗纵向数据集](https://www.qianfanghub.com/dataset/stomatognathic-diseases/adenoid-cystic-carcinoma/hnscc-3dct-rt-hnscc%E4%B8%89%E7%BB%B4ct%E6%94%BE%E7%96%97%E7%BA%B5%E5%90%91%E6%95%B0%E6%8D%AE%E9%9B%86)**<br>*HNSCC-3DCT-RT* | HNSCC-3DCT-RT 是与腺样囊性癌（Acinic cell carcinoma）相关的公开数据资源，主要包含31例头颈鳞癌治疗前中后三维CT、RTSTRUCT和剂量数据，数据模态为图像，适合用于图像分割、模型训练、基准评测或临床特… | `图像` | `31 条` | 52 | [TCIA](https://www.cancerimagingarchive.net/collection/hnscc-3dct-rt/) |
+| 2 | **[唾液腺腺样囊性癌中超基底蛋白低甲基化与转移相关数据集](https://www.qianfanghub.com/dataset/stomatognathic-diseases/adenoid-cystic-carcinoma/suprabasin-is-hypomethylated-and-associated-with-metastasis-in-salivary-adenoid-cystic-carcinoma-dataset-%E5%94%BE%E6%B6%B2%E8%85%BA%E8%85%BA%E6%A0%B7%E5%9B%8A%E6%80%A7%E7%99%8C%E4%B8%AD%E8%B6%85%E5%9F%BA%E5%BA%95%E8%9B%8B%E7%99%BD%E4%BD%8E%E7%94%B2%E5%9F%BA%E5%8C%96%E4%B8%8E%E8%BD%AC%E7%A7%BB%E7%9B%B8%E5%85%B3%E6%95%B0%E6%8D%AE%E9%9B%86)**<br>*Suprabasin Is Hypomethylated and Associated with Metastasis in Salivary Adenoid Cystic Ca…* | 该数据集包含唾液腺腺样囊性癌（ACC）相关的分子生物学和表观遗传学数据，具体涉及细胞功能实验（如细胞增殖和侵袭能力评估）、基因转录调控实验以及DNA甲基化水平检测数据，主要模态为实验数据和临床样本的分子检测数据，用于研究超基底蛋白（SBS… | `-` | `-` | 49 | [Figshare](https://figshare.com/articles/dataset/Suprabasin_Is_Hypomethylated_and_Associated_with_Metastasis_in_Salivary_Adenoid_Cystic_Carcinoma__/117694) |
+| 3 | **[miRNA与腺样囊性癌组织学模式的相关性数据集](https://www.qianfanghub.com/dataset/stomatognathic-diseases/adenoid-cystic-carcinoma/correlations-of-mirnas-with-histologic-pattern-of-adenoid-cystic-carcinoma-mirna%E4%B8%8E%E8%85%BA%E6%A0%B7%E5%9B%8A%E6%80%A7%E7%99%8C%E7%BB%84%E7%BB%87%E5%AD%A6%E6%A8%A1%E5%BC%8F%E7%9A%84%E7%9B%B8%E5%85%B3%E6%80%A7%E6%95%B0%E6%8D%AE%E9%9B%86)**<br>*Correlations of miRNAs with histologic pattern of adenoid cystic carcinoma* | 该数据集包含腺样囊性癌的miRNA表达数据及其与组织学模式（实体型与非实体型）的关联分析，数据模态为基因表达数值与统计检验结果，主要用于研究miRNA在腺样囊性癌病理分型中的生物标志物作用，为肿瘤分子机制探索和临床诊断提供支持。 | `-` | `-` | 39 | [Figshare](https://figshare.com/articles/dataset/_Correlations_of_miRNAs_with_histologic_pattern_of_adenoid_cystic_carcinoma_/731655) |
+| 4 | **[唾液腺腺样囊性癌临床病理数据的单变量生存分析](https://www.qianfanghub.com/dataset/stomatognathic-diseases/adenoid-cystic-carcinoma/univariable-survival-analysis-of-clinical-and-pathological-data-of-121-adenoid-cystic-carcinoma-of-salivary-gland-%E5%94%BE%E6%B6%B2%E8%85%BA%E8%85%BA%E6%A0%B7%E5%9B%8A%E6%80%A7%E7%99%8C%E4%B8%B4%E5%BA%8A%E7%97%85%E7%90%86%E6%95%B0%E6%8D%AE%E7%9A%84%E5%8D%95%E5%8F%98%E9%87%8F%E7%94%9F%E5%AD%98%E5%88%86%E6%9E%90)**<br>*Univariable Survival Analysis of Clinical and Pathological Data of 121 Adenoid Cystic Car…* | 该数据集包含121例唾液腺腺样囊性癌患者的临床表格数据，涵盖人口统计学、临床特征、病理参数及生存随访信息，通过单变量生存分析方法，旨在识别影响患者预后的关键因素，为唾液腺腺样囊性癌的临床研究和预后评估提供重要数据基础。 | `-` | `-` | 34 | [Figshare](https://figshare.com/articles/dataset/Univariable_survival_analysis_of_clinical_and_pathological_data_of_121_adenoid_cystic_carcinoma_of_salivary_gland_/4613893) |
+
+[← 返回 口颌系统疾病 目录 / Back](../README.md) | [🌐 线上分类页 / Platform](https://www.qianfanghub.com/dataset/stomatognathic-diseases/adenoid-cystic-carcinoma) | [查看全量 / Full catalogue](https://www.qianfanghub.com/dataset/stomatognathic-diseases)

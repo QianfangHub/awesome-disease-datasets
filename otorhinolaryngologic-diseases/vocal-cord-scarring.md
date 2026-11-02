@@ -1,0 +1,23 @@
+# 声带瘢痕 · Vocal cord scarring — Top 5 Datasets
+
+> 所属系统 / System：**[耳鼻咽喉疾病 Otorhinolaryngologic Diseases](../README.md)**
+>
+> 分类定义 / Definition：声带瘢痕是声带固有层纤维组织异常增生和重塑导致的病理状态，多由声带手术、外伤、放射治疗或慢性炎症引起。瘢痕形成破坏声带黏膜的正常分层结构，导致黏膜波动减弱或消失，声门闭合不全。患者常表现为持续性声音嘶哑、发声易疲、音域缩窄及气息声明显，严重者可有吞咽不适或呼吸不畅。喉镜检查可见声带边缘僵硬、粘连或黏膜缺损。治疗需结合嗓音康复训练、声带内注射填充物或手术松解等方法，目标是改善声带振动及声门闭合。近年来，组织工程、干细胞疗法及抗纤维化药物等新兴研究为声带瘢痕的功能重建提供了新方向，广泛应用于嗓音医学专病中心及临床科研数据库的诊疗路径优化。
+>
+> *Vocal cord scarring is a pathological condition characterized by excessive fibrotic tissue deposition and remodeling in the lamina propria of the vocal folds, often resulting from surgical trauma, intubation injury, radiation, or chronic inflammation. Scar formation disrupts the layered microstructure of the vocal fold mucosa, leading to reduced mucosal wave propagation, glottic insufficiency, an…*
+
+💡 *本分类线上共 **5** 个数据集，以下为按站内访问次数排序的 Top 5 （累计访问 37 次）。点击数据集名称直达千方医数集详情页。*
+
+💡 *5 datasets in total on QianfangHub; the 5 most-viewed are listed below (37 page views in total). Click any dataset name to open its full profile.*
+
+[← 返回 耳鼻咽喉疾病 目录 / Back](../README.md) | [🌐 线上分类页 / Platform](https://www.qianfanghub.com/dataset/otorhinolaryngologic-diseases/vocal-cord-scarring)
+
+| # | 数据集 / Dataset | 简介 / Summary | 模态 / Modality | 规模 / Scale | 访问 / Views | 来源 / Source |
+| :-: | :--- | :--- | :--- | :--- | :-: | :--- |
+| 1 | **[KP-100LI治疗声带瘢痕的3期研究](https://www.qianfanghub.com/dataset/otorhinolaryngologic-diseases/vocal-cord-scarring/phase-3-study-of-kp-100li-in-subjects-with-vocal-fold-scar-kp-100li%E6%B2%BB%E7%96%97%E5%A3%B0%E5%B8%A6%E7%98%A2%E7%97%95%E7%9A%843%E6%9C%9F%E7%A0%94%E7%A9%B6)**<br>*Phase 3 Study of KP-100LI in Subjects With Vocal Fold Scar* | 该数据集来自clinicaltrials.gov，收录一项针对声带瘢痕（含声带沟）受试者的3期临床研究信息。研究药物KP-100LI为含重组人dHGF活性成分的声带内制剂，目的是确认其用于声带瘢痕患者嗓音功能改善治疗的有效性与安全性 | `音频` | `-` | 9 | [clinicaltrials](https://clinicaltrials.gov/study/NCT05627648) |
+| 2 | **[分离的人hBEC供体人口统计学数据](https://www.qianfanghub.com/dataset/otorhinolaryngologic-diseases/vocal-cord-scarring/donor-demographic-of-isolated-hbec.-%E5%88%86%E7%A6%BB%E7%9A%84%E4%BA%BAhbec%E4%BE%9B%E4%BD%93%E4%BA%BA%E5%8F%A3%E7%BB%9F%E8%AE%A1%E5%AD%A6%E6%95%B0%E6%8D%AE)**<br>*Donor demographic of isolated hBEC.* | 该数据集来自plos.figshare.com，包含1个Table 1.xls文件，记录分离的人颊黏膜上皮细胞（hBEC）的供体人口统计学信息 | `蛋白质` | `-` | 9 | [google_dataset](https://plos.figshare.com/articles/dataset/Donor_demographic_of_isolated_hBEC_/23609900) |
+| 3 | **[描述性细胞表征原始数据](https://www.qianfanghub.com/dataset/otorhinolaryngologic-diseases/vocal-cord-scarring/raw-data-from-descriptive-cell-characterization.-%E6%8F%8F%E8%BF%B0%E6%80%A7%E7%BB%86%E8%83%9E%E8%A1%A8%E5%BE%81%E5%8E%9F%E5%A7%8B%E6%95%B0%E6%8D%AE)**<br>*Raw data from descriptive cell characterization.* | 该数据集为一项声带黏膜组织工程研究的原始数据，包含1个Excel文件。研究构建了由永生化人声带成纤维细胞与原代人颊黏膜上皮细胞组成的替代构建体（n=3），并在组织学与蛋白质组水平与天然喉黏膜进行比较 | `蛋白质` | `-` | 8 | [google_dataset](https://plos.figshare.com/articles/dataset/Raw_data_from_descriptive_cell_characterization_/23609837) |
+| 4 | **[配对声带与口腔黏膜成纤维细胞的比较蛋白质组学数据](https://www.qianfanghub.com/dataset/otorhinolaryngologic-diseases/vocal-cord-scarring/data-from-comparative-proteomics-of-pairedvocal-fold-and-oral-mucosa-fibroblasts-%E9%85%8D%E5%AF%B9%E5%A3%B0%E5%B8%A6%E4%B8%8E%E5%8F%A3%E8%85%94%E9%BB%8F%E8%86%9C%E6%88%90%E7%BA%A4%E7%BB%B4%E7%BB%86%E8%83%9E%E7%9A%84%E6%AF%94%E8%BE%83%E8%9B%8B%E7%99%BD%E8%B4%A8%E7%BB%84%E5%AD%A6%E6%95%B0%E6%8D%AE)**<br>*Data from: Comparative Proteomics of PairedVocal Fold and Oral Mucosa Fibroblasts* | 主题标签：耳鼻咽喉疾病、声带瘢痕、声带成纤维细胞、口腔黏膜成纤维细胞、比较蛋白质组学。本站分类：耳鼻咽喉疾病/声带瘢痕。本数据集为耳鼻咽喉疾病领域公开数据集，主题涵盖耳鼻咽喉疾病。 | `蛋白质` | `-` | 6 | [google_dataset](https://ebi.ac.uk/pride/archive/projects/PXD005106) |
+| 5 | **[兔慢性声带瘢痕模型FGF注射后Alcian blue染色与大体标本](https://www.qianfanghub.com/dataset/otorhinolaryngologic-diseases/vocal-cord-scarring/alcian-blue-staining-and-gross-specimen-after-fgf-injection-in-chronic-vocal-fold-scar-model-of-rabbit.-%E5%85%94%E6%85%A2%E6%80%A7%E5%A3%B0%E5%B8%A6%E7%98%A2%E7%97%95%E6%A8%A1%E5%9E%8Bfgf%E6%B3%A8%E5%B0%84%E5%90%8Ealcian-blue%E6%9F%93%E8%89%B2%E4%B8%8E%E5%A4%A7%E4%BD%93%E6%A0%87%E6%9C%AC)**<br>*Alcian blue staining and gross specimen after FGF injection in chronic vocal fold scar mo…* | 该数据集来自 figshare，包含兔慢性声带瘢痕模型中注射 FGF 后的 Alcian blue 染色图像与喉部大体标本照片，共 2 个文件 | `图像` | `-` | 5 | [google_dataset](https://figshare.com/articles/dataset/Alcian_blue_staining_after_FGF_injection_in_chronic_vocal_fold_scar_model_of_rabbit_/3749172) |
+
+[← 返回 耳鼻咽喉疾病 目录 / Back](../README.md) | [🌐 线上分类页 / Platform](https://www.qianfanghub.com/dataset/otorhinolaryngologic-diseases/vocal-cord-scarring) | [查看全量 / Full catalogue](https://www.qianfanghub.com/dataset/otorhinolaryngologic-diseases)

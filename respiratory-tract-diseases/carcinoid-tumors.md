@@ -1,0 +1,28 @@
+# 类癌肿瘤 · Carcinoid tumors — Top 10 Datasets
+
+> 所属系统 / System：**[呼吸道疾病 Respiratory Tract Diseases](../README.md)**
+>
+> 分类定义 / Definition：类癌肿瘤是起源于弥漫性神经内分泌系统、特别是肠嗜铬细胞的低度恶性肿瘤，最常见于胃肠道，其次为支气管肺系统。肿瘤细胞可分泌5-羟色胺、缓激肽等多种血管活性物质，当肝转移导致激素大量进入体循环时，可出现类癌综合征，表现为发作性皮肤潮红、水样腹泻、支气管痉挛及右心瓣膜纤维化等。诊断依赖血清嗜铬粒蛋白A、24小时尿5-羟吲哚乙酸检测及影像学定位，手术切除是局限性病变的首选治疗，转移性病例可采用生长抑素类似物控制症状、靶向治疗及肽受体放射性核素治疗。
+>
+> *Carcinoid tumors are low-grade malignant neoplasms arising from the diffuse neuroendocrine system, primarily from enterochromaffin cells, most commonly occurring in the gastrointestinal tract and less frequently in the bronchopulmonary system. These tumors secrete vasoactive substances such as serotonin and bradykinin; when hepatic metastases allow these mediators access to systemic circulation, …*
+
+💡 *本分类线上共 **10** 个数据集，以下为按站内访问次数排序的 Top 10 （累计访问 259 次）。点击数据集名称直达千方医数集详情页。*
+
+💡 *10 datasets in total on QianfangHub; the 10 most-viewed are listed below (259 page views in total). Click any dataset name to open its full profile.*
+
+[← 返回 呼吸道疾病 目录 / Back](../README.md) | [🌐 线上分类页 / Platform](https://www.qianfanghub.com/dataset/respiratory-tract-diseases/carcinoid-tumors)
+
+| # | 数据集 / Dataset | 简介 / Summary | 模态 / Modality | 规模 / Scale | 访问 / Views | 来源 / Source |
+| :-: | :--- | :--- | :--- | :--- | :-: | :--- |
+| 1 | **[国际癌症基因组联盟肺癌数据集](https://www.qianfanghub.com/dataset/respiratory-tract-diseases/carcinoid-tumors/icgc-lung-cancer-dataset-%E5%9B%BD%E9%99%85%E7%99%8C%E7%97%87%E5%9F%BA%E5%9B%A0%E7%BB%84%E8%81%94%E7%9B%9F%E8%82%BA%E7%99%8C%E6%95%B0%E6%8D%AE%E9%9B%86)**<br>*ICGC Lung Cancer Dataset* | 该数据集汇集国际多队列肺癌基因组数据，包括突变谱、表达谱及临床信息，用于跨人群癌症比较分析与分子机制研究。 | `多模态` | `-` | 40 | [ICGC Data Portal](https://dcc.icgc.org/) |
+| 2 | **[TCGA肺腺癌泛癌分析数据集](https://www.qianfanghub.com/dataset/respiratory-tract-diseases/carcinoid-tumors/tcga-luad-pancancer-atlas-cbioportal-tcga%E8%82%BA%E8%85%BA%E7%99%8C%E6%B3%9B%E7%99%8C%E5%88%86%E6%9E%90%E6%95%B0%E6%8D%AE%E9%9B%86)**<br>*TCGA LUAD PanCancer Atlas (cBioPortal)* | 该数据集整合TCGA肺腺癌泛癌分析结果，提供基因突变、拷贝数变异及临床信息，支持跨癌种对比分析与肺癌分子分型研究。 | `多模态` | `-` | 31 | [cBioPortal](https://www.cbioportal.org/study/summary?id=luad_tcga_pan_can_atlas_2018) |
+| 3 | **[TCGA肺腺癌数据集](https://www.qianfanghub.com/dataset/respiratory-tract-diseases/carcinoid-tumors/tcga-luad-tcga%E8%82%BA%E8%85%BA%E7%99%8C%E6%95%B0%E6%8D%AE%E9%9B%86)**<br>*TCGA-LUAD* | TCGA-LUAD提供肺腺癌患者的多组学数据，包括DNA突变、RNA表达及临床随访信息，覆盖分子层面到临床结局分析，常用于肺癌分型、预后建模及靶向治疗研究。 | `多模态` | `585 条` | 27 | [GDC Data Portal](https://portal.gdc.cancer.gov/projects/TCGA-LUAD) |
+| 4 | **[TCGA肺鳞癌泛癌分析数据集](https://www.qianfanghub.com/dataset/respiratory-tract-diseases/carcinoid-tumors/tcga-lusc-pancancer-atlas-cbioportal-tcga%E8%82%BA%E9%B3%9E%E7%99%8C%E6%B3%9B%E7%99%8C%E5%88%86%E6%9E%90%E6%95%B0%E6%8D%AE%E9%9B%86)**<br>*TCGA LUSC PanCancer Atlas (cBioPortal)* | 该数据集整合TCGA肺鳞癌泛癌分析数据，包含基因突变、拷贝数变异及临床生存信息，用于肺癌分子机制研究与跨癌种比较分析。 | `多模态` | `-` | 27 | [cBioPortal](https://www.cbioportal.org/study/summary?id=lusc_tcga_pan_can_atlas_2018) |
+| 5 | **[美国SEER癌症统计数据集](https://www.qianfanghub.com/dataset/respiratory-tract-diseases/carcinoid-tumors/seer-program-dataset-%E7%BE%8E%E5%9B%BDseer%E7%99%8C%E7%97%87%E7%BB%9F%E8%AE%A1%E6%95%B0%E6%8D%AE%E9%9B%86)**<br>*SEER Program Dataset* | SEER数据集提供美国癌症发病率、生存率及人口统计信息，覆盖多种肿瘤类型，是肿瘤流行病学分析、公共卫生研究及癌症趋势预测的重要数据来源。 | `表格` | `-` | 24 | [SEER Program](https://seer.cancer.gov/data/) |
+| 6 | **[AACR GENIE肿瘤临床基因组数据集](https://www.qianfanghub.com/dataset/respiratory-tract-diseases/carcinoid-tumors/aacr-project-genie-aacr-genie%E8%82%BF%E7%98%A4%E4%B8%B4%E5%BA%8A%E5%9F%BA%E5%9B%A0%E7%BB%84%E6%95%B0%E6%8D%AE%E9%9B%86)**<br>*AACR Project GENIE* | GENIE数据集汇集多癌种临床基因组测序数据，包括突变谱与临床结局信息，支持真实世界肿瘤学研究与精准医学分析。 | `多模态` | `-` | 24 | [AACR GENIE](https://www.aacr.org/professionals/research/aacr-project-genie/) |
+| 7 | **[CPTAC肺腺癌蛋白质组数据集](https://www.qianfanghub.com/dataset/respiratory-tract-diseases/carcinoid-tumors/cptac-lung-adenocarcinoma-cptac%E8%82%BA%E8%85%BA%E7%99%8C%E8%9B%8B%E7%99%BD%E8%B4%A8%E7%BB%84%E6%95%B0%E6%8D%AE%E9%9B%86)**<br>*CPTAC Lung Adenocarcinoma* | 该数据集提供肺腺癌蛋白质组与转录组多组学数据，结合临床信息用于解析肿瘤分子机制、蛋白表达变化及潜在治疗靶点研究。 | `多模态` | `-` | 24 | [CPTAC Data Portal](https://cptac-data-portal.georgetown.edu/) |
+| 8 | **[犬胆囊类癌两例](https://www.qianfanghub.com/dataset/respiratory-tract-diseases/carcinoid-tumors/carcinoid-of-the-gallbladder-in-two-dogs-%E7%8A%AC%E8%83%86%E5%9B%8A%E7%B1%BB%E7%99%8C%E4%B8%A4%E4%BE%8B)**<br>*Carcinoid of the Gallbladder in Two Dogs* | 该数据集包含两只10岁犬（西施犬和可卡犬）胆囊类癌的完整临床病理学资料，数据模态涵盖临床记录（症状、超声检查）、手术记录和病理学数据（组织学切片与免疫组化染色图像），主要用于兽医肿瘤学领域研究罕见肝胆系统神经内分泌肿瘤的临床表现、病理诊断… | `-` | `-` | 22 | [Mendeley Data](https://scielo.figshare.com/articles/Carcinoid_of_the_gallbladder_in_two_dogs/11930184) |
+| 9 | **[人类蛋白图谱肺癌组织数据集](https://www.qianfanghub.com/dataset/respiratory-tract-diseases/carcinoid-tumors/human-protein-atlas-lung-cancer-%E4%BA%BA%E7%B1%BB%E8%9B%8B%E7%99%BD%E5%9B%BE%E8%B0%B1%E8%82%BA%E7%99%8C%E7%BB%84%E7%BB%87%E6%95%B0%E6%8D%AE%E9%9B%86)**<br>*Human Protein Atlas Lung Cancer* | 该数据集提供肺癌组织的蛋白表达与免疫组化图像数据，用于研究肿瘤蛋白分布特征及肺癌组织微环境分析与生物标志物发现。 | `多模态` | `-` | 21 | [Human Protein Atlas](https://www.proteinatlas.org/humanproteome/pathology/lung+cancer) |
+| 10 | **[TCGA肺鳞癌数据集](https://www.qianfanghub.com/dataset/respiratory-tract-diseases/carcinoid-tumors/tcga-lusc-tcga%E8%82%BA%E9%B3%9E%E7%99%8C%E6%95%B0%E6%8D%AE%E9%9B%86)**<br>*TCGA-LUSC* | TCGA-LUSC包含肺鳞状细胞癌的多组学数据，包括基因突变、表达谱和临床信息，常用于肺癌亚型分类、生存分析及分子机制研究。 | `多模态` | `-` | 19 | [GDC Data Portal](https://portal.gdc.cancer.gov/projects/TCGA-LUSC) |
+
+[← 返回 呼吸道疾病 目录 / Back](../README.md) | [🌐 线上分类页 / Platform](https://www.qianfanghub.com/dataset/respiratory-tract-diseases/carcinoid-tumors) | [查看全量 / Full catalogue](https://www.qianfanghub.com/dataset/respiratory-tract-diseases)

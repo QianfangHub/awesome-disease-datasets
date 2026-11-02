@@ -1,0 +1,21 @@
+# 中枢神经系统淋巴瘤 · Central nervous system (CNS) lymphoma — Top 3 Datasets
+
+> 所属系统 / System：**[血液与淋巴系统疾病 Hemic and Lymphatic Diseases](../README.md)**
+>
+> 分类定义 / Definition：中枢神经系统淋巴瘤是一种罕见的结外非霍奇金淋巴瘤，局限于脑、脊髓、软脑膜或眼球，无全身性淋巴瘤证据。病理以弥漫性大B细胞淋巴瘤为主，多与免疫缺陷相关，但免疫正常人群发病率亦在上升。临床常呈亚急性起病，表现为局灶性神经功能缺损、认知行为改变或颅内高压症状。影像学上可见单发或多发脑实质占位，呈均匀强化。诊断依赖立体定向活检及脑脊液细胞学和分子检测。治疗以大剂量甲氨蝶呤为基础的化疗为核心，可联合放疗或自体干细胞移植，免疫调节及靶向治疗为新兴方向。该病在临床、影像及病理层面均具挑战，是神经肿瘤学与血液肿瘤学交叉的精准诊疗焦点。
+>
+> *Central nervous system (CNS) lymphoma is a rare extranodal non-Hodgkin lymphoma confined to the brain, spinal cord, leptomeninges, or eyes, without evidence of systemic disease. The vast majority are diffuse large B-cell lymphomas, frequently associated with immunodeficiency, though its incidence is also rising in immunocompetent populations. Patients typically present with subacute focal neurolo…*
+
+💡 *本分类线上共 **3** 个数据集，以下为按站内访问次数排序的 Top 3 （累计访问 110 次）。点击数据集名称直达千方医数集详情页。*
+
+💡 *3 datasets in total on QianfangHub; the 3 most-viewed are listed below (110 page views in total). Click any dataset name to open its full profile.*
+
+[← 返回 血液与淋巴系统疾病 目录 / Back](../README.md) | [🌐 线上分类页 / Platform](https://www.qianfanghub.com/dataset/hemic-and-lymphatic-diseases/central-nervous-system-cns-lymphoma)
+
+| # | 数据集 / Dataset | 简介 / Summary | 模态 / Modality | 规模 / Scale | 访问 / Views | 来源 / Source |
+| :-: | :--- | :--- | :--- | :--- | :-: | :--- |
+| 1 | **[Padlock设计的MOFs通过'雪崩效应'增强中枢神经系统淋巴瘤细胞凋亡并抑制转移](https://www.qianfanghub.com/dataset/hemic-and-lymphatic-diseases/central-nervous-system-cns-lymphoma/padlock-designed-mofs-triggers-an-avalanche-effect-to-enhance-apoptosis-and-suppress-metastasis-in-central-nervous-system-lymphoma-padlock%E8%AE%BE%E8%AE%A1%E7%9A%84mofs%E9%80%9A%E8%BF%87-%E9%9B%AA%E5%B4%A9%E6%95%88%E5%BA%94-%E5%A2%9E%E5%BC%BA%E4%B8%AD%E6%9E%A2%E7%A5%9E%E7%BB%8F%E7%B3%BB%E7%BB%9F%E6%B7%8B%E5%B7%B4%E7%98%A4%E7%BB%86%E8%83%9E%E5%87%8B%E4%BA%A1%E5%B9%B6%E6%8A%91%E5%88%B6%E8%BD%AC%E7%A7%BB)**<br>*Padlock-Designed MOFs Triggers an 'Avalanche Effect' to Enhance Apoptosis and Suppress Me…* | 该数据集是一个针对中枢神经系统淋巴瘤的单细胞RNA测序数据集，包含来自肿瘤模型小鼠的脑、肠道、血液组织以及健康小鼠脑组织的单细胞转录组数据，数据模态为单细胞基因表达谱。其主要用途是研究Padlock设计的金属有机框架（MOFs）如何通过'… | `-` | `-` | 40 | [Mendeley Data](https://data.mendeley.com/datasets/cptd93fk2r) |
+| 2 | **[PD-L1和IDO1作为原发性中枢神经系统弥漫性大B细胞淋巴瘤治疗潜在靶点的研究数据集](https://www.qianfanghub.com/dataset/hemic-and-lymphatic-diseases/central-nervous-system-cns-lymphoma/pd-l1-and-ido1-as-potential-targets-for-treatment-in-primary-diffuse-large-b-cell-lymphoma-of-the-cns-dataset-pd-l1%E5%92%8Cido1%E4%BD%9C%E4%B8%BA%E5%8E%9F%E5%8F%91%E6%80%A7%E4%B8%AD%E6%9E%A2%E7%A5%9E%E7%BB%8F%E7%B3%BB%E7%BB%9F%E5%BC%A5%E6%BC%AB%E6%80%A7%E5%A4%A7b%E7%BB%86%E8%83%9E%E6%B7%8B%E5%B7%B4%E7%98%A4%E6%B2%BB%E7%96%97%E6%BD%9C%E5%9C%A8%E9%9D%B6%E7%82%B9%E7%9A%84%E7%A0%94%E7%A9%B6%E6%95%B0%E6%8D%AE%E9%9B%86)**<br>*PD-L1 and IDO1 as Potential Targets for Treatment in Primary Diffuse Large B-Cell Lymphom…* | 该数据集整合了45例原发性中枢神经系统弥漫性大B细胞淋巴瘤患者的组织芯片样本，包含RNA测序数据、基因表达谱、免疫组化染色结果（PD-1、PD-L1、PD-L2、IDO1等）以及EBER原位杂交检测等多模态数据，主要用于研究肿瘤免疫微环境… | `-` | `-` | 37 | [Figshare](https://figshare.com/articles/dataset/PD-L1_and_IDO1_are_potential_targets_for_treatment_in_patients_with_primary_diffuse_large_B-cell_lymphoma_of_the_CNS/13979584) |
+| 3 | **[原发性中枢神经系统淋巴瘤切除术对患者总体生存影响数据集](https://www.qianfanghub.com/dataset/hemic-and-lymphatic-diseases/central-nervous-system-cns-lymphoma/dataset-related-to-article-resection-of-primary-central-nervous-system-lymphoma-impact-of-patient-selection-on-overall-survival-%E5%8E%9F%E5%8F%91%E6%80%A7%E4%B8%AD%E6%9E%A2%E7%A5%9E%E7%BB%8F%E7%B3%BB%E7%BB%9F%E6%B7%8B%E5%B7%B4%E7%98%A4%E5%88%87%E9%99%A4%E6%9C%AF%E5%AF%B9%E6%82%A3%E8%80%85%E6%80%BB%E4%BD%93%E7%94%9F%E5%AD%98%E5%BD%B1%E5%93%8D%E6%95%B0%E6%8D%AE%E9%9B%86)**<br>*Dataset Related to Article 'Resection of primary central nervous system lymphoma: impact …* | 该数据集收录了原发性中枢神经系统淋巴瘤患者的临床表格数据，涵盖患者特征、合并症、术前术后症状、病变细节、辅助治疗方案、组织学结果以及无进展生存期和总生存期等预后指标，主要用于神经肿瘤学和外科预后研究，以评估手术切除对患者生存的影响并优化治… | `-` | `-` | 33 | [Zenodo](https://zenodo.org/record/5883265) |
+
+[← 返回 血液与淋巴系统疾病 目录 / Back](../README.md) | [🌐 线上分类页 / Platform](https://www.qianfanghub.com/dataset/hemic-and-lymphatic-diseases/central-nervous-system-cns-lymphoma) | [查看全量 / Full catalogue](https://www.qianfanghub.com/dataset/hemic-and-lymphatic-diseases)
