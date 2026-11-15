@@ -6,14 +6,14 @@
 >
 > *Gastrointestinal stromal tumor (GIST) is a mesenchymal neoplasm arising from the interstitial cells of Cajal or their precursors within the gastrointestinal tract, representing the most common non-epithelial tumor of the digestive system. Its pathogenesis is primarily driven by gain-of-function mutations in KIT or PDGFRA genes, leading to constitutive activation of receptor tyrosine kinases and u…*
 
-💡 *本分类线上共 **1** 个数据集，以下为按站内访问次数排序的 Top 1 （累计访问 33 次）。点击数据集名称直达千方医数集详情页。*
+💡 *本分类线上共 **1** 个数据集，以下为按站内访问次数排序的 Top 1 （累计访问 2 次）。点击数据集名称直达千方医数集详情页。*
 
-💡 *1 datasets in total on QianfangHub; the 1 most-viewed are listed below (33 page views in total). Click any dataset name to open its full profile.*
+💡 *1 datasets in total on QianfangHub; the 1 most-viewed are listed below (2 page views in total). Click any dataset name to open its full profile.*
 
 [← 返回 消化系统疾病 目录 / Back](../README.md) | [🌐 线上分类页 / Platform](https://www.qianfanghub.com/dataset/digestive-system-diseases/gastrointestinal-stromal-tumor-gist)
 
 | # | 数据集 / Dataset | 简介 / Summary | 模态 / Modality | 规模 / Scale | 访问 / Views | 来源 / Source |
 | :-: | :--- | :--- | :--- | :--- | :-: | :--- |
-| 1 | **[减重手术中胃肠道间质瘤的治疗](https://www.qianfanghub.com/dataset/digestive-system-diseases/gastrointestinal-stromal-tumor-gist/treatment-of-gastrointestinal-stromal-tumor-gist-during-bariatric-surgery-%E5%87%8F%E9%87%8D%E6%89%8B%E6%9C%AF%E4%B8%AD%E8%83%83%E8%82%A0%E9%81%93%E9%97%B4%E8%B4%A8%E7%98%A4%E7%9A%84%E6%B2%BB%E7%96%97)**<br>*Treatment of gastrointestinal stromal tumor (GIST) during bariatric surgery* | 该数据集包含在减重手术（如胃旁路术、袖状胃切除术）过程中，对肥胖患者胃肠道间质瘤（GIST）进行腹腔镜切除的临床数据，属于临床表格与手术记录文本模态，主要用于研究肥胖合并GIST患者的外科治疗策略、手术安全性及联合手术的临床效果，旨在为这… | `-` | `-` | 33 | [Figshare](https://figshare.com/articles/dataset/Treatment_of_gastrointestinal_stromal_tumor_GIST_during_bariatric_surgery/19959107) |
+| 1 | **[减重手术中胃肠道间质瘤的治疗](https://www.qianfanghub.com/dataset/digestive-system-diseases/gastrointestinal-stromal-tumor-gist/treatment-of-gastrointestinal-stromal-tumor-gist-during-bariatric-surgery-%E5%87%8F%E9%87%8D%E6%89%8B%E6%9C%AF%E4%B8%AD%E8%83%83%E8%82%A0%E9%81%93%E9%97%B4%E8%B4%A8%E7%98%A4%E7%9A%84%E6%B2%BB%E7%96%97)**<br>*Treatment of gastrointestinal stromal tumor (GIST) during bariatric surgery* | 该数据集包含在减重手术（如胃旁路术、袖状胃切除术）过程中，对肥胖患者胃肠道间质瘤（GIST）进行腹腔镜切除的临床数据，属于临床表格与手术记录文本模态，主要用于研究肥胖合并GIST患者的外科治疗策略、手术安全性及联合手术的临床效果，旨在为这… | `文本` | `-` | 2 | [Figshare](https://figshare.com/articles/dataset/Treatment_of_gastrointestinal_stromal_tumor_GIST_during_bariatric_surgery/19959107) |
 
 [← 返回 消化系统疾病 目录 / Back](../README.md) | [🌐 线上分类页 / Platform](https://www.qianfanghub.com/dataset/digestive-system-diseases/gastrointestinal-stromal-tumor-gist) | [查看全量 / Full catalogue](https://www.qianfanghub.com/dataset/digestive-system-diseases)

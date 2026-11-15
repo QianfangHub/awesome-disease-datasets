@@ -6,15 +6,15 @@
 >
 > *Endocrine malignancies are a group of cancers arising from endocrine glands or neuroendocrine cells, most commonly including thyroid carcinoma and adrenocortical carcinoma. Their pathogenesis involves activation of oncogenes, inactivation of tumor suppressor genes, and aberrant hormonal signaling. Early-stage disease may be asymptomatic, while advanced tumors often lead to endocrine dysfunctions …*
 
-💡 *本分类线上共 **2** 个数据集，以下为按站内访问次数排序的 Top 2 （累计访问 68 次）。点击数据集名称直达千方医数集详情页。*
+💡 *本分类线上共 **2** 个数据集，以下为按站内访问次数排序的 Top 2 （累计访问 2 次）。点击数据集名称直达千方医数集详情页。*
 
-💡 *2 datasets in total on QianfangHub; the 2 most-viewed are listed below (68 page views in total). Click any dataset name to open its full profile.*
+💡 *2 datasets in total on QianfangHub; the 2 most-viewed are listed below (2 page views in total). Click any dataset name to open its full profile.*
 
 [← 返回 内分泌系统疾病 目录 / Back](../README.md) | [🌐 线上分类页 / Platform](https://www.qianfanghub.com/dataset/endocrine-system-diseases/cancer)
 
 | # | 数据集 / Dataset | 简介 / Summary | 模态 / Modality | 规模 / Scale | 访问 / Views | 来源 / Source |
 | :-: | :--- | :--- | :--- | :--- | :-: | :--- |
-| 1 | **[TCGA肾上腺皮质癌队列](https://www.qianfanghub.com/dataset/endocrine-system-diseases/cancer/tcga-acc-tcga%E8%82%BE%E4%B8%8A%E8%85%BA%E7%9A%AE%E8%B4%A8%E7%99%8C%E9%98%9F%E5%88%97)**<br>*TCGA-ACC* | 内分泌系统疾病领域多模态公开数据集，来源：gdc。 | `多模态` | `92 条` | 34 | [GDC Data Portal](https://portal.gdc.cancer.gov/projects/TCGA-ACC) |
-| 2 | **[TCGA嗜铬细胞瘤和副神经节瘤队列](https://www.qianfanghub.com/dataset/endocrine-system-diseases/cancer/tcga-pcpg-tcga%E5%97%9C%E9%93%AC%E7%BB%86%E8%83%9E%E7%98%A4%E5%92%8C%E5%89%AF%E7%A5%9E%E7%BB%8F%E8%8A%82%E7%98%A4%E9%98%9F%E5%88%97)**<br>*TCGA-PCPG* | 内分泌系统疾病领域多模态公开数据集，来源：gdc。 | `多模态` | `179 条` | 34 | [GDC Data Portal](https://portal.gdc.cancer.gov/projects/TCGA-PCPG) |
+| 1 | **[TCGA肾上腺皮质癌队列](https://www.qianfanghub.com/dataset/endocrine-system-diseases/cancer/tcga-acc-tcga%E8%82%BE%E4%B8%8A%E8%85%BA%E7%9A%AE%E8%B4%A8%E7%99%8C%E9%98%9F%E5%88%97)**<br>*TCGA-ACC* | 肾上腺皮质癌TCGA数据 | `多模态` | `92 条` | 1 | [GDC Data Portal](https://portal.gdc.cancer.gov/projects/TCGA-ACC) |
+| 2 | **[TCGA嗜铬细胞瘤和副神经节瘤队列](https://www.qianfanghub.com/dataset/endocrine-system-diseases/cancer/tcga-pcpg-tcga%E5%97%9C%E9%93%AC%E7%BB%86%E8%83%9E%E7%98%A4%E5%92%8C%E5%89%AF%E7%A5%9E%E7%BB%8F%E8%8A%82%E7%98%A4%E9%98%9F%E5%88%97)**<br>*TCGA-PCPG* | PCPG内分泌肿瘤数据 | `多模态` | `179 条` | 1 | [GDC Data Portal](https://portal.gdc.cancer.gov/projects/TCGA-PCPG) |
 
 [← 返回 内分泌系统疾病 目录 / Back](../README.md) | [🌐 线上分类页 / Platform](https://www.qianfanghub.com/dataset/endocrine-system-diseases/cancer) | [查看全量 / Full catalogue](https://www.qianfanghub.com/dataset/endocrine-system-diseases)

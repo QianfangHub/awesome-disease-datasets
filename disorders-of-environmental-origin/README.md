@@ -8,12 +8,12 @@
 
 *Disorders of Environmental Origin encompass a broad spectrum of health conditions caused by exposure to physical, chemical, biological, and psychosocial environmental factors. These disorders arise through mechanisms such as direct cellular toxicity, immune dysregulation, metabolic disruption, and epigenetic modifications. The clinical landscape includes acute and chronic intoxications, occupational lung diseases, environmentally linked cancers, and injuries from physical agents, with manifestations heavily influenced by exposure dose, duration, and host susceptibility. As industrialization and climate change accelerate, the global burden of these diseases continues to grow, necessitating integrated diagnostic approaches that combine exposure history assessment, biomarker detection, and environmental interventions. Advances in exposomics, longitudinal cohort studies, and cross-sectoral environmental health policies are pivotal for early risk identification and mitigation of population-level health impacts.*
 
-💡 *本级共 **1** 个二级分类、**161** 个数据集；本仓库展示其中 100 条 Top 数据集。*
+💡 *本级共 **1** 个二级分类、**172** 个数据集；本仓库展示其中 100 条 Top 数据集。*
 
 [← 返回主目录 / Back to README](../README.md) | [🌐 线上分类页 / Platform](https://www.qianfanghub.com/dataset/disorders-of-environmental-origin)
 
 | # | 二级分类 / Sub-category | 数据集 / Datasets | 本仓库视图 / View | 线上 / Platform |
 | :-: | :--- | :-: | :--- | :--- |
-| 1 | **其他**<br>*Disorders of Environmental Origin Other* | 161 | [Top 100](disorders-of-environmental-origin-other.md) | [disorders-of-environmental-origin-other](https://www.qianfanghub.com/dataset/disorders-of-environmental-origin/disorders-of-environmental-origin-other) |
+| 1 | **其他**<br>*Disorders of Environmental Origin Other* | 172 | [Top 100](disorders-of-environmental-origin-other.md) | [disorders-of-environmental-origin-other](https://www.qianfanghub.com/dataset/disorders-of-environmental-origin/disorders-of-environmental-origin-other) |
 
 [← 返回主目录 / Back to README](../README.md) | [🌐 线上分类页 / Platform](https://www.qianfanghub.com/dataset/disorders-of-environmental-origin)

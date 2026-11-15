@@ -6,15 +6,15 @@
 >
 > *Hypereosinophilic syndrome is a heterogeneous disorder characterized by persistent marked eosinophilia in peripheral blood and evidence of eosinophil-mediated organ damage. The pathogenesis involves clonal expansion of eosinophils, aberrant activation, and tissue infiltration, with release of granule proteins and cytokines that cause injury to the heart, skin, lungs, and nervous system. Clinical …*
 
-💡 *本分类线上共 **2** 个数据集，以下为按站内访问次数排序的 Top 2 （累计访问 32 次）。点击数据集名称直达千方医数集详情页。*
+💡 *本分类线上共 **2** 个数据集，以下为按站内访问次数排序的 Top 2 （累计访问 6 次）。点击数据集名称直达千方医数集详情页。*
 
-💡 *2 datasets in total on QianfangHub; the 2 most-viewed are listed below (32 page views in total). Click any dataset name to open its full profile.*
+💡 *2 datasets in total on QianfangHub; the 2 most-viewed are listed below (6 page views in total). Click any dataset name to open its full profile.*
 
 [← 返回 免疫系统疾病 目录 / Back](../README.md) | [🌐 线上分类页 / Platform](https://www.qianfanghub.com/dataset/immune-system-diseases/hypereosinophilic-syndrome)
 
 | # | 数据集 / Dataset | 简介 / Summary | 模态 / Modality | 规模 / Scale | 访问 / Views | 来源 / Source |
 | :-: | :--- | :--- | :--- | :--- | :-: | :--- |
-| 1 | **[嗜酸性疾病状态表达数据](https://www.qianfanghub.com/dataset/immune-system-diseases/hypereosinophilic-syndrome/gse182001-eosinophils-in-disease-states-%E5%97%9C%E9%85%B8%E6%80%A7%E7%96%BE%E7%97%85%E7%8A%B6%E6%80%81%E8%A1%A8%E8%BE%BE%E6%95%B0%E6%8D%AE)**<br>*GSE182001 Eosinophils in Disease States* | 嗜酸性疾病状态表达数据 与嗜酸性粒细胞增多综合征（Hypereosinophilic syndrome）高度相关，包含表格形式的样本、标注、临床变量、组学记录或权威知识条目，可用于疾病分类、特征筛选、模型训练和公开数据集整理。 | `表格` | `-` | 29 | [GEO](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE182001) |
-| 2 | **[小鼠荟萃分析样本转录谱分析：基于mouse430_2整合数据集](https://www.qianfanghub.com/dataset/immune-system-diseases/hypereosinophilic-syndrome/transcription-profiling-of-mouse-metaanalysis-samples-combined-from-different-single-data-sets-on-the-mouse430-2-integrated-mouse-dataset-%E5%B0%8F%E9%BC%A0%E8%8D%9F%E8%90%83%E5%88%86%E6%9E%90%E6%A0%B7%E6%9C%AC%E8%BD%AC%E5%BD%95%E8%B0%B1%E5%88%86%E6%9E%90%EF%BC%9A%E5%9F%BA%E4%BA%8Emouse430-2%E6%95%B4%E5%90%88%E6%95%B0%E6%8D%AE%E9%9B%86)**<br>*Transcription profiling of mouse metaanalysis samples combined from different single data…* | 该数据集整合了来自ArrayExpress、在Affymetrix Mouse430_2平台上生成的高质量小鼠表达数据，汇集不同单一数据集的小鼠荟萃分析样本，用于转录组水平的表达谱分析 | `基因组` | `-` | 3 | [omicsdi](https://omicsdi.org/dataset/biostudies-arrayexpress/E-MTAB-28) |
+| 1 | **[小鼠荟萃分析样本转录谱分析：基于mouse430_2整合数据集](https://www.qianfanghub.com/dataset/immune-system-diseases/hypereosinophilic-syndrome/transcription-profiling-of-mouse-metaanalysis-samples-combined-from-different-single-data-sets-on-the-mouse430-2-integrated-mouse-dataset-%E5%B0%8F%E9%BC%A0%E8%8D%9F%E8%90%83%E5%88%86%E6%9E%90%E6%A0%B7%E6%9C%AC%E8%BD%AC%E5%BD%95%E8%B0%B1%E5%88%86%E6%9E%90%EF%BC%9A%E5%9F%BA%E4%BA%8Emouse430-2%E6%95%B4%E5%90%88%E6%95%B0%E6%8D%AE%E9%9B%86)**<br>*Transcription profiling of mouse metaanalysis samples combined from different single data…* | 该数据集整合了来自ArrayExpress、在Affymetrix Mouse430_2平台上生成的高质量小鼠表达数据，汇集不同单一数据集的小鼠荟萃分析样本，用于转录组水平的表达谱分析 | `基因组` | `-` | 4 | [omicsdi](https://omicsdi.org/dataset/biostudies-arrayexpress/E-MTAB-28) |
+| 2 | **[嗜酸性疾病状态表达数据](https://www.qianfanghub.com/dataset/immune-system-diseases/hypereosinophilic-syndrome/gse182001-eosinophils-in-disease-states-%E5%97%9C%E9%85%B8%E6%80%A7%E7%96%BE%E7%97%85%E7%8A%B6%E6%80%81%E8%A1%A8%E8%BE%BE%E6%95%B0%E6%8D%AE)**<br>*GSE182001 Eosinophils in Disease States* | 嗜酸性疾病状态表达数据 与嗜酸性粒细胞增多综合征（Hypereosinophilic syndrome）高度相关，包含表格形式的样本、标注、临床变量、组学记录或权威知识条目，可用于疾病分类、特征筛选、模型训练和公开数据集整理。 | `表格` | `-` | 2 | [GEO](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE182001) |
 
 [← 返回 免疫系统疾病 目录 / Back](../README.md) | [🌐 线上分类页 / Platform](https://www.qianfanghub.com/dataset/immune-system-diseases/hypereosinophilic-syndrome) | [查看全量 / Full catalogue](https://www.qianfanghub.com/dataset/immune-system-diseases)

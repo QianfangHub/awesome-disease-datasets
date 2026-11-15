@@ -6,14 +6,14 @@
 >
 > *Ear cancer refers to a malignant neoplasm arising from the external ear, middle ear, or inner ear, with squamous cell carcinoma being the most common histological type, followed by basal cell carcinoma and adenocarcinoma. Risk factors include chronic inflammation, ultraviolet radiation exposure, and human papillomavirus infection. Clinical manifestations vary by site: external ear cancer often pr…*
 
-💡 *本分类线上共 **1** 个数据集，以下为按站内访问次数排序的 Top 1 （累计访问 37 次）。点击数据集名称直达千方医数集详情页。*
+💡 *本分类线上共 **1** 个数据集，以下为按站内访问次数排序的 Top 1 （累计访问 3 次）。点击数据集名称直达千方医数集详情页。*
 
-💡 *1 datasets in total on QianfangHub; the 1 most-viewed are listed below (37 page views in total). Click any dataset name to open its full profile.*
+💡 *1 datasets in total on QianfangHub; the 1 most-viewed are listed below (3 page views in total). Click any dataset name to open its full profile.*
 
 [← 返回 耳鼻咽喉疾病 目录 / Back](../README.md) | [🌐 线上分类页 / Platform](https://www.qianfanghub.com/dataset/otorhinolaryngologic-diseases/ear-cancer)
 
 | # | 数据集 / Dataset | 简介 / Summary | 模态 / Modality | 规模 / Scale | 访问 / Views | 来源 / Source |
 | :-: | :--- | :--- | :--- | :--- | :-: | :--- |
-| 1 | **[皮肤癌MNIST数据集](https://www.qianfanghub.com/dataset/otorhinolaryngologic-diseases/ear-cancer/skin-cancer-mnist-ham10000-%E7%9A%AE%E8%82%A4%E7%99%8Cmnist%E6%95%B0%E6%8D%AE%E9%9B%86)**<br>*Skin Cancer MNIST: HAM10000* | 该数据集便于快速构建外耳皮肤癌相关视觉分类基线，可用于黑色素瘤、基底细胞癌和角化性病变算法开发。 | `图像` | `10,015 条` | 37 | [Kaggle](https://www.kaggle.com/datasets/kmader/skin-cancer-mnist-ham10000) |
+| 1 | **[皮肤癌MNIST数据集](https://www.qianfanghub.com/dataset/otorhinolaryngologic-diseases/ear-cancer/skin-cancer-mnist-ham10000-%E7%9A%AE%E8%82%A4%E7%99%8Cmnist%E6%95%B0%E6%8D%AE%E9%9B%86)**<br>*Skin Cancer MNIST: HAM10000* | 该数据集便于快速构建外耳皮肤癌相关视觉分类基线，可用于黑色素瘤、基底细胞癌和角化性病变算法开发。 | `图像` | `10,015 条` | 3 | [Kaggle](https://www.kaggle.com/datasets/kmader/skin-cancer-mnist-ham10000) |
 
 [← 返回 耳鼻咽喉疾病 目录 / Back](../README.md) | [🌐 线上分类页 / Platform](https://www.qianfanghub.com/dataset/otorhinolaryngologic-diseases/ear-cancer) | [查看全量 / Full catalogue](https://www.qianfanghub.com/dataset/otorhinolaryngologic-diseases)

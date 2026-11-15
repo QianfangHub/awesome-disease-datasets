@@ -6,14 +6,14 @@
 >
 > *Craniosynostosis is a congenital craniofacial condition characterized by the premature fusion of one or more cranial sutures, leading to restricted skull growth, elevated intracranial pressure, and abnormal head shapes. The pathogenesis is frequently associated with mutations in fibroblast growth factor receptor genes, and the disorder may present as an isolated defect or as part of a syndromic c…*
 
-💡 *本分类线上共 **1** 个数据集，以下为按站内访问次数排序的 Top 1 （累计访问 46 次）。点击数据集名称直达千方医数集详情页。*
+💡 *本分类线上共 **1** 个数据集，以下为按站内访问次数排序的 Top 1 （累计访问 1 次）。点击数据集名称直达千方医数集详情页。*
 
-💡 *1 datasets in total on QianfangHub; the 1 most-viewed are listed below (46 page views in total). Click any dataset name to open its full profile.*
+💡 *1 datasets in total on QianfangHub; the 1 most-viewed are listed below (1 page views in total). Click any dataset name to open its full profile.*
 
 [← 返回 口颌系统疾病 目录 / Back](../README.md) | [🌐 线上分类页 / Platform](https://www.qianfanghub.com/dataset/stomatognathic-diseases/craniosynostosis)
 
 | # | 数据集 / Dataset | 简介 / Summary | 模态 / Modality | 规模 / Scale | 访问 / Views | 来源 / Source |
 | :-: | :--- | :--- | :--- | :--- | :-: | :--- |
-| 1 | **[GestaltMatcher稀有病面部表型数据库](https://www.qianfanghub.com/dataset/stomatognathic-diseases/craniosynostosis/gestaltmatcher-database-gestaltmatcher%E7%A8%80%E6%9C%89%E7%97%85%E9%9D%A2%E9%83%A8%E8%A1%A8%E5%9E%8B%E6%95%B0%E6%8D%AE%E5%BA%93)**<br>*GestaltMatcher Database* | GestaltMatcher Database 是与颅缝早闭（Craniosynostosis）相关的公开数据资源，主要包含稀有遗传病患者面部医学图像、诊断、HPO表型和变异元数据，数据模态为多模态，适合用于分类、模型训练、基准评测或临床… | `多模态` | `7,695 条` | 46 | [GestaltMatcher](https://db.gestaltmatcher.org/about?locale=en) |
+| 1 | **[GestaltMatcher稀有病面部表型数据库](https://www.qianfanghub.com/dataset/stomatognathic-diseases/craniosynostosis/gestaltmatcher-database-gestaltmatcher%E7%A8%80%E6%9C%89%E7%97%85%E9%9D%A2%E9%83%A8%E8%A1%A8%E5%9E%8B%E6%95%B0%E6%8D%AE%E5%BA%93)**<br>*GestaltMatcher Database* | GestaltMatcher Database 是与颅缝早闭（Craniosynostosis）相关的公开数据资源，主要包含稀有遗传病患者面部医学图像、诊断、HPO表型和变异元数据，数据模态为多模态，适合用于分类、模型训练、基准评测或临床… | `多模态` | `7,695 条` | 1 | [GestaltMatcher](https://db.gestaltmatcher.org/about?locale=en) |
 
 [← 返回 口颌系统疾病 目录 / Back](../README.md) | [🌐 线上分类页 / Platform](https://www.qianfanghub.com/dataset/stomatognathic-diseases/craniosynostosis) | [查看全量 / Full catalogue](https://www.qianfanghub.com/dataset/stomatognathic-diseases)

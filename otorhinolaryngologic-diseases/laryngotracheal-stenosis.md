@@ -1,4 +1,4 @@
-# 喉气管狭窄 · Laryngotracheal stenosis — Top 1 Datasets
+# 喉气管狭窄 · Laryngotracheal stenosis — Top 2 Datasets
 
 > 所属系统 / System：**[耳鼻咽喉疾病 Otorhinolaryngologic Diseases](../README.md)**
 >
@@ -6,14 +6,15 @@
 >
 > *Laryngotracheal stenosis is a condition characterized by narrowing of the airway at the laryngeal and tracheal levels, leading to compromised airflow. Common etiologies include iatrogenic injury from prolonged intubation or tracheostomy, external trauma, infections, autoimmune disorders such as granulomatosis with polyangiitis, and idiopathic causes. Patients typically present with progressive dy…*
 
-💡 *本分类线上共 **1** 个数据集，以下为按站内访问次数排序的 Top 1 （累计访问 7 次）。点击数据集名称直达千方医数集详情页。*
+💡 *本分类线上共 **2** 个数据集，以下为按站内访问次数排序的 Top 2 （累计访问 2 次）。点击数据集名称直达千方医数集详情页。*
 
-💡 *1 datasets in total on QianfangHub; the 1 most-viewed are listed below (7 page views in total). Click any dataset name to open its full profile.*
+💡 *2 datasets in total on QianfangHub; the 2 most-viewed are listed below (2 page views in total). Click any dataset name to open its full profile.*
 
 [← 返回 耳鼻咽喉疾病 目录 / Back](../README.md) | [🌐 线上分类页 / Platform](https://www.qianfanghub.com/dataset/otorhinolaryngologic-diseases/laryngotracheal-stenosis)
 
 | # | 数据集 / Dataset | 简介 / Summary | 模态 / Modality | 规模 / Scale | 访问 / Views | 来源 / Source |
 | :-: | :--- | :--- | :--- | :--- | :-: | :--- |
-| 1 | **[间充质干细胞治疗喉气管狭窄：临床前研究系统综述](https://www.qianfanghub.com/dataset/otorhinolaryngologic-diseases/laryngotracheal-stenosis/mesenchymal-stem-cell-therapy-for-laryngotracheal-stenosis-a-systematic-review-of-preclinical-studies-%E9%97%B4%E5%85%85%E8%B4%A8%E5%B9%B2%E7%BB%86%E8%83%9E%E6%B2%BB%E7%96%97%E5%96%89%E6%B0%94%E7%AE%A1%E7%8B%AD%E7%AA%84%EF%BC%9A%E4%B8%B4%E5%BA%8A%E5%89%8D%E7%A0%94%E7%A9%B6%E7%B3%BB%E7%BB%9F%E7%BB%BC%E8%BF%B0)**<br>*Mesenchymal stem cell therapy for laryngotracheal stenosis: A systematic review of precli…* | 该数据集来自 plos.figshare.com，配套发表于 PLOS ONE 的系统综述，主题为间充质干细胞（MSC）治疗喉气管狭窄的临床前研究 | `其他` | `-` | 7 | [google_dataset](https://plos.figshare.com/articles/dataset/Mesenchymal_stem_cell_therapy_for_laryngotracheal_stenosis_A_systematic_review_of_preclinical_studies/5431306) |
+| 1 | **Mesenchymal stem cell therapy for laryngotracheal stenosis: A systematic review…**<br>*Mesenchymal stem cell therapy for laryngotracheal stenosis: A systematic review of precli…* | 本数据集为耳鼻咽喉疾病领域的其他公开数据集，来源：google_dataset。 | `其他` | `-` | 1 | [google_dataset](https://plos.figshare.com/articles/dataset/Mesenchymal_stem_cell_therapy_for_laryngotracheal_stenosis_A_systematic_review_of_preclinical_studies/5431306) |
+| 2 | **平片颈部X线摄影用于高级别喉气管狭窄分诊的回顾性诊断准确性研究数据集**<br>*Plain Neck Radiography for Triage of High Grade Laryngotracheal Stenosis: A Retrospective…* | 该数据集来自一项在南非三级医院开展的回顾性诊断准确性研究，纳入2005至2024年间经内镜确诊的获得性喉气管狭窄患者（≥12岁），共176例 | `医学影像` | `-` | 1 | [google_dataset](https://data.mendeley.com/datasets/yspgxpf9h8) |
 
 [← 返回 耳鼻咽喉疾病 目录 / Back](../README.md) | [🌐 线上分类页 / Platform](https://www.qianfanghub.com/dataset/otorhinolaryngologic-diseases/laryngotracheal-stenosis) | [查看全量 / Full catalogue](https://www.qianfanghub.com/dataset/otorhinolaryngologic-diseases)

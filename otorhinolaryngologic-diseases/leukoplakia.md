@@ -6,15 +6,15 @@
 >
 > *Leukoplakia is a predominantly white plaque lesion of the oral mucosa that carries a significant risk of malignant transformation, classified as a potentially malignant disorder. Its etiology is associated with tobacco use, alcohol consumption, chronic irritation, and human papillomavirus infection, with epithelial dysplasia as the pathological hallmark. Clinically, it presents as a white patch t…*
 
-💡 *本分类线上共 **2** 个数据集，以下为按站内访问次数排序的 Top 2 （累计访问 69 次）。点击数据集名称直达千方医数集详情页。*
+💡 *本分类线上共 **2** 个数据集，以下为按站内访问次数排序的 Top 2 （累计访问 4 次）。点击数据集名称直达千方医数集详情页。*
 
-💡 *2 datasets in total on QianfangHub; the 2 most-viewed are listed below (69 page views in total). Click any dataset name to open its full profile.*
+💡 *2 datasets in total on QianfangHub; the 2 most-viewed are listed below (4 page views in total). Click any dataset name to open its full profile.*
 
 [← 返回 耳鼻咽喉疾病 目录 / Back](../README.md) | [🌐 线上分类页 / Platform](https://www.qianfanghub.com/dataset/otorhinolaryngologic-diseases/leukoplakia)
 
 | # | 数据集 / Dataset | 简介 / Summary | 模态 / Modality | 规模 / Scale | 访问 / Views | 来源 / Source |
 | :-: | :--- | :--- | :--- | :--- | :-: | :--- |
-| 1 | **[高分辨率口腔黏膜下纤维化与鳞癌图像集](https://www.qianfanghub.com/dataset/otorhinolaryngologic-diseases/leukoplakia/high-resolution-ai-image-dataset-for-osmf-and-oscc-%E9%AB%98%E5%88%86%E8%BE%A8%E7%8E%87%E5%8F%A3%E8%85%94%E9%BB%8F%E8%86%9C%E4%B8%8B%E7%BA%A4%E7%BB%B4%E5%8C%96%E4%B8%8E%E9%B3%9E%E7%99%8C%E5%9B%BE%E5%83%8F%E9%9B%86)**<br>*High-resolution AI image dataset for OSMF and OSCC* | 白斑属于口腔潜在恶性病变，该数据可用于口腔黏膜异常、癌前状态和鳞癌视觉分类的迁移学习。 | `图像` | `-` | 35 | [Zenodo](https://zenodo.org/records/12636426) |
-| 2 | **[口腔鳞癌与正常组织病理图像](https://www.qianfanghub.com/dataset/otorhinolaryngologic-diseases/leukoplakia/histopathological-images-of-oscc-and-normal-tissue-%E5%8F%A3%E8%85%94%E9%B3%9E%E7%99%8C%E4%B8%8E%E6%AD%A3%E5%B8%B8%E7%BB%84%E7%BB%87%E7%97%85%E7%90%86%E5%9B%BE%E5%83%8F)**<br>*Histopathological images of OSCC and normal tissue* | 白斑风险评估需要正常与恶性组织对照，该数据可用于组织学分类、迁移学习和恶变识别模型。 | `图像` | `1,714 条` | 34 | [Mendeley Data](https://data.mendeley.com/datasets/7m9zkcx539/1) |
+| 1 | **[口腔鳞癌与正常组织病理图像](https://www.qianfanghub.com/dataset/otorhinolaryngologic-diseases/leukoplakia/histopathological-images-of-oscc-and-normal-tissue-%E5%8F%A3%E8%85%94%E9%B3%9E%E7%99%8C%E4%B8%8E%E6%AD%A3%E5%B8%B8%E7%BB%84%E7%BB%87%E7%97%85%E7%90%86%E5%9B%BE%E5%83%8F)**<br>*Histopathological images of OSCC and normal tissue* | 白斑风险评估需要正常与恶性组织对照，该数据可用于组织学分类、迁移学习和恶变识别模型。 | `图像` | `1,714 条` | 4 | [Mendeley Data](https://data.mendeley.com/datasets/7m9zkcx539/1) |
+| 2 | **[高分辨率口腔黏膜下纤维化与鳞癌图像集](https://www.qianfanghub.com/dataset/otorhinolaryngologic-diseases/leukoplakia/high-resolution-ai-image-dataset-for-osmf-and-oscc-%E9%AB%98%E5%88%86%E8%BE%A8%E7%8E%87%E5%8F%A3%E8%85%94%E9%BB%8F%E8%86%9C%E4%B8%8B%E7%BA%A4%E7%BB%B4%E5%8C%96%E4%B8%8E%E9%B3%9E%E7%99%8C%E5%9B%BE%E5%83%8F%E9%9B%86)**<br>*High-resolution AI image dataset for OSMF and OSCC* | 白斑属于口腔潜在恶性病变，该数据可用于口腔黏膜异常、癌前状态和鳞癌视觉分类的迁移学习。 | `图像` | `-` | 0 | [Zenodo](https://zenodo.org/records/12636426) |
 
 [← 返回 耳鼻咽喉疾病 目录 / Back](../README.md) | [🌐 线上分类页 / Platform](https://www.qianfanghub.com/dataset/otorhinolaryngologic-diseases/leukoplakia) | [查看全量 / Full catalogue](https://www.qianfanghub.com/dataset/otorhinolaryngologic-diseases)

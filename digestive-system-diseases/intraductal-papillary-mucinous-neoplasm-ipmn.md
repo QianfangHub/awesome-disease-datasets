@@ -6,14 +6,14 @@
 >
 > *Intraductal papillary mucinous neoplasm (IPMN) is a mucin-producing cystic neoplasm arising from the pancreatic ductal epithelium, characterized by papillary proliferation and copious mucin secretion, which may involve the main pancreatic duct, branch ducts, or both. It predominantly occurs in older adults, often remaining asymptomatic initially and discovered incidentally on imaging; progressive…*
 
-💡 *本分类线上共 **1** 个数据集，以下为按站内访问次数排序的 Top 1 （累计访问 22 次）。点击数据集名称直达千方医数集详情页。*
+💡 *本分类线上共 **1** 个数据集，以下为按站内访问次数排序的 Top 1 （累计访问 2 次）。点击数据集名称直达千方医数集详情页。*
 
-💡 *1 datasets in total on QianfangHub; the 1 most-viewed are listed below (22 page views in total). Click any dataset name to open its full profile.*
+💡 *1 datasets in total on QianfangHub; the 1 most-viewed are listed below (2 page views in total). Click any dataset name to open its full profile.*
 
 [← 返回 消化系统疾病 目录 / Back](../README.md) | [🌐 线上分类页 / Platform](https://www.qianfanghub.com/dataset/digestive-system-diseases/intraductal-papillary-mucinous-neoplasm-ipmn)
 
 | # | 数据集 / Dataset | 简介 / Summary | 模态 / Modality | 规模 / Scale | 访问 / Views | 来源 / Source |
 | :-: | :--- | :--- | :--- | :--- | :-: | :--- |
-| 1 | **[胰腺上皮内瘤变（PanIN）与导管内乳头状黏液性肿瘤（IPMN）相关胰腺腺癌的生存结局](https://www.qianfanghub.com/dataset/digestive-system-diseases/intraductal-papillary-mucinous-neoplasm-ipmn/survival-outcomes-of-pancreatic-intraepithelial-neoplasm-panin-versus-intraductal-papillary-mucinous-neoplasm-ipmn-associated-pancreatic-adenocarcinoma-%E8%83%B0%E8%85%BA%E4%B8%8A%E7%9A%AE%E5%86%85%E7%98%A4%E5%8F%98%EF%BC%88panin%EF%BC%89%E4%B8%8E%E5%AF%BC%E7%AE%A1%E5%86%85%E4%B9%B3%E5%A4%B4%E7%8A%B6%E9%BB%8F%E6%B6%B2%E6%80%A7%E8%82%BF%E7%98%A4%EF%BC%88ipmn%EF%BC%89%E7%9B%B8%E5%85%B3%E8%83%B0%E8%85%BA%E8%85%BA%E7%99%8C%E7%9A%84%E7%94%9F%E5%AD%98%E7%BB%93%E5%B1%80)**<br>*Survival Outcomes of Pancreatic Intraepithelial Neoplasm (PanIN) Versus Intraductal Papil…* | 该数据集包含72例胰腺腺癌患者的临床表格数据，涵盖基线特征、总生存期、无进展生存期及肿瘤复发位置等信息，重点比较胰腺上皮内瘤变（PanIN）与导管内乳头状黏液性肿瘤（IPMN）两种癌前病变对预后的影响，主要用于胰腺癌预后分析、癌前病变临床… | `-` | `-` | 22 | [Zenodo](https://zenodo.org/record/4048958) |
+| 1 | **[胰腺上皮内瘤变（PanIN）与导管内乳头状黏液性肿瘤（IPMN）相关胰腺腺癌的生存结局](https://www.qianfanghub.com/dataset/digestive-system-diseases/intraductal-papillary-mucinous-neoplasm-ipmn/survival-outcomes-of-pancreatic-intraepithelial-neoplasm-panin-versus-intraductal-papillary-mucinous-neoplasm-ipmn-associated-pancreatic-adenocarcinoma-%E8%83%B0%E8%85%BA%E4%B8%8A%E7%9A%AE%E5%86%85%E7%98%A4%E5%8F%98%EF%BC%88panin%EF%BC%89%E4%B8%8E%E5%AF%BC%E7%AE%A1%E5%86%85%E4%B9%B3%E5%A4%B4%E7%8A%B6%E9%BB%8F%E6%B6%B2%E6%80%A7%E8%82%BF%E7%98%A4%EF%BC%88ipmn%EF%BC%89%E7%9B%B8%E5%85%B3%E8%83%B0%E8%85%BA%E8%85%BA%E7%99%8C%E7%9A%84%E7%94%9F%E5%AD%98%E7%BB%93%E5%B1%80)**<br>*Survival Outcomes of Pancreatic Intraepithelial Neoplasm (PanIN) Versus Intraductal Papil…* | 该数据集包含72例胰腺腺癌患者的临床表格数据，涵盖基线特征、总生存期、无进展生存期及肿瘤复发位置等信息，重点比较胰腺上皮内瘤变（PanIN）与导管内乳头状黏液性肿瘤（IPMN）两种癌前病变对预后的影响，主要用于胰腺癌预后分析、癌前病变临床… | `表格` | `-` | 2 | [Zenodo](https://zenodo.org/record/4048958) |
 
 [← 返回 消化系统疾病 目录 / Back](../README.md) | [🌐 线上分类页 / Platform](https://www.qianfanghub.com/dataset/digestive-system-diseases/intraductal-papillary-mucinous-neoplasm-ipmn) | [查看全量 / Full catalogue](https://www.qianfanghub.com/dataset/digestive-system-diseases)

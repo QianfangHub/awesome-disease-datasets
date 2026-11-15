@@ -6,14 +6,14 @@
 >
 > *Cronkhite-Canada syndrome is a rare acquired nonhereditary gastrointestinal polyposis syndrome characterized by diffuse hamartomatous polyps throughout the stomach, small intestine, and colon, accompanied by ectodermal abnormalities. The pathogenesis is not fully understood, with evidence suggesting an immune-mediated inflammatory process; autoantibodies such as antinuclear antibodies have been d…*
 
-💡 *本分类线上共 **1** 个数据集，以下为按站内访问次数排序的 Top 1 （累计访问 7 次）。点击数据集名称直达千方医数集详情页。*
+💡 *本分类线上共 **1** 个数据集，以下为按站内访问次数排序的 Top 1 （累计访问 2 次）。点击数据集名称直达千方医数集详情页。*
 
-💡 *1 datasets in total on QianfangHub; the 1 most-viewed are listed below (7 page views in total). Click any dataset name to open its full profile.*
+💡 *1 datasets in total on QianfangHub; the 1 most-viewed are listed below (2 page views in total). Click any dataset name to open its full profile.*
 
 [← 返回 消化系统疾病 目录 / Back](../README.md) | [🌐 线上分类页 / Platform](https://www.qianfanghub.com/dataset/digestive-system-diseases/cronkhite-canada-syndrome)
 
 | # | 数据集 / Dataset | 简介 / Summary | 模态 / Modality | 规模 / Scale | 访问 / Views | 来源 / Source |
 | :-: | :--- | :--- | :--- | :--- | :-: | :--- |
-| 1 | **[Cronkhite-Canada综合征患者来源人肠道类器官的生成揭示血清素与肠道增殖的关联](https://www.qianfanghub.com/dataset/digestive-system-diseases/cronkhite-canada-syndrome/gse207838-generation-of-human-intestinal-organoids-from-cronkhite-canada-syndrome-patients-reveals-serotonin-as-a-link-to-intestinal-proliferation-cronkhite-canada%E7%BB%BC%E5%90%88%E5%BE%81%E6%82%A3%E8%80%85%E6%9D%A5%E6%BA%90%E4%BA%BA%E8%82%A0%E9%81%93%E7%B1%BB%E5%99%A8%E5%AE%98%E7%9A%84%E7%94%9F%E6%88%90%E6%8F%AD%E7%A4%BA%E8%A1%80%E6%B8%85%E7%B4%A0%E4%B8%8E%E8%82%A0%E9%81%93%E5%A2%9E%E6%AE%96%E7%9A%84%E5%85%B3%E8%81%94)**<br>*GSE207838: Generation Of Human Intestinal Organoids From Cronkhite Canada Syndrome Patien…* | 该数据集来自 NCBI GEO（GSE207838），包含从两名 Cronkhite-Canada 综合征（CCS）患者肠道干细胞生成的人肠道类器官（HIOs）的高通量测序表达谱数据 | `基因组` | `-` | 7 | [geo](https://ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE207838) |
+| 1 | **[Cronkhite-Canada综合征患者来源人肠道类器官的生成揭示血清素与肠道增殖的关联](https://www.qianfanghub.com/dataset/digestive-system-diseases/cronkhite-canada-syndrome/gse207838-generation-of-human-intestinal-organoids-from-cronkhite-canada-syndrome-patients-reveals-serotonin-as-a-link-to-intestinal-proliferation-cronkhite-canada%E7%BB%BC%E5%90%88%E5%BE%81%E6%82%A3%E8%80%85%E6%9D%A5%E6%BA%90%E4%BA%BA%E8%82%A0%E9%81%93%E7%B1%BB%E5%99%A8%E5%AE%98%E7%9A%84%E7%94%9F%E6%88%90%E6%8F%AD%E7%A4%BA%E8%A1%80%E6%B8%85%E7%B4%A0%E4%B8%8E%E8%82%A0%E9%81%93%E5%A2%9E%E6%AE%96%E7%9A%84%E5%85%B3%E8%81%94)**<br>*GSE207838: Generation Of Human Intestinal Organoids From Cronkhite Canada Syndrome Patien…* | 该数据集来自 NCBI GEO（GSE207838），包含从两名 Cronkhite-Canada 综合征（CCS）患者肠道干细胞生成的人肠道类器官（HIOs）的高通量测序表达谱数据 | `基因组` | `-` | 2 | [geo](https://ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE207838) |
 
 [← 返回 消化系统疾病 目录 / Back](../README.md) | [🌐 线上分类页 / Platform](https://www.qianfanghub.com/dataset/digestive-system-diseases/cronkhite-canada-syndrome) | [查看全量 / Full catalogue](https://www.qianfanghub.com/dataset/digestive-system-diseases)

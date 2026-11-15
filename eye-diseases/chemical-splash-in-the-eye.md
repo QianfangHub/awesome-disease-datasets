@@ -1,4 +1,4 @@
-# 眼部化学烧伤 · Chemical splash in the eye — Top 4 Datasets
+# 眼部化学烧伤 · Chemical splash in the eye — Top 3 Datasets
 
 > 所属系统 / System：**[眼病 Eye Diseases](../README.md)**
 >
@@ -6,17 +6,16 @@
 >
 > *Chemical splash in the eye refers to acute ocular injury caused by direct contact with acidic, alkaline, or other corrosive substances, and it is considered an ophthalmic emergency. Alkali agents undergo saponification and penetrate deeply, leading to ongoing damage to corneal collagen, iridocorneal angle, and lens, while acids cause coagulative necrosis that limits penetration but produces local…*
 
-💡 *本分类线上共 **4** 个数据集，以下为按站内访问次数排序的 Top 4 （累计访问 134 次）。点击数据集名称直达千方医数集详情页。*
+💡 *本分类线上共 **3** 个数据集，以下为按站内访问次数排序的 Top 3 （累计访问 10 次）。点击数据集名称直达千方医数集详情页。*
 
-💡 *4 datasets in total on QianfangHub; the 4 most-viewed are listed below (134 page views in total). Click any dataset name to open its full profile.*
+💡 *3 datasets in total on QianfangHub; the 3 most-viewed are listed below (10 page views in total). Click any dataset name to open its full profile.*
 
 [← 返回 眼病 目录 / Back](../README.md) | [🌐 线上分类页 / Platform](https://www.qianfanghub.com/dataset/eye-diseases/chemical-splash-in-the-eye)
 
 | # | 数据集 / Dataset | 简介 / Summary | 模态 / Modality | 规模 / Scale | 访问 / Views | 来源 / Source |
 | :-: | :--- | :--- | :--- | :--- | :-: | :--- |
-| 1 | **[AIDK角膜炎数据集](https://www.qianfanghub.com/dataset/eye-diseases/chemical-splash-in-the-eye/aidk-dataset-aidk%E8%A7%92%E8%86%9C%E7%82%8E%E6%95%B0%E6%8D%AE%E9%9B%86)**<br>*AIDK Dataset* | 眼病领域图像公开数据集，来源：figshare。 | `图像` | `-` | 71 | [Figshare](https://figshare.com/articles/dataset/AIDK_Dataset/24740223) |
-| 2 | **[SLID眼前节裂隙灯数据](https://www.qianfanghub.com/dataset/eye-diseases/chemical-splash-in-the-eye/slid-slid%E7%9C%BC%E5%89%8D%E8%8A%82%E8%A3%82%E9%9A%99%E7%81%AF%E6%95%B0%E6%8D%AE)**<br>*SLID* | 眼前节裂隙灯图像含结膜充血、角膜瘢痕、角膜炎等损伤相关标签，由Zhejiang University提供，来自GitHub数据库，包含2617条数据，适用于目标检测任务，许可证为CC BY 4.0。 | `图像` | `2,617 条` | 28 | [GitHub](https://github.com/xumingyu-hub/SLID) |
-| 3 | **[CAMG睑板腺数据集](https://www.qianfanghub.com/dataset/eye-diseases/chemical-splash-in-the-eye/camg-camg%E7%9D%91%E6%9D%BF%E8%85%BA%E6%95%B0%E6%8D%AE%E9%9B%86)**<br>*CAMG* | 儿童青少年上睑红外睑板腺图像，可用于眼表健康研究，由Fujian Provincial Hospital提供，来自Figshare数据库，包含1114条数据，适用于图像分割任务，许可证为CC BY 4.0。 | `图像` | `1,114 条` | 26 | [Figshare](https://doi.org/10.6084/m9.figshare.27601101.v7) |
-| 4 | **[改良角膜上皮自体移植联合中层板层角膜移植术治疗严重角膜烧伤](https://www.qianfanghub.com/dataset/eye-diseases/chemical-splash-in-the-eye/modified-corneal-ea-with-middle-lkp-for-severe-corneal-burn-%E6%94%B9%E8%89%AF%E8%A7%92%E8%86%9C%E4%B8%8A%E7%9A%AE%E8%87%AA%E4%BD%93%E7%A7%BB%E6%A4%8D%E8%81%94%E5%90%88%E4%B8%AD%E5%B1%82%E6%9D%BF%E5%B1%82%E8%A7%92%E8%86%9C%E7%A7%BB%E6%A4%8D%E6%9C%AF%E6%B2%BB%E7%96%97%E4%B8%A5%E9%87%8D%E8%A7%92%E8%86%9C%E7%83%A7%E4%BC%A4)**<br>*Modified Corneal EA With Middle LKP for Severe Corneal Burn* | 该数据集来自 clinicaltrials.gov，聚焦严重角膜烧伤患者的眼表重建。研究为一项初步试验，旨在探索改良角膜上皮自体移植（EA）联合异体中层板层角膜移植（AMLK）是否比角膜缘自体移植（LA）联合 AMLK 更有效 | `其他` | `-` | 9 | [clinicaltrials](https://clinicaltrials.gov/study/NCT03498846) |
+| 1 | **[AIDK角膜炎数据集](https://www.qianfanghub.com/dataset/eye-diseases/chemical-splash-in-the-eye/aidk-dataset-aidk%E8%A7%92%E8%86%9C%E7%82%8E%E6%95%B0%E6%8D%AE%E9%9B%86)**<br>*AIDK Dataset* | 眼病领域图像公开数据集，来源：figshare。 | `图像` | `-` | 6 | [Figshare](https://figshare.com/articles/dataset/AIDK_Dataset/24740223) |
+| 2 | **[SLID眼前节裂隙灯数据](https://www.qianfanghub.com/dataset/eye-diseases/chemical-splash-in-the-eye/slid-slid%E7%9C%BC%E5%89%8D%E8%8A%82%E8%A3%82%E9%9A%99%E7%81%AF%E6%95%B0%E6%8D%AE)**<br>*SLID* | 眼前节裂隙灯图像含结膜充血、角膜瘢痕、角膜炎等损伤相关标签，由Zhejiang University提供，来自GitHub数据库，包含2617条数据，适用于目标检测任务，许可证为CC BY 4.0。 | `图像` | `2,617 条` | 2 | [GitHub](https://github.com/xumingyu-hub/SLID) |
+| 3 | **[CAMG睑板腺数据集](https://www.qianfanghub.com/dataset/eye-diseases/chemical-splash-in-the-eye/camg-camg%E7%9D%91%E6%9D%BF%E8%85%BA%E6%95%B0%E6%8D%AE%E9%9B%86)**<br>*CAMG* | 儿童青少年上睑红外睑板腺图像，可用于眼表健康研究，由Fujian Provincial Hospital提供，来自Figshare数据库，包含1114条数据，适用于图像分割任务，许可证为CC BY 4.0。 | `图像` | `1,114 条` | 2 | [Figshare](https://doi.org/10.6084/m9.figshare.27601101.v7) |
 
 [← 返回 眼病 目录 / Back](../README.md) | [🌐 线上分类页 / Platform](https://www.qianfanghub.com/dataset/eye-diseases/chemical-splash-in-the-eye) | [查看全量 / Full catalogue](https://www.qianfanghub.com/dataset/eye-diseases)

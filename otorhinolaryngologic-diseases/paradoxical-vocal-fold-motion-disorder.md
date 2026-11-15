@@ -1,4 +1,4 @@
-# 反常性声带运动障碍 · Paradoxical vocal fold motion disorder — Top 1 Datasets
+# 反常性声带运动障碍 · Paradoxical vocal fold motion disorder — Top 4 Datasets
 
 > 所属系统 / System：**[耳鼻咽喉疾病 Otorhinolaryngologic Diseases](../README.md)**
 >
@@ -6,14 +6,17 @@
 >
 > *Paradoxical vocal fold motion disorder (PVFMD) is a functional upper airway obstruction characterized by inappropriate adduction of the vocal folds during inspiration. The underlying pathophysiology is not fully understood but is often attributed to laryngeal hyperresponsiveness, psychological factors, or exposure to irritants. Typical manifestations include episodic inspiratory stridor, dyspnea,…*
 
-💡 *本分类线上共 **1** 个数据集，以下为按站内访问次数排序的 Top 1 （累计访问 9 次）。点击数据集名称直达千方医数集详情页。*
+💡 *本分类线上共 **4** 个数据集，以下为按站内访问次数排序的 Top 4 （累计访问 5 次）。点击数据集名称直达千方医数集详情页。*
 
-💡 *1 datasets in total on QianfangHub; the 1 most-viewed are listed below (9 page views in total). Click any dataset name to open its full profile.*
+💡 *4 datasets in total on QianfangHub; the 4 most-viewed are listed below (5 page views in total). Click any dataset name to open its full profile.*
 
 [← 返回 耳鼻咽喉疾病 目录 / Back](../README.md) | [🌐 线上分类页 / Platform](https://www.qianfanghub.com/dataset/otorhinolaryngologic-diseases/paradoxical-vocal-fold-motion-disorder)
 
 | # | 数据集 / Dataset | 简介 / Summary | 模态 / Modality | 规模 / Scale | 访问 / Views | 来源 / Source |
 | :-: | :--- | :--- | :--- | :--- | :-: | :--- |
-| 1 | **[HelpILO：运动诱发喉阻塞治疗随机对照试验](https://www.qianfanghub.com/dataset/otorhinolaryngologic-diseases/paradoxical-vocal-fold-motion-disorder/helpilo-rct-on-eilo-treatment-helpilo%EF%BC%9A%E8%BF%90%E5%8A%A8%E8%AF%B1%E5%8F%91%E5%96%89%E9%98%BB%E5%A1%9E%E6%B2%BB%E7%96%97%E9%9A%8F%E6%9C%BA%E5%AF%B9%E7%85%A7%E8%AF%95%E9%AA%8C)**<br>*HelpILO - RCT on EILO Treatment* | 条件：运动诱发喉阻塞（EILO）。运动诱发喉阻塞（EILO）是年轻人运动性呼吸困难的常见原因，由喉部结构在吸气时反常内收所致，通过高强度运动期间连续喉部可视化诊断 | `音频` | `-` | 9 | [clinicaltrials](https://clinicaltrials.gov/study/NCT04620343) |
+| 1 | **经分析的CUT&RUN数据**<br>*Analyzed CUT&RUN* | 该数据集为经分析的CUT&RUN数据，以表格或制表符分隔文本格式提供处理结果，每个文件大于2GB，并通过链接从二级存储库下载 | `基因组` | `-` | 2 | [dataverse](https://doi.org/10.7910/DVN/YT10FB) |
+| 2 | **已分析RNA-seq与SLAM-seq结果**<br>*Analyzed RNA-seq and SLAM-seq Results* | 该数据集为已分析的总RNA-seq与SLAM-seq处理结果，以制表符分隔的表格/文本格式（.tsv和.txt）提供，属于耳鼻咽喉疾病中反常性声带运动障碍方向 | `基因组` | `-` | 1 | [dataverse](https://doi.org/10.7910/DVN/100DKB) |
+| 3 | **处理后的CUT&RUN数据**<br>*Processed CUT&RUN Data* | 数据经处理后以.bw格式提供，可直接用于公共基因组浏览器可视化。数据集归类于耳鼻咽喉疾病下的反常性声带运动障碍主题，主题标签涵盖医学、健康与生命科学 | `时间序列` | `-` | 1 | [dataverse](https://doi.org/10.7910/DVN/OAR8FE) |
+| 4 | **已分析 Hi-C 数据**<br>*Analyzed Hi-C* | 该数据集为已分析的 Hi-C 处理结果，以制表符分隔的文本格式提供，单个文件大小超过 2GB，并附有从二级存储库下载全部四个数据集的链接 | `文本` | `-` | 1 | [dataverse](https://doi.org/10.7910/DVN/7IC57K) |
 
 [← 返回 耳鼻咽喉疾病 目录 / Back](../README.md) | [🌐 线上分类页 / Platform](https://www.qianfanghub.com/dataset/otorhinolaryngologic-diseases/paradoxical-vocal-fold-motion-disorder) | [查看全量 / Full catalogue](https://www.qianfanghub.com/dataset/otorhinolaryngologic-diseases)

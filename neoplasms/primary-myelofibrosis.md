@@ -1,4 +1,4 @@
-# 原发性骨髓纤维化 · Primary myelofibrosis — Top 1 Datasets
+# 原发性骨髓纤维化 · Primary myelofibrosis — Top 3 Datasets
 
 > 所属系统 / System：**[肿瘤 Neoplasms](../README.md)**
 >
@@ -6,14 +6,16 @@
 >
 > *Primary myelofibrosis is a myeloproliferative neoplasm characterized by clonal proliferation of megakaryocytes and granulocytes, accompanied by reactive bone marrow fibrosis that leads to progressive hematopoietic failure. Its pathogenesis is strongly linked to dysregulation of the JAK-STAT pathway, commonly driven by mutations in JAK2, CALR, or MPL genes. Typical clinical features include fatigu…*
 
-💡 *本分类线上共 **1** 个数据集，以下为按站内访问次数排序的 Top 1 （累计访问 15 次）。点击数据集名称直达千方医数集详情页。*
+💡 *本分类线上共 **3** 个数据集，以下为按站内访问次数排序的 Top 3 （累计访问 13 次）。点击数据集名称直达千方医数集详情页。*
 
-💡 *1 datasets in total on QianfangHub; the 1 most-viewed are listed below (15 page views in total). Click any dataset name to open its full profile.*
+💡 *3 datasets in total on QianfangHub; the 3 most-viewed are listed below (13 page views in total). Click any dataset name to open its full profile.*
 
 [← 返回 肿瘤 目录 / Back](../README.md) | [🌐 线上分类页 / Platform](https://www.qianfanghub.com/dataset/neoplasms/primary-myelofibrosis)
 
 | # | 数据集 / Dataset | 简介 / Summary | 模态 / Modality | 规模 / Scale | 访问 / Views | 来源 / Source |
 | :-: | :--- | :--- | :--- | :--- | :-: | :--- |
-| 1 | **[突变ASXL1通过增强独特巨核细胞分化程序加重CALR突变MPN \[患者scRNA-seq\]](https://www.qianfanghub.com/dataset/neoplasms/primary-myelofibrosis/gse299819-mutant-asxl1-exacerbates-calr-mutant-mpn-by-enhancing-a-distinct-megakaryocyte-differentiation-program-patient-scrna-seq-%E7%AA%81%E5%8F%98asxl1%E9%80%9A%E8%BF%87%E5%A2%9E%E5%BC%BA%E7%8B%AC%E7%89%B9%E5%B7%A8%E6%A0%B8%E7%BB%86%E8%83%9E%E5%88%86%E5%8C%96%E7%A8%8B%E5%BA%8F%E5%8A%A0%E9%87%8Dcalr%E7%AA%81%E5%8F%98mpn-%E6%82%A3%E8%80%85scrna-seq)**<br>*GSE299819: Mutant ASXL1 exacerbates CALR-mutant MPN by enhancing a distinct megakaryocyte…* | 该数据集来自NCBI GEO，标题为突变ASXL1通过增强独特巨核细胞分化程序加重CALR突变MPN的患者scRNA-seq | `基因组` | `-` | 15 | [geo](https://ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE299819) |
+| 1 | **莫美替尼对比最佳可用疗法治疗接受过芦可替尼的原发性骨髓纤维化、真性红细胞增多症后骨髓纤维化或原发性血小板增多症后骨髓纤维化贫血或血小板减少受试者疗效的3期随机…**<br>*A Phase 3, Randomized Study To Evaluate the Efficacy of Momelotinib Versus Best Available…* | 知识之桥是一个门户网站，您可以在此展示您的科学成就。主题标签：肿瘤、原发性骨髓纤维化、Momelotinib、Ruxolitinib、3期随机研究、贫血、血小板减少 | `图像` | `-` | 9 | [google_dataset](https://mostwiedzy.pl/en/open-research-data/primary-myelofibrosis-male-66-tissue-image-11290630017293921,11290630017293921-4) |
+| 2 | **GSE299819: Mutant ASXL1 exacerbates CALR-mutant MPN by enhancing a distinct meg…**<br>*GSE299819: Mutant ASXL1 exacerbates CALR-mutant MPN by enhancing a distinct megakaryocyte…* | 本数据集为肿瘤领域的其他公开数据集，来源：geo。 | `其他` | `-` | 2 | [geo](https://ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE299819) |
+| 3 | **原发性骨髓纤维化 - 男性，66岁 - 组织图像 [1129063001729431]**<br>*Primary myelofibrosis - Male, 66 - Tissue image [1129063001729431]* | 知识之桥是一个门户网站，您可以在此展示您的科学成就。主题标签：原发性骨髓纤维化、肿瘤、组织图像、男性、66岁。本站分类：肿瘤/原发性骨髓纤维化 | `图像` | `-` | 2 | [google_dataset](https://mostwiedzy.pl/en/open-research-data/primary-myelofibrosis-male-66-tissue-image-1129063001729431,1129063001729431-4) |
 
 [← 返回 肿瘤 目录 / Back](../README.md) | [🌐 线上分类页 / Platform](https://www.qianfanghub.com/dataset/neoplasms/primary-myelofibrosis) | [查看全量 / Full catalogue](https://www.qianfanghub.com/dataset/neoplasms)

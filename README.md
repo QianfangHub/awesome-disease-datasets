@@ -74,30 +74,30 @@ README.md                     ← 本页：品牌介绍 + 19 大系统导航
 ---
 ## 🗂️ 19 大系统导航 / Disease System Navigation
 
-> 共 **19 大系统 · 1,161 个二级分类 · 本仓库收录 33,500 条 Top 数据集**（线上全量 199,168 条）
-> **19 systems · 1,161 sub-categories · 33,500 curated Top datasets** (full catalogue: 199,168)
+> 共 **19 大系统 · 1,158 个二级分类 · 本仓库收录 27,496 条 Top 数据集**（线上全量 134,992 条）
+> **19 systems · 1,158 sub-categories · 27,496 curated Top datasets** (full catalogue: 134,992)
 
 | # | 系统 / System | 数据集 / Datasets | 二级分类 / Sub-categories | 目录 / Directory | 线上 / Platform |
 | :-: | :--- | :-: | :-: | :--- | :--- |
-| 1 | **肿瘤**<br>*Neoplasms* | 56,194 | 167 | [浏览 Top 100 视图](neoplasms/README.md) | [neoplasms](https://www.qianfanghub.com/dataset/neoplasms) |
-| 2 | **心血管系统疾病**<br>*Cardiovascular Diseases* | 22,861 | 111 | [浏览 Top 100 视图](cardiovascular-diseases/README.md) | [cardiovascular-diseases](https://www.qianfanghub.com/dataset/cardiovascular-diseases) |
-| 3 | **其他**<br>*Other* | 20,932 | 1 | [浏览 Top 100 视图](other/README.md) | [other](https://www.qianfanghub.com/dataset/other) |
-| 4 | **神经系统疾病**<br>*Nervous System Diseases* | 20,569 | 96 | [浏览 Top 100 视图](nervous-system-diseases/README.md) | [nervous-system-diseases](https://www.qianfanghub.com/dataset/nervous-system-diseases) |
-| 5 | **感染**<br>*Infections* | 14,030 | 45 | [浏览 Top 100 视图](infections/README.md) | [infections](https://www.qianfanghub.com/dataset/infections) |
-| 6 | **消化系统疾病**<br>*Digestive System Diseases* | 11,966 | 129 | [浏览 Top 100 视图](digestive-system-diseases/README.md) | [digestive-system-diseases](https://www.qianfanghub.com/dataset/digestive-system-diseases) |
-| 7 | **呼吸道疾病**<br>*Respiratory Tract Diseases* | 10,829 | 58 | [浏览 Top 100 视图](respiratory-tract-diseases/README.md) | [respiratory-tract-diseases](https://www.qianfanghub.com/dataset/respiratory-tract-diseases) |
-| 8 | **内分泌系统疾病**<br>*Endocrine System Diseases* | 8,554 | 74 | [浏览 Top 100 视图](endocrine-system-diseases/README.md) | [endocrine-system-diseases](https://www.qianfanghub.com/dataset/endocrine-system-diseases) |
-| 9 | **泌尿生殖系统疾病**<br>*Urogenital Diseases* | 6,477 | 47 | [浏览 Top 100 视图](urogenital-diseases/README.md) | [urogenital-diseases](https://www.qianfanghub.com/dataset/urogenital-diseases) |
-| 10 | **眼病**<br>*Eye Diseases* | 4,807 | 77 | [浏览 Top 100 视图](eye-diseases/README.md) | [eye-diseases](https://www.qianfanghub.com/dataset/eye-diseases) |
-| 11 | **皮肤与结缔组织疾病**<br>*Skin and Connective Tissue Diseases* | 4,734 | 71 | [浏览 Top 100 视图](skin-and-connective-tissue-diseases/README.md) | [skin-and-connective-tissue-diseases](https://www.qianfanghub.com/dataset/skin-and-connective-tissue-diseases) |
-| 12 | **免疫系统疾病**<br>*Immune System Diseases* | 4,416 | 33 | [浏览 Top 100 视图](immune-system-diseases/README.md) | [immune-system-diseases](https://www.qianfanghub.com/dataset/immune-system-diseases) |
-| 13 | **肌肉骨骼疾病**<br>*Musculoskeletal Diseases* | 4,058 | 1 | [浏览 Top 100 视图](musculoskeletal-diseases/README.md) | [musculoskeletal-diseases](https://www.qianfanghub.com/dataset/musculoskeletal-diseases) |
-| 14 | **血液与淋巴系统疾病**<br>*Hemic and Lymphatic Diseases* | 2,489 | 60 | [浏览 Top 100 视图](hemic-and-lymphatic-diseases/README.md) | [hemic-and-lymphatic-diseases](https://www.qianfanghub.com/dataset/hemic-and-lymphatic-diseases) |
-| 15 | **创伤与损伤**<br>*Wounds and Injuries* | 2,295 | 28 | [浏览 Top 100 视图](wounds-and-injuries/README.md) | [wounds-and-injuries](https://www.qianfanghub.com/dataset/wounds-and-injuries) |
-| 16 | **耳鼻咽喉疾病**<br>*Otorhinolaryngologic Diseases* | 1,960 | 112 | [浏览 Top 100 视图](otorhinolaryngologic-diseases/README.md) | [otorhinolaryngologic-diseases](https://www.qianfanghub.com/dataset/otorhinolaryngologic-diseases) |
-| 17 | **口颌系统疾病**<br>*Stomatognathic Diseases* | 1,406 | 49 | [浏览 Top 100 视图](stomatognathic-diseases/README.md) | [stomatognathic-diseases](https://www.qianfanghub.com/dataset/stomatognathic-diseases) |
-| 18 | **化学诱发性障碍**<br>*Chemically-Induced Disorders* | 430 | 1 | [浏览 Top 100 视图](chemically-induced-disorders/README.md) | [chemically-induced-disorders](https://www.qianfanghub.com/dataset/chemically-induced-disorders) |
-| 19 | **环境因素所致疾病**<br>*Disorders of Environmental Origin* | 161 | 1 | [浏览 Top 100 视图](disorders-of-environmental-origin/README.md) | [disorders-of-environmental-origin](https://www.qianfanghub.com/dataset/disorders-of-environmental-origin) |
+| 1 | **肿瘤**<br>*Neoplasms* | 41,618 | 167 | [浏览 Top 100 视图](neoplasms/README.md) | [neoplasms](https://www.qianfanghub.com/dataset/neoplasms) |
+| 2 | **心血管系统疾病**<br>*Cardiovascular Diseases* | 11,576 | 112 | [浏览 Top 100 视图](cardiovascular-diseases/README.md) | [cardiovascular-diseases](https://www.qianfanghub.com/dataset/cardiovascular-diseases) |
+| 3 | **其他**<br>*Other* | 16,325 | 1 | [浏览 Top 100 视图](other/README.md) | [other](https://www.qianfanghub.com/dataset/other) |
+| 4 | **神经系统疾病**<br>*Nervous System Diseases* | 14,664 | 95 | [浏览 Top 100 视图](nervous-system-diseases/README.md) | [nervous-system-diseases](https://www.qianfanghub.com/dataset/nervous-system-diseases) |
+| 5 | **感染**<br>*Infections* | 8,884 | 45 | [浏览 Top 100 视图](infections/README.md) | [infections](https://www.qianfanghub.com/dataset/infections) |
+| 6 | **消化系统疾病**<br>*Digestive System Diseases* | 7,101 | 127 | [浏览 Top 100 视图](digestive-system-diseases/README.md) | [digestive-system-diseases](https://www.qianfanghub.com/dataset/digestive-system-diseases) |
+| 7 | **呼吸道疾病**<br>*Respiratory Tract Diseases* | 7,052 | 58 | [浏览 Top 100 视图](respiratory-tract-diseases/README.md) | [respiratory-tract-diseases](https://www.qianfanghub.com/dataset/respiratory-tract-diseases) |
+| 8 | **内分泌系统疾病**<br>*Endocrine System Diseases* | 6,043 | 74 | [浏览 Top 100 视图](endocrine-system-diseases/README.md) | [endocrine-system-diseases](https://www.qianfanghub.com/dataset/endocrine-system-diseases) |
+| 9 | **泌尿生殖系统疾病**<br>*Urogenital Diseases* | 4,104 | 47 | [浏览 Top 100 视图](urogenital-diseases/README.md) | [urogenital-diseases](https://www.qianfanghub.com/dataset/urogenital-diseases) |
+| 10 | **眼病**<br>*Eye Diseases* | 3,103 | 77 | [浏览 Top 100 视图](eye-diseases/README.md) | [eye-diseases](https://www.qianfanghub.com/dataset/eye-diseases) |
+| 11 | **皮肤与结缔组织疾病**<br>*Skin and Connective Tissue Diseases* | 2,700 | 72 | [浏览 Top 100 视图](skin-and-connective-tissue-diseases/README.md) | [skin-and-connective-tissue-diseases](https://www.qianfanghub.com/dataset/skin-and-connective-tissue-diseases) |
+| 12 | **免疫系统疾病**<br>*Immune System Diseases* | 3,394 | 33 | [浏览 Top 100 视图](immune-system-diseases/README.md) | [immune-system-diseases](https://www.qianfanghub.com/dataset/immune-system-diseases) |
+| 13 | **肌肉骨骼疾病**<br>*Musculoskeletal Diseases* | 2,604 | 1 | [浏览 Top 100 视图](musculoskeletal-diseases/README.md) | [musculoskeletal-diseases](https://www.qianfanghub.com/dataset/musculoskeletal-diseases) |
+| 14 | **血液与淋巴系统疾病**<br>*Hemic and Lymphatic Diseases* | 1,670 | 59 | [浏览 Top 100 视图](hemic-and-lymphatic-diseases/README.md) | [hemic-and-lymphatic-diseases](https://www.qianfanghub.com/dataset/hemic-and-lymphatic-diseases) |
+| 15 | **创伤与损伤**<br>*Wounds and Injuries* | 1,243 | 28 | [浏览 Top 100 视图](wounds-and-injuries/README.md) | [wounds-and-injuries](https://www.qianfanghub.com/dataset/wounds-and-injuries) |
+| 16 | **耳鼻咽喉疾病**<br>*Otorhinolaryngologic Diseases* | 1,483 | 112 | [浏览 Top 100 视图](otorhinolaryngologic-diseases/README.md) | [otorhinolaryngologic-diseases](https://www.qianfanghub.com/dataset/otorhinolaryngologic-diseases) |
+| 17 | **口颌系统疾病**<br>*Stomatognathic Diseases* | 920 | 48 | [浏览 Top 100 视图](stomatognathic-diseases/README.md) | [stomatognathic-diseases](https://www.qianfanghub.com/dataset/stomatognathic-diseases) |
+| 18 | **化学诱发性障碍**<br>*Chemically-Induced Disorders* | 336 | 1 | [浏览 Top 100 视图](chemically-induced-disorders/README.md) | [chemically-induced-disorders](https://www.qianfanghub.com/dataset/chemically-induced-disorders) |
+| 19 | **环境因素所致疾病**<br>*Disorders of Environmental Origin* | 172 | 1 | [浏览 Top 100 视图](disorders-of-environmental-origin/README.md) | [disorders-of-environmental-origin](https://www.qianfanghub.com/dataset/disorders-of-environmental-origin) |
 
 ---
 

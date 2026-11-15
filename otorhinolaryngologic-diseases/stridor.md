@@ -6,14 +6,14 @@
 >
 > *Stridor is a high-pitched, continuous respiratory sound resulting from turbulent airflow through a partially obstructed upper airway at the level of the larynx, trachea, or main bronchi. It is most common in infants and young children. Etiologies are divided into congenital and acquired causes, including laryngomalacia, acute laryngitis, epiglottitis, airway foreign body, and tracheal stenosis. C…*
 
-💡 *本分类线上共 **1** 个数据集，以下为按站内访问次数排序的 Top 1 （累计访问 8 次）。点击数据集名称直达千方医数集详情页。*
+💡 *本分类线上共 **1** 个数据集，以下为按站内访问次数排序的 Top 1 （累计访问 2 次）。点击数据集名称直达千方医数集详情页。*
 
-💡 *1 datasets in total on QianfangHub; the 1 most-viewed are listed below (8 page views in total). Click any dataset name to open its full profile.*
+💡 *1 datasets in total on QianfangHub; the 1 most-viewed are listed below (2 page views in total). Click any dataset name to open its full profile.*
 
 [← 返回 耳鼻咽喉疾病 目录 / Back](../README.md) | [🌐 线上分类页 / Platform](https://www.qianfanghub.com/dataset/otorhinolaryngologic-diseases/stridor)
 
 | # | 数据集 / Dataset | 简介 / Summary | 模态 / Modality | 规模 / Scale | 访问 / Views | 来源 / Source |
 | :-: | :--- | :--- | :--- | :--- | :-: | :--- |
-| 1 | **[LSTM模型与GRU模型F1分数比较](https://www.qianfanghub.com/dataset/otorhinolaryngologic-diseases/stridor/comparison-of-f1-scores-between-lstm-based-models-and-gru-based-models.-lstm%E6%A8%A1%E5%9E%8B%E4%B8%8Egru%E6%A8%A1%E5%9E%8Bf1%E5%88%86%E6%95%B0%E6%AF%94%E8%BE%83)**<br>*Comparison of F1 scores between LSTM-based models and GRU-based models.* | 该数据集来自plos.figshare.com，包含1个文件（Table 4.xls），用于比较基于LSTM的模型与基于GRU的模型在F1分数上的表现 | `音频` | `-` | 8 | [google_dataset](https://plos.figshare.com/articles/dataset/Comparison_of_i_F1_i_scores_between_LSTM-based_models_and_GRU-based_models_/14895180) |
+| 1 | **[LSTM模型与GRU模型F1分数比较](https://www.qianfanghub.com/dataset/otorhinolaryngologic-diseases/stridor/comparison-of-f1-scores-between-lstm-based-models-and-gru-based-models.-lstm%E6%A8%A1%E5%9E%8B%E4%B8%8Egru%E6%A8%A1%E5%9E%8Bf1%E5%88%86%E6%95%B0%E6%AF%94%E8%BE%83)**<br>*Comparison of F1 scores between LSTM-based models and GRU-based models.* | 该数据集来自plos.figshare.com，包含1个文件（Table 4.xls），用于比较基于LSTM的模型与基于GRU的模型在F1分数上的表现 | `音频` | `-` | 2 | [google_dataset](https://plos.figshare.com/articles/dataset/Comparison_of_i_F1_i_scores_between_LSTM-based_models_and_GRU-based_models_/14895180) |
 
 [← 返回 耳鼻咽喉疾病 目录 / Back](../README.md) | [🌐 线上分类页 / Platform](https://www.qianfanghub.com/dataset/otorhinolaryngologic-diseases/stridor) | [查看全量 / Full catalogue](https://www.qianfanghub.com/dataset/otorhinolaryngologic-diseases)

@@ -6,14 +6,14 @@
 >
 > *Cleidocranial dysplasia is an autosomal dominant skeletal disorder caused by mutations in the RUNX2 gene, leading to defective osteoblast differentiation and bone formation. The classic clinical triad consists of hypoplastic or aplastic clavicles allowing abnormal shoulder mobility, delayed closure of cranial sutures with persistently wide fontanelles, and dental anomalies including delayed erupt…*
 
-💡 *本分类线上共 **1** 个数据集，以下为按站内访问次数排序的 Top 1 （累计访问 42 次）。点击数据集名称直达千方医数集详情页。*
+💡 *本分类线上共 **1** 个数据集，以下为按站内访问次数排序的 Top 1 （累计访问 3 次）。点击数据集名称直达千方医数集详情页。*
 
-💡 *1 datasets in total on QianfangHub; the 1 most-viewed are listed below (42 page views in total). Click any dataset name to open its full profile.*
+💡 *1 datasets in total on QianfangHub; the 1 most-viewed are listed below (3 page views in total). Click any dataset name to open its full profile.*
 
 [← 返回 口颌系统疾病 目录 / Back](../README.md) | [🌐 线上分类页 / Platform](https://www.qianfanghub.com/dataset/stomatognathic-diseases/cleidocranial-dysplasia)
 
 | # | 数据集 / Dataset | 简介 / Summary | 模态 / Modality | 规模 / Scale | 访问 / Views | 来源 / Source |
 | :-: | :--- | :--- | :--- | :--- | :-: | :--- |
-| 1 | **[DECIPHER RUNX2基因表型数据](https://www.qianfanghub.com/dataset/stomatognathic-diseases/cleidocranial-dysplasia/decipher-runx2-gene-overview-decipher-runx2%E5%9F%BA%E5%9B%A0%E8%A1%A8%E5%9E%8B%E6%95%B0%E6%8D%AE)**<br>*DECIPHER RUNX2 Gene Overview* | DECIPHER RUNX2 Gene Overview 是与锁骨颅骨发育不良（Cleidocranial dysplasia）相关的公开数据资源，主要包含RUNX2相关拷贝数变异、序列变异和表型关联概览数据，数据模态为表格，适合用于分类… | `表格` | `-` | 42 | [DECIPHER](https://www.deciphergenomics.org/gene/RUNX2/overview) |
+| 1 | **[DECIPHER RUNX2基因表型数据](https://www.qianfanghub.com/dataset/stomatognathic-diseases/cleidocranial-dysplasia/decipher-runx2-gene-overview-decipher-runx2%E5%9F%BA%E5%9B%A0%E8%A1%A8%E5%9E%8B%E6%95%B0%E6%8D%AE)**<br>*DECIPHER RUNX2 Gene Overview* | DECIPHER RUNX2 Gene Overview 是与锁骨颅骨发育不良（Cleidocranial dysplasia）相关的公开数据资源，主要包含RUNX2相关拷贝数变异、序列变异和表型关联概览数据，数据模态为表格，适合用于分类… | `表格` | `-` | 3 | [DECIPHER](https://www.deciphergenomics.org/gene/RUNX2/overview) |
 
 [← 返回 口颌系统疾病 目录 / Back](../README.md) | [🌐 线上分类页 / Platform](https://www.qianfanghub.com/dataset/stomatognathic-diseases/cleidocranial-dysplasia) | [查看全量 / Full catalogue](https://www.qianfanghub.com/dataset/stomatognathic-diseases)

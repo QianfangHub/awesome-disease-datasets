@@ -8,12 +8,12 @@
 
 *Musculoskeletal diseases encompass a wide range of conditions affecting the bones, joints, muscles, tendons, ligaments, and peripheral nerves, leading to pain, stiffness, deformity, and functional impairment that substantially diminish quality of life. The pathogenesis is multifactorial, involving degenerative changes, autoimmune responses, metabolic imbalances, trauma, and genetic predisposition. Common examples include osteoarthritis, rheumatoid arthritis, and osteoporosis. With an aging global population, the prevalence of these disorders continues to rise, posing a major public health challenge. Multidisciplinary approaches are essential for management, and recent advances in regenerative medicine, biomechanics, and precision medicine are fostering personalized treatment strategies. In clinical data platforms and biomedical research, musculoskeletal diseases represent a pivotal domain, integrating epidemiological data, imaging biomarkers, genomic insights, and artificial intelligence-driven models to enhance risk assessment, early diagnosis, and therapeutic monitoring.*
 
-💡 *本级共 **1** 个二级分类、**4,058** 个数据集；本仓库展示其中 100 条 Top 数据集。*
+💡 *本级共 **1** 个二级分类、**2,604** 个数据集；本仓库展示其中 100 条 Top 数据集。*
 
 [← 返回主目录 / Back to README](../README.md) | [🌐 线上分类页 / Platform](https://www.qianfanghub.com/dataset/musculoskeletal-diseases)
 
 | # | 二级分类 / Sub-category | 数据集 / Datasets | 本仓库视图 / View | 线上 / Platform |
 | :-: | :--- | :-: | :--- | :--- |
-| 1 | **其他**<br>*Musculoskeletal Diseases Other* | 4,058 | [Top 100](musculoskeletal-diseases-other.md) | [musculoskeletal-diseases-other](https://www.qianfanghub.com/dataset/musculoskeletal-diseases/musculoskeletal-diseases-other) |
+| 1 | **其他**<br>*Musculoskeletal Diseases Other* | 2,604 | [Top 100](musculoskeletal-diseases-other.md) | [musculoskeletal-diseases-other](https://www.qianfanghub.com/dataset/musculoskeletal-diseases/musculoskeletal-diseases-other) |
 
 [← 返回主目录 / Back to README](../README.md) | [🌐 线上分类页 / Platform](https://www.qianfanghub.com/dataset/musculoskeletal-diseases)
